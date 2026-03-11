@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Order_Time,City,Warehouse_ID,Product_ID,Product_Category,Product_Name,Price,Quantity,Stock_Available,Delivery_Partner,Delivery_Time_Minutes,Customer_Rating,Payment_Method,Revenue,Month,Day,Order_Year,Order_Month,Delivery_Speed,Stock_Status
+QC1000,2025-04-08,16:47,Chennai,W3,P190,Bakery,Bread,79,5,26,Ravi,25,3.1,UPI,395,April,Tuesday,2025,4,Fast,In Stock
+QC1001,2025-02-18,18:52,Mumbai,W2,P884,Frozen,Ice Cream,193,2,20,Karthik,20,3.1,COD,386,February,Tuesday,2025,2,Fast,In Stock
+QC1002,2025-03-19,21:43,Chennai,W2,P500,Dairy,Milk 1L,118,4,33,Vikram,27,3.3,UPI,472,March,Wednesday,2025,3,Fast,In Stock
+QC1003,2025-03-14,09:24,Bangalore,W6,P796,Bakery,Cake,61,5,37,Aman,15,3.6,UPI,305,March,Friday,2025,3,Fast,In Stock
+QC1004,2025-04-21,08:56,Pune,W4,P138,Beverages,Energy Drink,41,5,46,Rahul,48,3.7,CARD,205,April,Monday,2025,4,Medium,In Stock
+QC1005,2025-04-24,14:25,Hyderabad,W2,P502,Dairy,Butter,156,2,22,Ravi,44,4.0,UPI,312,April,Thursday,2025,4,Medium,In Stock
+QC1006,2025-04-16,12:36,Bangalore,W2,P144,Bakery,Cake,112,2,11,Suresh,31,3.8,UPI,224,April,Wednesday,2025,4,Medium,Low Stock
+QC1007,2025-04-23,12:54,Bangalore,W5,P856,Dairy,Curd,161,5,25,Rahul,22,4.3,COD,805,April,Wednesday,2025,4,Fast,In Stock
+QC1008,2025-05-30,09:42,Pune,W5,P811,Beverages,Juice,167,5,6,Sameer,19,4.7,WALLET,835,May,Friday,2025,5,Fast,Low Stock
+QC1009,2025-02-26,15:24,Mumbai,W1,P683,Dairy,Butter,139,4,0,Karthik,50,3.4,WALLET,556,February,Wednesday,2025,2,Medium,Low Stock
+QC1010,2025-02-17,11:05,Mumbai,W5,P578,Frozen,Ice Cream,113,4,35,Rahul,42,3.9,COD,452,February,Monday,2025,2,Medium,In Stock
+QC1011,2025-05-20,23:49,Bangalore,W6,P412,Dairy,Milk 1L,216,2,1,Rahul,43,3.7,CARD,432,May,Tuesday,2025,5,Medium,Low Stock
+QC1012,2025-01-27,11:53,Chennai,W6,P970,Frozen,Ice Cream,163,1,10,Suresh,30,4.5,COD,163,January,Monday,2025,1,Medium,Low Stock
+QC1013,2025-01-17,08:57,Hyderabad,W3,P400,Beverages,Juice,31,2,48,Sameer,32,4.1,UPI,62,January,Friday,2025,1,Medium,In Stock
+QC1014,2025-04-05,16:14,Delhi,W5,P867,Bakery,Buns,116,5,19,Vikram,13,4.2,WALLET,580,April,Saturday,2025,4,Fast,Low Stock
+QC1015,2025-01-13,23:15,Delhi,W3,P276,Frozen,Frozen Peas,162,4,58,Ravi,32,4.4,CARD,648,January,Monday,2025,1,Medium,In Stock
+QC1016,2025-03-16,15:55,Mumbai,W1,P505,Fruits,Apple,49,2,2,Sameer,24,4.3,COD,98,March,Sunday,2025,3,Fast,Low Stock
+QC1017,2025-04-05,23:15,Pune,W1,P106,Frozen,Ice Cream,41,1,7,Vikram,42,4.5,COD,41,April,Saturday,2025,4,Medium,Low Stock
+QC1018,2025-03-05,15:14,Delhi,W1,P485,Fruits,Apple,103,3,16,Vikram,45,3.6,UPI,309,March,Wednesday,2025,3,Medium,Low Stock
+QC1019,2025-02-28,15:09,Pune,W4,P543,Fruits,Banana,149,4,49,Karthik,30,4.7,CARD,596,February,Friday,2025,2,Medium,In Stock
+QC1020,2025-03-27,09:26,Hyderabad,W1,P876,Bakery,Buns,241,3,47,Suresh,48,4.0,WALLET,723,March,Thursday,2025,3,Medium,In Stock
+QC1021,2025-02-18,16:11,Hyderabad,W4,P416,Dairy,Curd,131,2,58,Arjun,40,3.4,UPI,262,February,Tuesday,2025,2,Medium,In Stock
+QC1022,2025-01-14,14:39,Delhi,W4,P943,Snacks,Nachos,199,3,21,Suresh,37,3.4,WALLET,597,January,Tuesday,2025,1,Medium,In Stock
+QC1023,2025-06-01,20:45,Chennai,W2,P143,Bakery,Cake,39,1,15,Sameer,46,4.6,COD,39,June,Sunday,2025,6,Medium,Low Stock
+QC1024,2025-01-02,23:08,Pune,W6,P635,Frozen,Frozen Peas,81,3,20,Aman,12,4.0,WALLET,243,January,Thursday,2025,1,Fast,In Stock
+QC1025,2025-03-27,14:53,Pune,W6,P712,Frozen,Ice Cream,167,5,35,Sameer,10,3.6,WALLET,835,March,Thursday,2025,3,Fast,In Stock
+QC1026,2025-04-28,09:07,Hyderabad,W6,P385,Snacks,Biscuits,150,3,45,Suresh,22,4.7,WALLET,450,April,Monday,2025,4,Fast,In Stock
+QC1027,2025-02-28,10:30,Pune,W3,P619,Snacks,Potato Chips,151,4,35,Sameer,12,3.6,COD,604,February,Friday,2025,2,Fast,In Stock
+QC1028,2025-06-03,09:40,Delhi,W1,P975,Dairy,Curd,93,2,53,Vikram,21,3.3,UPI,186,June,Tuesday,2025,6,Fast,In Stock
+QC1029,2025-05-01,19:10,Hyderabad,W6,P297,Beverages,Energy Drink,67,1,13,Aman,15,4.8,COD,67,May,Thursday,2025,5,Fast,Low Stock
+QC1030,2025-02-08,21:54,Bangalore,W2,P360,Fruits,Apple,175,1,24,Suresh,24,3.8,CARD,175,February,Saturday,2025,2,Fast,In Stock
+QC1031,2025-01-12,18:52,Delhi,W6,P800,Beverages,Energy Drink,31,2,49,Arjun,46,3.8,UPI,62,January,Sunday,2025,1,Medium,In Stock
+QC1032,2025-06-29,15:54,Mumbai,W6,P194,Frozen,Ice Cream,174,5,53,Arjun,39,3.6,WALLET,870,June,Sunday,2025,6,Medium,In Stock
+QC1033,2025-02-12,11:28,Bangalore,W1,P799,Fruits,Banana,135,2,18,Arjun,37,3.8,CARD,270,February,Wednesday,2025,2,Medium,Low Stock
+QC1034,2025-06-08,13:59,Chennai,W2,P183,Frozen,Frozen Peas,30,3,44,Karthik,30,4.8,WALLET,90,June,Sunday,2025,6,Medium,In Stock
+QC1035,2025-04-23,17:17,Bangalore,W6,P181,Dairy,Milk 1L,59,1,34,Rahul,20,4.1,WALLET,59,April,Wednesday,2025,4,Fast,In Stock
+QC1036,2025-03-07,08:33,Mumbai,W4,P637,Fruits,Apple,227,5,5,Karthik,50,4.9,UPI,1135,March,Friday,2025,3,Medium,Low Stock
+QC1037,2025-05-24,15:43,Bangalore,W5,P632,Bakery,Buns,33,1,59,Sameer,21,3.2,UPI,33,May,Saturday,2025,5,Fast,In Stock
+QC1038,2025-05-31,18:16,Chennai,W2,P578,Fruits,Apple,171,4,6,Vikram,35,4.2,UPI,684,May,Saturday,2025,5,Medium,Low Stock
+QC1039,2025-03-10,13:41,Hyderabad,W3,P250,Beverages,Energy Drink,87,2,42,Rahul,18,3.5,UPI,174,March,Monday,2025,3,Fast,In Stock
+QC1040,2025-04-23,20:47,Pune,W2,P853,Fruits,Banana,217,1,14,Sameer,11,3.7,CARD,217,April,Wednesday,2025,4,Fast,Low Stock
+QC1041,2025-02-20,09:07,Chennai,W2,P208,Snacks,Biscuits,59,1,15,Sameer,28,3.6,UPI,59,February,Thursday,2025,2,Fast,Low Stock
+QC1042,2025-03-07,16:54,Delhi,W1,P153,Fruits,Apple,59,1,15,Karthik,42,4.4,COD,59,March,Friday,2025,3,Medium,Low Stock
+QC1043,2025-06-23,14:46,Hyderabad,W5,P310,Bakery,Cake,247,1,60,Vikram,17,3.4,UPI,247,June,Monday,2025,6,Fast,In Stock
+QC1044,2025-03-08,11:10,Hyderabad,W1,P108,Frozen,Frozen Peas,131,3,36,Aman,38,3.5,COD,393,March,Saturday,2025,3,Medium,In Stock
+QC1045,2025-01-15,10:31,Mumbai,W5,P333,Fruits,Banana,121,4,59,Aman,11,4.3,COD,484,January,Wednesday,2025,1,Fast,In Stock
+QC1046,2025-06-13,11:47,Pune,W6,P261,Fruits,Apple,76,3,19,Aman,12,3.1,WALLET,228,June,Friday,2025,6,Fast,Low Stock
+QC1047,2025-06-08,18:34,Pune,W1,P189,Dairy,Milk 1L,130,5,24,Karthik,17,3.7,UPI,650,June,Sunday,2025,6,Fast,In Stock
+QC1048,2025-03-27,12:54,Hyderabad,W4,P883,Bakery,Buns,128,1,27,Sameer,34,3.5,COD,128,March,Thursday,2025,3,Medium,In Stock
+QC1049,2025-01-25,18:05,Delhi,W5,P315,Beverages,Juice,121,3,20,Rahul,11,3.8,CARD,363,January,Saturday,2025,1,Fast,In Stock
+QC1050,2025-03-06,15:08,Pune,W1,P511,Dairy,Milk 1L,183,4,40,Vikram,50,3.1,CARD,732,March,Thursday,2025,3,Medium,In Stock
+QC1051,2025-05-25,14:54,Pune,W3,P203,Bakery,Cake,188,1,0,Vikram,47,4.9,CARD,188,May,Sunday,2025,5,Medium,Low Stock
+QC1052,2025-06-21,12:13,Chennai,W3,P162,Beverages,Soft Drink,148,1,37,Rahul,31,3.0,WALLET,148,June,Saturday,2025,6,Medium,In Stock
+QC1053,2025-01-25,19:50,Pune,W4,P851,Snacks,Nachos,183,2,6,Rahul,39,4.3,WALLET,366,January,Saturday,2025,1,Medium,Low Stock
+QC1054,2025-05-22,08:49,Hyderabad,W5,P773,Fruits,Banana,231,2,25,Karthik,24,3.5,COD,462,May,Thursday,2025,5,Fast,In Stock
+QC1055,2025-04-10,20:46,Chennai,W1,P931,Snacks,Nachos,173,3,35,Arjun,49,3.8,UPI,519,April,Thursday,2025,4,Medium,In Stock
+QC1056,2025-02-21,12:13,Bangalore,W1,P490,Fruits,Orange,133,3,9,Sameer,40,3.6,WALLET,399,February,Friday,2025,2,Medium,Low Stock
+QC1057,2025-04-24,22:35,Bangalore,W4,P308,Dairy,Milk 1L,106,3,43,Vikram,49,4.9,COD,318,April,Thursday,2025,4,Medium,In Stock
+QC1058,2025-06-24,17:15,Hyderabad,W4,P951,Snacks,Biscuits,176,3,38,Aman,20,3.9,COD,528,June,Tuesday,2025,6,Fast,In Stock
+QC1059,2025-06-09,18:26,Mumbai,W5,P186,Beverages,Energy Drink,187,1,34,Ravi,48,4.5,CARD,187,June,Monday,2025,6,Medium,In Stock
+QC1060,2025-04-17,15:05,Mumbai,W2,P186,Beverages,Juice,127,4,15,Sameer,19,4.2,COD,508,April,Thursday,2025,4,Fast,Low Stock
+QC1061,2025-05-02,18:40,Pune,W3,P157,Beverages,Soft Drink,120,5,11,Vikram,34,3.5,COD,600,May,Friday,2025,5,Medium,Low Stock
+QC1062,2025-03-24,17:02,Pune,W1,P150,Dairy,Milk 1L,194,4,50,Sameer,26,3.8,CARD,776,March,Monday,2025,3,Fast,In Stock
+QC1063,2025-06-01,23:36,Delhi,W3,P172,Snacks,Potato Chips,177,4,5,Sameer,22,4.4,COD,708,June,Sunday,2025,6,Fast,Low Stock
+QC1064,2025-01-04,19:42,Hyderabad,W2,P188,Fruits,Apple,108,5,57,Aman,15,4.5,WALLET,540,January,Saturday,2025,1,Fast,In Stock
+QC1065,2025-05-23,12:21,Delhi,W2,P359,Beverages,Energy Drink,38,3,22,Aman,27,4.8,CARD,114,May,Friday,2025,5,Fast,In Stock
+QC1066,2025-05-06,19:36,Mumbai,W2,P530,Dairy,Milk 1L,62,4,36,Sameer,15,4.7,COD,248,May,Tuesday,2025,5,Fast,In Stock
+QC1067,2025-03-31,17:24,Pune,W4,P270,Fruits,Banana,165,1,48,Sameer,43,4.8,WALLET,165,March,Monday,2025,3,Medium,In Stock
+QC1068,2025-02-17,10:05,Delhi,W1,P907,Frozen,Frozen Peas,189,5,25,Suresh,25,4.0,UPI,945,February,Monday,2025,2,Fast,In Stock
+QC1069,2025-02-27,14:01,Mumbai,W1,P538,Snacks,Potato Chips,149,1,4,Sameer,41,5.0,COD,149,February,Thursday,2025,2,Medium,Low Stock
+QC1070,2025-01-21,22:10,Chennai,W6,P213,Dairy,Curd,104,5,41,Sameer,24,4.0,WALLET,520,January,Tuesday,2025,1,Fast,In Stock
+QC1071,2025-03-04,17:23,Delhi,W5,P931,Frozen,Frozen Peas,250,5,27,Vikram,38,4.0,CARD,1250,March,Tuesday,2025,3,Medium,In Stock
+QC1072,2025-03-20,16:55,Pune,W5,P591,Bakery,Cake,234,1,3,Aman,32,4.9,UPI,234,March,Thursday,2025,3,Medium,Low Stock
+QC1073,2025-01-15,12:39,Hyderabad,W3,P409,Snacks,Potato Chips,180,5,8,Aman,17,4.5,CARD,900,January,Wednesday,2025,1,Fast,Low Stock
+QC1074,2025-05-09,15:20,Hyderabad,W4,P311,Frozen,Frozen Peas,178,2,32,Ravi,34,3.0,COD,356,May,Friday,2025,5,Medium,In Stock
+QC1075,2025-02-06,14:37,Bangalore,W5,P833,Frozen,Frozen Peas,149,3,50,Suresh,30,3.4,WALLET,447,February,Thursday,2025,2,Medium,In Stock
+QC1076,2025-06-21,15:40,Hyderabad,W4,P363,Snacks,Potato Chips,64,4,11,Suresh,47,4.4,UPI,256,June,Saturday,2025,6,Medium,Low Stock
+QC1077,2025-03-04,17:07,Mumbai,W2,P783,Bakery,Buns,194,1,29,Rahul,42,3.8,UPI,194,March,Tuesday,2025,3,Medium,In Stock
+QC1078,2025-03-26,10:18,Mumbai,W2,P127,Frozen,Ice Cream,245,1,2,Sameer,27,4.0,CARD,245,March,Wednesday,2025,3,Fast,Low Stock
+QC1079,2025-05-29,12:43,Mumbai,W5,P874,Snacks,Biscuits,69,2,18,Sameer,32,3.1,WALLET,138,May,Thursday,2025,5,Medium,Low Stock
+QC1080,2025-05-06,12:39,Bangalore,W2,P821,Dairy,Milk 1L,143,5,51,Karthik,25,4.3,UPI,715,May,Tuesday,2025,5,Fast,In Stock
+QC1081,2025-06-16,23:24,Delhi,W3,P308,Bakery,Buns,188,5,31,Aman,10,4.8,WALLET,940,June,Monday,2025,6,Fast,In Stock
+QC1082,2025-03-04,11:48,Mumbai,W5,P187,Bakery,Bread,118,2,45,Rahul,43,4.3,COD,236,March,Tuesday,2025,3,Medium,In Stock
+QC1083,2025-04-12,13:28,Hyderabad,W2,P337,Fruits,Apple,150,4,30,Suresh,50,4.3,CARD,600,April,Saturday,2025,4,Medium,In Stock
+QC1084,2025-01-20,15:13,Delhi,W2,P898,Beverages,Energy Drink,138,5,24,Suresh,36,3.6,WALLET,690,January,Monday,2025,1,Medium,In Stock
+QC1085,2025-05-20,20:15,Bangalore,W1,P844,Fruits,Banana,41,3,3,Karthik,12,3.8,CARD,123,May,Tuesday,2025,5,Fast,Low Stock
+QC1086,2025-06-18,15:58,Pune,W1,P494,Snacks,Potato Chips,119,3,25,Arjun,27,3.8,CARD,357,June,Wednesday,2025,6,Fast,In Stock
+QC1087,2025-06-13,23:55,Bangalore,W3,P177,Snacks,Biscuits,211,3,48,Arjun,10,4.2,COD,633,June,Friday,2025,6,Fast,In Stock
+QC1088,2025-04-06,12:51,Hyderabad,W6,P684,Snacks,Biscuits,211,4,45,Arjun,33,3.9,WALLET,844,April,Sunday,2025,4,Medium,In Stock
+QC1089,2025-01-10,19:52,Delhi,W4,P997,Beverages,Energy Drink,131,4,30,Rahul,48,3.6,UPI,524,January,Friday,2025,1,Medium,In Stock
+QC1090,2025-05-21,14:14,Chennai,W6,P286,Bakery,Buns,212,2,53,Sameer,47,4.7,UPI,424,May,Wednesday,2025,5,Medium,In Stock
+QC1091,2025-05-19,11:37,Delhi,W6,P102,Snacks,Biscuits,69,4,56,Vikram,34,4.6,COD,276,May,Monday,2025,5,Medium,In Stock
+QC1092,2025-04-20,23:32,Pune,W1,P876,Beverages,Juice,38,1,36,Suresh,31,3.1,UPI,38,April,Sunday,2025,4,Medium,In Stock
+QC1093,2025-06-15,09:05,Chennai,W5,P420,Frozen,Frozen Peas,33,3,27,Karthik,39,4.5,COD,99,June,Sunday,2025,6,Medium,In Stock
+QC1094,2025-02-18,18:09,Mumbai,W5,P454,Bakery,Cake,47,3,33,Vikram,30,3.2,UPI,141,February,Tuesday,2025,2,Medium,In Stock
+QC1095,2025-01-23,09:07,Pune,W1,P728,Fruits,Orange,215,2,41,Vikram,22,3.6,UPI,430,January,Thursday,2025,1,Fast,In Stock
+QC1096,2025-05-10,15:20,Pune,W6,P564,Fruits,Apple,161,2,44,Suresh,24,3.0,COD,322,May,Saturday,2025,5,Fast,In Stock
+QC1097,2025-06-21,09:52,Delhi,W3,P257,Dairy,Milk 1L,195,3,2,Vikram,22,4.6,CARD,585,June,Saturday,2025,6,Fast,Low Stock
+QC1098,2025-04-02,09:53,Pune,W4,P603,Snacks,Potato Chips,190,4,38,Suresh,42,4.2,UPI,760,April,Wednesday,2025,4,Medium,In Stock
+QC1099,2025-01-23,13:23,Delhi,W5,P752,Dairy,Curd,205,1,52,Ravi,14,4.0,CARD,205,January,Thursday,2025,1,Fast,In Stock
+QC1100,2025-01-08,12:42,Mumbai,W4,P989,Dairy,Curd,68,4,40,Aman,43,4.3,CARD,272,January,Wednesday,2025,1,Medium,In Stock
+QC1101,2025-05-06,14:02,Hyderabad,W2,P622,Fruits,Apple,182,5,18,Karthik,19,3.1,COD,910,May,Tuesday,2025,5,Fast,Low Stock
+QC1102,2025-06-30,16:05,Hyderabad,W1,P398,Beverages,Energy Drink,71,4,11,Sameer,20,3.7,UPI,284,June,Monday,2025,6,Fast,Low Stock
+QC1103,2025-04-24,15:41,Delhi,W2,P239,Beverages,Energy Drink,223,3,20,Sameer,25,3.7,WALLET,669,April,Thursday,2025,4,Fast,In Stock
+QC1104,2025-05-11,19:28,Delhi,W6,P232,Bakery,Bread,200,3,13,Aman,37,4.5,WALLET,600,May,Sunday,2025,5,Medium,Low Stock
+QC1105,2025-01-30,10:40,Delhi,W4,P652,Snacks,Biscuits,223,2,4,Sameer,37,3.1,UPI,446,January,Thursday,2025,1,Medium,Low Stock
+QC1106,2025-01-16,20:04,Mumbai,W2,P278,Fruits,Apple,218,5,52,Suresh,44,3.0,CARD,1090,January,Thursday,2025,1,Medium,In Stock
+QC1107,2025-04-30,10:54,Bangalore,W1,P472,Beverages,Juice,221,2,10,Rahul,12,4.4,COD,442,April,Wednesday,2025,4,Fast,Low Stock
+QC1108,2025-01-27,12:44,Mumbai,W4,P653,Bakery,Buns,155,5,35,Sameer,10,4.4,COD,775,January,Monday,2025,1,Fast,In Stock
+QC1109,2025-05-15,11:31,Mumbai,W3,P557,Bakery,Bread,144,2,48,Arjun,10,3.5,CARD,288,May,Thursday,2025,5,Fast,In Stock
+QC1110,2025-01-02,18:00,Mumbai,W5,P587,Snacks,Biscuits,187,5,17,Vikram,29,4.9,WALLET,935,January,Thursday,2025,1,Fast,Low Stock
+QC1111,2025-01-30,09:31,Pune,W1,P460,Frozen,Ice Cream,63,3,32,Sameer,30,4.9,CARD,189,January,Thursday,2025,1,Medium,In Stock
+QC1112,2025-01-27,17:09,Hyderabad,W1,P839,Bakery,Bread,236,3,33,Ravi,47,4.6,CARD,708,January,Monday,2025,1,Medium,In Stock
+QC1113,2025-05-20,10:09,Mumbai,W5,P148,Snacks,Nachos,38,1,39,Sameer,20,3.1,WALLET,38,May,Tuesday,2025,5,Fast,In Stock
+QC1114,2025-05-16,23:46,Delhi,W1,P537,Dairy,Milk 1L,154,3,35,Karthik,48,4.9,COD,462,May,Friday,2025,5,Medium,In Stock
+QC1115,2025-03-03,15:00,Bangalore,W6,P428,Snacks,Nachos,30,3,26,Suresh,40,4.6,COD,90,March,Monday,2025,3,Medium,In Stock
+QC1116,2025-01-31,15:38,Hyderabad,W1,P855,Frozen,Ice Cream,212,2,29,Arjun,31,3.2,COD,424,January,Friday,2025,1,Medium,In Stock
+QC1117,2025-04-25,22:28,Mumbai,W2,P724,Frozen,Frozen Peas,45,5,29,Vikram,45,4.0,COD,225,April,Friday,2025,4,Medium,In Stock
+QC1118,2025-02-15,17:45,Hyderabad,W5,P184,Bakery,Bread,128,1,18,Vikram,22,3.7,CARD,128,February,Saturday,2025,2,Fast,Low Stock
+QC1119,2025-01-25,20:27,Delhi,W1,P211,Bakery,Bread,140,2,4,Arjun,44,4.4,CARD,280,January,Saturday,2025,1,Medium,Low Stock
+QC1120,2025-05-20,08:09,Bangalore,W4,P499,Snacks,Potato Chips,171,2,19,Sameer,29,4.1,COD,342,May,Tuesday,2025,5,Fast,Low Stock
+QC1121,2025-06-02,09:15,Chennai,W5,P441,Fruits,Banana,90,3,26,Suresh,32,3.3,COD,270,June,Monday,2025,6,Medium,In Stock
+QC1122,2025-06-02,09:09,Chennai,W1,P880,Beverages,Juice,162,3,17,Aman,39,4.6,WALLET,486,June,Monday,2025,6,Medium,Low Stock
+QC1123,2025-02-01,12:44,Bangalore,W3,P422,Frozen,Frozen Peas,190,2,8,Suresh,23,3.7,CARD,380,February,Saturday,2025,2,Fast,Low Stock
+QC1124,2025-03-07,13:02,Pune,W6,P105,Fruits,Apple,219,1,59,Ravi,35,4.6,COD,219,March,Friday,2025,3,Medium,In Stock
+QC1125,2025-05-11,21:23,Chennai,W6,P162,Beverages,Soft Drink,70,2,21,Vikram,16,4.0,COD,140,May,Sunday,2025,5,Fast,In Stock
+QC1126,2025-01-15,16:36,Mumbai,W2,P403,Dairy,Butter,141,3,22,Karthik,33,3.3,CARD,423,January,Wednesday,2025,1,Medium,In Stock
+QC1127,2025-01-10,21:01,Mumbai,W4,P456,Beverages,Juice,142,1,55,Ravi,26,4.5,UPI,142,January,Friday,2025,1,Fast,In Stock
+QC1128,2025-06-11,17:04,Pune,W1,P653,Beverages,Juice,52,4,1,Karthik,37,4.2,CARD,208,June,Wednesday,2025,6,Medium,Low Stock
+QC1129,2025-05-14,16:30,Chennai,W1,P624,Bakery,Cake,98,3,12,Sameer,26,3.6,WALLET,294,May,Wednesday,2025,5,Fast,Low Stock
+QC1130,2025-06-16,16:50,Mumbai,W5,P921,Snacks,Biscuits,165,5,59,Vikram,43,4.9,CARD,825,June,Monday,2025,6,Medium,In Stock
+QC1131,2025-02-11,15:56,Delhi,W1,P654,Frozen,Frozen Peas,79,3,12,Aman,14,4.1,CARD,237,February,Tuesday,2025,2,Fast,Low Stock
+QC1132,2025-04-30,23:37,Pune,W3,P322,Dairy,Milk 1L,165,1,54,Rahul,27,3.1,COD,165,April,Wednesday,2025,4,Fast,In Stock
+QC1133,2025-03-20,23:21,Bangalore,W5,P701,Frozen,Ice Cream,136,1,25,Arjun,48,4.0,CARD,136,March,Thursday,2025,3,Medium,In Stock
+QC1134,2025-06-14,09:23,Bangalore,W6,P734,Dairy,Butter,30,5,40,Rahul,32,4.6,COD,150,June,Saturday,2025,6,Medium,In Stock
+QC1135,2025-02-04,11:05,Hyderabad,W1,P876,Snacks,Potato Chips,234,1,54,Aman,42,3.3,WALLET,234,February,Tuesday,2025,2,Medium,In Stock
+QC1136,2025-03-18,08:15,Delhi,W2,P576,Frozen,Ice Cream,147,2,13,Karthik,31,3.1,UPI,294,March,Tuesday,2025,3,Medium,Low Stock
+QC1137,2025-01-02,11:17,Bangalore,W5,P541,Bakery,Buns,72,3,2,Aman,36,3.3,COD,216,January,Thursday,2025,1,Medium,Low Stock
+QC1138,2025-04-26,22:42,Mumbai,W2,P166,Beverages,Energy Drink,167,4,56,Aman,22,3.3,CARD,668,April,Saturday,2025,4,Fast,In Stock
+QC1139,2025-05-28,22:33,Hyderabad,W3,P396,Bakery,Buns,163,3,31,Ravi,29,4.8,COD,489,May,Wednesday,2025,5,Fast,In Stock
+QC1140,2025-04-01,09:31,Mumbai,W4,P323,Beverages,Energy Drink,37,5,54,Aman,25,3.2,UPI,185,April,Tuesday,2025,4,Fast,In Stock
+QC1141,2025-04-28,22:40,Pune,W3,P106,Bakery,Buns,49,5,54,Aman,36,3.5,COD,245,April,Monday,2025,4,Medium,In Stock
+QC1142,2025-06-13,16:24,Mumbai,W2,P662,Bakery,Cake,249,1,10,Arjun,49,3.8,CARD,249,June,Friday,2025,6,Medium,Low Stock
+QC1143,2025-01-31,13:48,Chennai,W6,P609,Fruits,Orange,52,1,36,Vikram,15,4.8,UPI,52,January,Friday,2025,1,Fast,In Stock
+QC1144,2025-02-10,12:27,Mumbai,W4,P944,Fruits,Orange,69,4,40,Karthik,35,3.8,UPI,276,February,Monday,2025,2,Medium,In Stock
+QC1145,2025-01-16,09:00,Mumbai,W4,P272,Beverages,Juice,163,4,49,Vikram,11,4.9,WALLET,652,January,Thursday,2025,1,Fast,In Stock
+QC1146,2025-06-14,17:26,Bangalore,W4,P971,Beverages,Soft Drink,181,5,26,Arjun,14,4.5,CARD,905,June,Saturday,2025,6,Fast,In Stock
+QC1147,2025-06-06,21:27,Bangalore,W2,P717,Frozen,Ice Cream,229,3,19,Aman,31,3.4,COD,687,June,Friday,2025,6,Medium,Low Stock
+QC1148,2025-04-21,23:13,Chennai,W2,P704,Frozen,Frozen Peas,69,4,40,Vikram,46,3.0,WALLET,276,April,Monday,2025,4,Medium,In Stock
+QC1149,2025-05-09,23:31,Bangalore,W1,P187,Bakery,Buns,248,4,55,Suresh,29,3.6,UPI,992,May,Friday,2025,5,Fast,In Stock
+QC1150,2025-06-01,16:06,Hyderabad,W2,P337,Beverages,Juice,181,1,60,Aman,38,3.7,COD,181,June,Sunday,2025,6,Medium,In Stock
+QC1151,2025-03-24,12:20,Bangalore,W1,P708,Snacks,Nachos,120,4,29,Karthik,44,3.7,WALLET,480,March,Monday,2025,3,Medium,In Stock
+QC1152,2025-05-28,12:01,Pune,W5,P917,Snacks,Biscuits,174,2,3,Vikram,17,5.0,COD,348,May,Wednesday,2025,5,Fast,Low Stock
+QC1153,2025-06-23,23:02,Hyderabad,W5,P380,Fruits,Orange,164,4,27,Rahul,30,3.6,UPI,656,June,Monday,2025,6,Medium,In Stock
+QC1154,2025-05-06,13:45,Bangalore,W2,P939,Dairy,Milk 1L,249,3,8,Ravi,15,4.6,COD,747,May,Tuesday,2025,5,Fast,Low Stock
+QC1155,2025-03-06,21:35,Hyderabad,W3,P837,Snacks,Potato Chips,232,2,14,Vikram,23,3.8,CARD,464,March,Thursday,2025,3,Fast,Low Stock
+QC1156,2025-02-13,17:15,Hyderabad,W6,P861,Beverages,Soft Drink,81,3,5,Ravi,31,4.2,WALLET,243,February,Thursday,2025,2,Medium,Low Stock
+QC1157,2025-01-28,08:02,Hyderabad,W6,P918,Frozen,Ice Cream,81,3,13,Karthik,12,3.0,CARD,243,January,Tuesday,2025,1,Fast,Low Stock
+QC1158,2025-05-22,11:35,Delhi,W4,P155,Dairy,Curd,183,1,4,Aman,48,3.9,UPI,183,May,Thursday,2025,5,Medium,Low Stock
+QC1159,2025-03-14,16:17,Chennai,W1,P346,Dairy,Milk 1L,233,3,41,Ravi,35,4.1,CARD,699,March,Friday,2025,3,Medium,In Stock
+QC1160,2025-04-16,14:59,Delhi,W2,P215,Frozen,Frozen Peas,231,3,33,Arjun,24,3.8,WALLET,693,April,Wednesday,2025,4,Fast,In Stock
+QC1161,2025-02-17,08:03,Delhi,W5,P339,Frozen,Frozen Peas,131,3,43,Vikram,35,4.2,WALLET,393,February,Monday,2025,2,Medium,In Stock
+QC1162,2025-06-05,18:36,Delhi,W5,P234,Frozen,Ice Cream,95,4,60,Suresh,35,3.6,WALLET,380,June,Thursday,2025,6,Medium,In Stock
+QC1163,2025-05-27,22:44,Mumbai,W1,P180,Beverages,Soft Drink,74,3,57,Karthik,37,3.5,UPI,222,May,Tuesday,2025,5,Medium,In Stock
+QC1164,2025-01-04,15:22,Hyderabad,W2,P426,Bakery,Buns,66,4,3,Ravi,27,3.3,WALLET,264,January,Saturday,2025,1,Fast,Low Stock
+QC1165,2025-06-20,14:28,Delhi,W1,P311,Fruits,Banana,117,3,40,Sameer,14,3.2,COD,351,June,Friday,2025,6,Fast,In Stock
+QC1166,2025-06-30,22:51,Hyderabad,W2,P369,Snacks,Biscuits,98,4,13,Rahul,47,3.7,WALLET,392,June,Monday,2025,6,Medium,Low Stock
+QC1167,2025-01-29,20:43,Hyderabad,W4,P305,Frozen,Frozen Peas,133,3,48,Karthik,16,3.8,CARD,399,January,Wednesday,2025,1,Fast,In Stock
+QC1168,2025-03-28,10:21,Hyderabad,W6,P376,Beverages,Energy Drink,160,5,40,Ravi,37,4.1,CARD,800,March,Friday,2025,3,Medium,In Stock
+QC1169,2025-01-31,12:50,Bangalore,W6,P666,Frozen,Ice Cream,36,4,35,Vikram,31,4.5,COD,144,January,Friday,2025,1,Medium,In Stock
+QC1170,2025-05-27,11:41,Hyderabad,W4,P314,Bakery,Buns,111,1,2,Vikram,29,3.4,CARD,111,May,Tuesday,2025,5,Fast,Low Stock
+QC1171,2025-06-25,14:38,Hyderabad,W1,P575,Beverages,Juice,148,4,20,Suresh,31,3.7,UPI,592,June,Wednesday,2025,6,Medium,In Stock
+QC1172,2025-05-06,10:08,Mumbai,W5,P718,Frozen,Frozen Peas,151,4,13,Aman,31,3.3,WALLET,604,May,Tuesday,2025,5,Medium,Low Stock
+QC1173,2025-01-07,13:17,Bangalore,W1,P507,Beverages,Soft Drink,123,3,26,Suresh,34,3.1,COD,369,January,Tuesday,2025,1,Medium,In Stock
+QC1174,2025-01-10,22:38,Delhi,W5,P789,Beverages,Soft Drink,237,5,35,Sameer,34,4.9,UPI,1185,January,Friday,2025,1,Medium,In Stock
+QC1175,2025-03-01,13:10,Chennai,W3,P769,Frozen,Frozen Peas,94,4,27,Karthik,49,3.2,CARD,376,March,Saturday,2025,3,Medium,In Stock
+QC1176,2025-04-05,18:36,Bangalore,W3,P608,Dairy,Butter,32,1,56,Karthik,30,4.5,WALLET,32,April,Saturday,2025,4,Medium,In Stock
+QC1177,2025-06-07,09:58,Bangalore,W3,P997,Dairy,Curd,154,4,6,Karthik,32,4.7,UPI,616,June,Saturday,2025,6,Medium,Low Stock
+QC1178,2025-05-14,19:28,Delhi,W4,P696,Beverages,Juice,61,1,39,Sameer,17,3.9,COD,61,May,Wednesday,2025,5,Fast,In Stock
+QC1179,2025-02-08,21:27,Chennai,W4,P553,Bakery,Cake,155,5,52,Rahul,22,3.7,WALLET,775,February,Saturday,2025,2,Fast,In Stock
+QC1180,2025-05-28,08:51,Bangalore,W6,P565,Dairy,Curd,213,2,19,Karthik,25,4.1,CARD,426,May,Wednesday,2025,5,Fast,Low Stock
+QC1181,2025-03-25,16:47,Chennai,W5,P590,Dairy,Curd,64,5,58,Aman,20,4.5,COD,320,March,Tuesday,2025,3,Fast,In Stock
+QC1182,2025-04-26,16:11,Chennai,W1,P944,Bakery,Bread,112,2,6,Suresh,31,3.4,CARD,224,April,Saturday,2025,4,Medium,Low Stock
+QC1183,2025-05-14,22:17,Pune,W6,P101,Bakery,Bread,115,1,51,Sameer,39,4.0,CARD,115,May,Wednesday,2025,5,Medium,In Stock
+QC1184,2025-04-12,22:18,Chennai,W1,P533,Bakery,Cake,173,4,19,Karthik,34,4.7,WALLET,692,April,Saturday,2025,4,Medium,Low Stock
+QC1185,2025-01-23,23:03,Mumbai,W1,P591,Frozen,Ice Cream,146,2,49,Vikram,16,3.7,UPI,292,January,Thursday,2025,1,Fast,In Stock
+QC1186,2025-01-22,19:51,Hyderabad,W5,P615,Dairy,Butter,247,5,23,Sameer,40,5.0,COD,1235,January,Wednesday,2025,1,Medium,In Stock
+QC1187,2025-02-20,10:39,Delhi,W6,P148,Snacks,Biscuits,160,4,44,Vikram,21,3.0,CARD,640,February,Thursday,2025,2,Fast,In Stock
+QC1188,2025-01-01,23:10,Mumbai,W5,P738,Dairy,Butter,88,5,3,Rahul,27,4.0,CARD,440,January,Wednesday,2025,1,Fast,Low Stock
+QC1189,2025-04-26,17:52,Delhi,W6,P190,Fruits,Apple,182,2,22,Vikram,47,4.6,UPI,364,April,Saturday,2025,4,Medium,In Stock
+QC1190,2025-04-11,08:14,Pune,W4,P266,Dairy,Butter,223,3,37,Karthik,11,4.4,UPI,669,April,Friday,2025,4,Fast,In Stock
+QC1191,2025-05-19,15:44,Mumbai,W4,P441,Dairy,Milk 1L,75,3,36,Sameer,27,4.2,UPI,225,May,Monday,2025,5,Fast,In Stock
+QC1192,2025-04-15,17:03,Delhi,W5,P923,Bakery,Bread,78,2,44,Suresh,40,3.5,WALLET,156,April,Tuesday,2025,4,Medium,In Stock
+QC1193,2025-05-10,09:50,Mumbai,W4,P625,Frozen,Frozen Peas,239,2,57,Ravi,31,4.7,CARD,478,May,Saturday,2025,5,Medium,In Stock
+QC1194,2025-06-10,08:40,Pune,W4,P424,Dairy,Butter,185,1,4,Ravi,47,3.6,WALLET,185,June,Tuesday,2025,6,Medium,Low Stock
+QC1195,2025-05-28,21:38,Chennai,W4,P500,Bakery,Cake,178,2,60,Sameer,10,3.3,UPI,356,May,Wednesday,2025,5,Fast,In Stock
+QC1196,2025-04-06,19:22,Delhi,W1,P340,Snacks,Biscuits,185,4,1,Rahul,44,4.9,UPI,740,April,Sunday,2025,4,Medium,Low Stock
+QC1197,2025-03-11,10:41,Delhi,W6,P876,Dairy,Milk 1L,194,5,11,Vikram,19,3.2,COD,970,March,Tuesday,2025,3,Fast,Low Stock
+QC1198,2025-02-26,14:15,Chennai,W6,P916,Beverages,Soft Drink,182,5,3,Rahul,44,4.4,UPI,910,February,Wednesday,2025,2,Medium,Low Stock
+QC1199,2025-01-25,15:31,Bangalore,W4,P584,Beverages,Soft Drink,148,2,15,Vikram,28,4.1,COD,296,January,Saturday,2025,1,Fast,Low Stock
+QC1200,2025-05-12,19:05,Pune,W1,P745,Fruits,Orange,96,5,59,Arjun,39,3.4,WALLET,480,May,Monday,2025,5,Medium,In Stock
+QC1201,2025-06-29,20:18,Hyderabad,W2,P162,Bakery,Cake,92,4,21,Karthik,41,4.1,WALLET,368,June,Sunday,2025,6,Medium,In Stock
+QC1202,2025-01-14,09:03,Delhi,W3,P869,Beverages,Juice,148,2,31,Ravi,33,4.8,WALLET,296,January,Tuesday,2025,1,Medium,In Stock
+QC1203,2025-03-05,15:12,Hyderabad,W3,P477,Beverages,Juice,99,4,15,Ravi,23,3.5,COD,396,March,Wednesday,2025,3,Fast,Low Stock
+QC1204,2025-02-15,14:59,Chennai,W2,P311,Dairy,Milk 1L,174,2,26,Ravi,40,3.4,WALLET,348,February,Saturday,2025,2,Medium,In Stock
+QC1205,2025-03-19,17:44,Bangalore,W6,P121,Bakery,Bread,44,1,29,Arjun,49,5.0,COD,44,March,Wednesday,2025,3,Medium,In Stock
+QC1206,2025-03-25,14:40,Mumbai,W3,P834,Dairy,Milk 1L,89,3,51,Vikram,12,4.5,COD,267,March,Tuesday,2025,3,Fast,In Stock
+QC1207,2025-04-09,21:43,Delhi,W3,P985,Bakery,Bread,105,4,59,Sameer,31,4.7,WALLET,420,April,Wednesday,2025,4,Medium,In Stock
+QC1208,2025-05-14,21:24,Chennai,W2,P472,Snacks,Nachos,42,3,49,Vikram,25,4.6,CARD,126,May,Wednesday,2025,5,Fast,In Stock
+QC1209,2025-01-01,12:03,Pune,W5,P471,Dairy,Curd,42,4,33,Arjun,50,3.2,UPI,168,January,Wednesday,2025,1,Medium,In Stock
+QC1210,2025-02-13,11:50,Mumbai,W5,P211,Fruits,Orange,248,3,5,Rahul,35,3.5,COD,744,February,Thursday,2025,2,Medium,Low Stock
+QC1211,2025-04-07,19:44,Chennai,W1,P480,Beverages,Juice,242,2,50,Aman,49,4.4,WALLET,484,April,Monday,2025,4,Medium,In Stock
+QC1212,2025-01-25,23:22,Chennai,W1,P391,Frozen,Frozen Peas,164,3,3,Suresh,32,4.4,CARD,492,January,Saturday,2025,1,Medium,Low Stock
+QC1213,2025-06-28,12:07,Bangalore,W3,P305,Frozen,Ice Cream,152,4,34,Vikram,21,3.4,CARD,608,June,Saturday,2025,6,Fast,In Stock
+QC1214,2025-05-26,22:06,Chennai,W3,P425,Snacks,Potato Chips,154,1,38,Aman,23,4.4,UPI,154,May,Monday,2025,5,Fast,In Stock
+QC1215,2025-04-24,12:02,Bangalore,W3,P202,Beverages,Energy Drink,60,3,47,Suresh,17,3.6,COD,180,April,Thursday,2025,4,Fast,In Stock
+QC1216,2025-02-17,23:55,Chennai,W5,P537,Beverages,Juice,230,1,25,Ravi,23,3.1,WALLET,230,February,Monday,2025,2,Fast,In Stock
+QC1217,2025-05-05,14:27,Mumbai,W6,P351,Fruits,Apple,139,1,39,Arjun,33,3.3,WALLET,139,May,Monday,2025,5,Medium,In Stock
+QC1218,2025-06-18,12:37,Bangalore,W1,P595,Snacks,Nachos,195,5,36,Vikram,24,4.2,CARD,975,June,Wednesday,2025,6,Fast,In Stock
+QC1219,2025-05-15,23:05,Mumbai,W5,P350,Fruits,Orange,204,2,37,Vikram,32,3.4,UPI,408,May,Thursday,2025,5,Medium,In Stock
+QC1220,2025-02-21,19:24,Pune,W1,P460,Bakery,Bread,170,2,41,Arjun,16,4.4,COD,340,February,Friday,2025,2,Fast,In Stock
+QC1221,2025-01-05,19:22,Delhi,W2,P710,Frozen,Ice Cream,65,2,20,Ravi,10,3.2,WALLET,130,January,Sunday,2025,1,Fast,In Stock
+QC1222,2025-03-28,19:31,Chennai,W3,P930,Fruits,Orange,141,4,35,Aman,43,4.9,UPI,564,March,Friday,2025,3,Medium,In Stock
+QC1223,2025-01-01,16:41,Chennai,W2,P848,Frozen,Frozen Peas,113,2,8,Ravi,17,4.5,CARD,226,January,Wednesday,2025,1,Fast,Low Stock
+QC1224,2025-01-04,16:14,Mumbai,W1,P139,Snacks,Nachos,224,2,34,Rahul,30,4.5,WALLET,448,January,Saturday,2025,1,Medium,In Stock
+QC1225,2025-03-26,16:24,Pune,W1,P386,Bakery,Bread,67,3,6,Aman,43,4.2,CARD,201,March,Wednesday,2025,3,Medium,Low Stock
+QC1226,2025-06-20,11:59,Pune,W1,P424,Dairy,Curd,42,1,29,Karthik,21,3.1,COD,42,June,Friday,2025,6,Fast,In Stock
+QC1227,2025-01-21,19:22,Delhi,W6,P179,Beverages,Energy Drink,87,5,15,Sameer,47,3.6,COD,435,January,Tuesday,2025,1,Medium,Low Stock
+QC1228,2025-05-24,16:41,Bangalore,W3,P703,Snacks,Biscuits,151,3,26,Rahul,26,4.5,WALLET,453,May,Saturday,2025,5,Fast,In Stock
+QC1229,2025-02-12,19:42,Chennai,W3,P343,Fruits,Apple,59,2,6,Ravi,41,3.2,COD,118,February,Wednesday,2025,2,Medium,Low Stock
+QC1230,2025-05-22,11:36,Bangalore,W4,P147,Frozen,Ice Cream,205,3,55,Karthik,36,4.0,CARD,615,May,Thursday,2025,5,Medium,In Stock
+QC1231,2025-04-09,16:35,Bangalore,W4,P497,Fruits,Banana,202,1,27,Aman,11,4.1,UPI,202,April,Wednesday,2025,4,Fast,In Stock
+QC1232,2025-03-18,22:34,Mumbai,W6,P898,Fruits,Apple,146,5,31,Ravi,35,3.8,UPI,730,March,Tuesday,2025,3,Medium,In Stock
+QC1233,2025-06-29,12:45,Delhi,W1,P108,Fruits,Orange,95,4,7,Suresh,28,3.6,COD,380,June,Sunday,2025,6,Fast,Low Stock
+QC1234,2025-01-17,13:52,Mumbai,W6,P395,Dairy,Butter,75,1,13,Vikram,14,3.9,UPI,75,January,Friday,2025,1,Fast,Low Stock
+QC1235,2025-02-12,09:14,Chennai,W5,P265,Dairy,Butter,42,3,8,Rahul,15,3.3,COD,126,February,Wednesday,2025,2,Fast,Low Stock
+QC1236,2025-01-20,18:44,Chennai,W5,P167,Bakery,Cake,65,4,10,Suresh,22,4.3,WALLET,260,January,Monday,2025,1,Fast,Low Stock
+QC1237,2025-04-24,22:28,Delhi,W2,P326,Beverages,Soft Drink,193,2,44,Arjun,32,3.7,COD,386,April,Thursday,2025,4,Medium,In Stock
+QC1238,2025-05-30,16:40,Bangalore,W3,P572,Dairy,Curd,163,4,37,Arjun,21,4.5,UPI,652,May,Friday,2025,5,Fast,In Stock
+QC1239,2025-05-19,15:24,Hyderabad,W1,P803,Dairy,Butter,230,5,8,Ravi,38,3.7,WALLET,1150,May,Monday,2025,5,Medium,Low Stock
+QC1240,2025-01-15,10:10,Mumbai,W4,P591,Fruits,Banana,233,2,22,Rahul,37,3.2,UPI,466,January,Wednesday,2025,1,Medium,In Stock
+QC1241,2025-04-06,20:26,Chennai,W5,P174,Dairy,Milk 1L,116,1,14,Karthik,32,3.5,WALLET,116,April,Sunday,2025,4,Medium,Low Stock
+QC1242,2025-03-19,23:50,Hyderabad,W5,P608,Fruits,Orange,223,2,43,Rahul,17,3.3,WALLET,446,March,Wednesday,2025,3,Fast,In Stock
+QC1243,2025-05-23,20:23,Bangalore,W5,P888,Bakery,Cake,246,1,56,Ravi,19,3.6,CARD,246,May,Friday,2025,5,Fast,In Stock
+QC1244,2025-06-20,17:01,Mumbai,W5,P232,Fruits,Orange,214,1,41,Ravi,29,3.8,WALLET,214,June,Friday,2025,6,Fast,In Stock
+QC1245,2025-02-09,19:02,Mumbai,W6,P846,Beverages,Juice,124,3,5,Aman,36,3.1,CARD,372,February,Sunday,2025,2,Medium,Low Stock
+QC1246,2025-03-26,20:36,Delhi,W5,P874,Snacks,Nachos,78,5,44,Vikram,50,3.1,CARD,390,March,Wednesday,2025,3,Medium,In Stock
+QC1247,2025-04-23,15:33,Hyderabad,W4,P193,Snacks,Nachos,118,1,59,Aman,31,3.1,COD,118,April,Wednesday,2025,4,Medium,In Stock
+QC1248,2025-03-16,15:45,Pune,W3,P593,Bakery,Cake,164,5,53,Suresh,19,5.0,COD,820,March,Sunday,2025,3,Fast,In Stock
+QC1249,2025-01-17,19:36,Mumbai,W4,P784,Dairy,Milk 1L,76,4,17,Aman,35,4.8,UPI,304,January,Friday,2025,1,Medium,Low Stock
+QC1250,2025-02-14,22:47,Pune,W2,P483,Frozen,Ice Cream,50,3,1,Ravi,30,4.3,WALLET,150,February,Friday,2025,2,Medium,Low Stock
+QC1251,2025-04-23,17:36,Hyderabad,W6,P322,Bakery,Cake,75,4,47,Sameer,34,5.0,WALLET,300,April,Wednesday,2025,4,Medium,In Stock
+QC1252,2025-05-18,14:40,Pune,W3,P203,Bakery,Bread,195,3,60,Sameer,38,3.3,CARD,585,May,Sunday,2025,5,Medium,In Stock
+QC1253,2025-06-08,16:50,Mumbai,W2,P227,Beverages,Energy Drink,218,3,46,Sameer,44,3.2,CARD,654,June,Sunday,2025,6,Medium,In Stock
+QC1254,2025-06-25,19:04,Delhi,W3,P775,Frozen,Ice Cream,154,1,48,Sameer,11,4.7,COD,154,June,Wednesday,2025,6,Fast,In Stock
+QC1255,2025-04-27,09:29,Chennai,W5,P907,Snacks,Biscuits,99,5,14,Arjun,39,4.4,CARD,495,April,Sunday,2025,4,Medium,Low Stock
+QC1256,2025-04-27,18:23,Bangalore,W6,P876,Dairy,Butter,34,1,57,Vikram,31,3.0,UPI,34,April,Sunday,2025,4,Medium,In Stock
+QC1257,2025-01-06,14:20,Bangalore,W1,P921,Bakery,Cake,106,5,18,Arjun,46,4.3,CARD,530,January,Monday,2025,1,Medium,Low Stock
+QC1258,2025-02-13,18:35,Delhi,W6,P281,Frozen,Ice Cream,38,5,55,Ravi,31,4.5,CARD,190,February,Thursday,2025,2,Medium,In Stock
+QC1259,2025-01-04,12:49,Bangalore,W1,P843,Bakery,Cake,104,4,28,Rahul,16,3.6,CARD,416,January,Saturday,2025,1,Fast,In Stock
+QC1260,2025-06-12,22:51,Delhi,W3,P207,Bakery,Cake,122,4,3,Rahul,36,3.9,COD,488,June,Thursday,2025,6,Medium,Low Stock
+QC1261,2025-05-27,23:13,Pune,W2,P136,Dairy,Milk 1L,171,4,60,Karthik,13,4.6,COD,684,May,Tuesday,2025,5,Fast,In Stock
+QC1262,2025-05-12,18:14,Mumbai,W4,P133,Frozen,Frozen Peas,205,4,57,Sameer,48,3.7,CARD,820,May,Monday,2025,5,Medium,In Stock
+QC1263,2025-04-01,14:40,Chennai,W1,P954,Fruits,Banana,236,3,44,Sameer,41,4.6,COD,708,April,Tuesday,2025,4,Medium,In Stock
+QC1264,2025-05-03,12:07,Chennai,W3,P164,Dairy,Butter,110,5,2,Vikram,26,4.9,CARD,550,May,Saturday,2025,5,Fast,Low Stock
+QC1265,2025-02-13,12:08,Hyderabad,W2,P652,Frozen,Frozen Peas,155,3,37,Ravi,11,3.9,COD,465,February,Thursday,2025,2,Fast,In Stock
+QC1266,2025-03-30,10:45,Bangalore,W2,P669,Beverages,Juice,60,5,19,Arjun,19,4.9,CARD,300,March,Sunday,2025,3,Fast,Low Stock
+QC1267,2025-03-24,23:27,Chennai,W5,P159,Bakery,Bread,177,1,43,Sameer,14,3.8,WALLET,177,March,Monday,2025,3,Fast,In Stock
+QC1268,2025-03-09,22:25,Bangalore,W2,P651,Fruits,Orange,157,1,26,Rahul,23,3.2,UPI,157,March,Sunday,2025,3,Fast,In Stock
+QC1269,2025-02-05,11:41,Chennai,W4,P569,Bakery,Buns,118,1,56,Karthik,25,4.5,COD,118,February,Wednesday,2025,2,Fast,In Stock
+QC1270,2025-01-09,20:50,Delhi,W6,P269,Bakery,Cake,34,5,11,Suresh,39,4.6,COD,170,January,Thursday,2025,1,Medium,Low Stock
+QC1271,2025-03-12,13:30,Pune,W1,P116,Fruits,Apple,172,1,25,Suresh,21,3.8,COD,172,March,Wednesday,2025,3,Fast,In Stock
+QC1272,2025-02-07,14:53,Delhi,W1,P713,Bakery,Buns,109,1,34,Karthik,32,4.7,WALLET,109,February,Friday,2025,2,Medium,In Stock
+QC1273,2025-06-05,14:21,Pune,W4,P960,Beverages,Juice,230,3,49,Karthik,39,4.3,UPI,690,June,Thursday,2025,6,Medium,In Stock
+QC1274,2025-02-13,09:52,Chennai,W4,P990,Dairy,Butter,84,1,56,Karthik,24,3.0,COD,84,February,Thursday,2025,2,Fast,In Stock
+QC1275,2025-04-20,23:35,Delhi,W6,P182,Beverages,Juice,120,1,22,Sameer,28,4.3,UPI,120,April,Sunday,2025,4,Fast,In Stock
+QC1276,2025-06-16,17:40,Chennai,W5,P963,Frozen,Frozen Peas,34,1,28,Karthik,28,4.0,WALLET,34,June,Monday,2025,6,Fast,In Stock
+QC1277,2025-05-01,14:25,Bangalore,W2,P749,Bakery,Bread,181,1,3,Suresh,29,4.0,CARD,181,May,Thursday,2025,5,Fast,Low Stock
+QC1278,2025-06-17,22:06,Chennai,W5,P571,Frozen,Frozen Peas,103,3,55,Ravi,30,3.2,CARD,309,June,Tuesday,2025,6,Medium,In Stock
+QC1279,2025-02-04,09:39,Mumbai,W4,P622,Snacks,Potato Chips,56,5,39,Karthik,19,4.5,CARD,280,February,Tuesday,2025,2,Fast,In Stock
+QC1280,2025-04-15,09:26,Chennai,W1,P570,Beverages,Soft Drink,103,1,38,Rahul,34,4.7,CARD,103,April,Tuesday,2025,4,Medium,In Stock
+QC1281,2025-05-25,20:37,Delhi,W6,P140,Dairy,Curd,106,1,53,Arjun,34,3.9,WALLET,106,May,Sunday,2025,5,Medium,In Stock
+QC1282,2025-06-26,10:35,Delhi,W1,P230,Bakery,Buns,171,5,9,Suresh,45,4.7,COD,855,June,Thursday,2025,6,Medium,Low Stock
+QC1283,2025-03-05,16:21,Chennai,W4,P713,Frozen,Ice Cream,42,2,11,Vikram,43,3.0,COD,84,March,Wednesday,2025,3,Medium,Low Stock
+QC1284,2025-01-27,11:11,Chennai,W4,P714,Frozen,Frozen Peas,167,2,39,Aman,44,4.0,COD,334,January,Monday,2025,1,Medium,In Stock
+QC1285,2025-03-19,21:50,Bangalore,W6,P754,Snacks,Nachos,243,1,29,Vikram,14,3.9,CARD,243,March,Wednesday,2025,3,Fast,In Stock
+QC1286,2025-04-30,21:12,Mumbai,W2,P692,Snacks,Potato Chips,130,3,9,Karthik,48,4.0,UPI,390,April,Wednesday,2025,4,Medium,Low Stock
+QC1287,2025-01-01,20:59,Delhi,W6,P378,Bakery,Cake,214,4,15,Arjun,38,4.0,WALLET,856,January,Wednesday,2025,1,Medium,Low Stock
+QC1288,2025-03-12,11:28,Pune,W2,P582,Snacks,Potato Chips,147,4,54,Karthik,18,3.1,WALLET,588,March,Wednesday,2025,3,Fast,In Stock
+QC1289,2025-01-24,13:29,Hyderabad,W6,P130,Bakery,Buns,190,5,27,Suresh,10,3.7,WALLET,950,January,Friday,2025,1,Fast,In Stock
+QC1290,2025-05-05,18:26,Delhi,W2,P240,Bakery,Cake,232,5,26,Rahul,37,3.4,UPI,1160,May,Monday,2025,5,Medium,In Stock
+QC1291,2025-05-20,12:27,Bangalore,W2,P294,Bakery,Buns,49,1,32,Vikram,29,4.1,UPI,49,May,Tuesday,2025,5,Fast,In Stock
+QC1292,2025-03-12,19:18,Bangalore,W5,P756,Beverages,Juice,90,5,35,Aman,50,4.1,WALLET,450,March,Wednesday,2025,3,Medium,In Stock
+QC1293,2025-06-18,14:13,Chennai,W5,P580,Beverages,Energy Drink,249,1,9,Aman,18,3.1,COD,249,June,Wednesday,2025,6,Fast,Low Stock
+QC1294,2025-04-19,10:21,Hyderabad,W4,P234,Fruits,Apple,181,3,20,Ravi,25,3.6,WALLET,543,April,Saturday,2025,4,Fast,In Stock
+QC1295,2025-04-23,19:25,Chennai,W3,P499,Snacks,Potato Chips,250,1,8,Vikram,44,4.3,CARD,250,April,Wednesday,2025,4,Medium,Low Stock
+QC1296,2025-06-17,23:33,Pune,W1,P147,Dairy,Milk 1L,119,3,47,Ravi,37,3.6,CARD,357,June,Tuesday,2025,6,Medium,In Stock
+QC1297,2025-04-22,19:12,Chennai,W6,P813,Dairy,Curd,34,5,37,Ravi,48,4.7,UPI,170,April,Tuesday,2025,4,Medium,In Stock
+QC1298,2025-06-06,08:05,Hyderabad,W1,P604,Dairy,Butter,198,4,24,Sameer,36,4.3,UPI,792,June,Friday,2025,6,Medium,In Stock
+QC1299,2025-06-18,17:42,Hyderabad,W2,P930,Frozen,Ice Cream,212,4,50,Karthik,36,4.2,UPI,848,June,Wednesday,2025,6,Medium,In Stock
+QC1300,2025-04-06,20:11,Bangalore,W2,P206,Beverages,Energy Drink,248,2,0,Suresh,19,3.7,WALLET,496,April,Sunday,2025,4,Fast,Low Stock
+QC1301,2025-02-03,21:01,Pune,W1,P730,Beverages,Juice,216,1,54,Vikram,28,3.7,UPI,216,February,Monday,2025,2,Fast,In Stock
+QC1302,2025-04-05,16:46,Hyderabad,W6,P446,Frozen,Ice Cream,200,2,33,Sameer,46,3.1,WALLET,400,April,Saturday,2025,4,Medium,In Stock
+QC1303,2025-05-03,16:58,Delhi,W1,P767,Beverages,Juice,136,3,19,Suresh,41,3.8,UPI,408,May,Saturday,2025,5,Medium,Low Stock
+QC1304,2025-06-04,14:33,Bangalore,W4,P694,Fruits,Orange,162,5,4,Aman,34,4.5,CARD,810,June,Wednesday,2025,6,Medium,Low Stock
+QC1305,2025-05-16,11:55,Hyderabad,W3,P559,Frozen,Frozen Peas,38,5,39,Aman,24,5.0,CARD,190,May,Friday,2025,5,Fast,In Stock
+QC1306,2025-01-24,08:22,Mumbai,W3,P452,Snacks,Nachos,85,2,5,Sameer,12,3.6,COD,170,January,Friday,2025,1,Fast,Low Stock
+QC1307,2025-02-15,09:51,Delhi,W4,P770,Frozen,Frozen Peas,113,5,17,Ravi,47,3.8,CARD,565,February,Saturday,2025,2,Medium,Low Stock
+QC1308,2025-01-06,17:27,Pune,W1,P134,Fruits,Banana,237,5,58,Sameer,31,3.3,CARD,1185,January,Monday,2025,1,Medium,In Stock
+QC1309,2025-01-20,22:04,Mumbai,W6,P142,Bakery,Buns,106,2,13,Vikram,25,4.9,COD,212,January,Monday,2025,1,Fast,Low Stock
+QC1310,2025-02-05,09:40,Bangalore,W3,P493,Beverages,Energy Drink,33,5,26,Sameer,41,3.2,UPI,165,February,Wednesday,2025,2,Medium,In Stock
+QC1311,2025-04-07,17:08,Bangalore,W1,P340,Bakery,Cake,44,4,0,Ravi,35,4.2,CARD,176,April,Monday,2025,4,Medium,Low Stock
+QC1312,2025-04-03,16:38,Chennai,W1,P892,Frozen,Frozen Peas,232,1,46,Ravi,24,4.5,COD,232,April,Thursday,2025,4,Fast,In Stock
+QC1313,2025-04-03,21:11,Bangalore,W6,P311,Fruits,Apple,146,3,15,Rahul,37,3.7,WALLET,438,April,Thursday,2025,4,Medium,Low Stock
+QC1314,2025-04-05,11:22,Hyderabad,W3,P825,Beverages,Soft Drink,46,4,43,Rahul,18,3.6,COD,184,April,Saturday,2025,4,Fast,In Stock
+QC1315,2025-03-30,10:55,Delhi,W6,P210,Dairy,Curd,55,4,4,Sameer,10,4.6,CARD,220,March,Sunday,2025,3,Fast,Low Stock
+QC1316,2025-02-23,18:22,Mumbai,W3,P899,Bakery,Cake,148,4,32,Karthik,25,4.7,COD,592,February,Sunday,2025,2,Fast,In Stock
+QC1317,2025-01-05,13:55,Delhi,W6,P555,Snacks,Nachos,215,3,58,Arjun,48,3.1,WALLET,645,January,Sunday,2025,1,Medium,In Stock
+QC1318,2025-02-10,20:57,Chennai,W6,P845,Snacks,Nachos,145,2,57,Suresh,19,3.8,WALLET,290,February,Monday,2025,2,Fast,In Stock
+QC1319,2025-02-17,08:42,Delhi,W2,P719,Fruits,Apple,35,1,40,Karthik,20,3.6,WALLET,35,February,Monday,2025,2,Fast,In Stock
+QC1320,2025-01-26,19:29,Pune,W2,P129,Frozen,Ice Cream,146,2,48,Suresh,11,3.7,UPI,292,January,Sunday,2025,1,Fast,In Stock
+QC1321,2025-02-05,09:38,Delhi,W2,P946,Dairy,Curd,197,4,5,Rahul,34,4.1,WALLET,788,February,Wednesday,2025,2,Medium,Low Stock
+QC1322,2025-04-22,09:10,Pune,W1,P323,Bakery,Bread,99,4,13,Ravi,39,3.4,COD,396,April,Tuesday,2025,4,Medium,Low Stock
+QC1323,2025-06-28,23:12,Mumbai,W2,P743,Bakery,Bread,197,4,13,Arjun,48,3.3,COD,788,June,Saturday,2025,6,Medium,Low Stock
+QC1324,2025-03-22,15:03,Delhi,W3,P662,Dairy,Curd,94,4,5,Rahul,41,3.2,UPI,376,March,Saturday,2025,3,Medium,Low Stock
+QC1325,2025-03-12,13:14,Bangalore,W4,P905,Bakery,Buns,138,2,13,Ravi,17,3.0,COD,276,March,Wednesday,2025,3,Fast,Low Stock
+QC1326,2025-06-14,14:05,Hyderabad,W6,P701,Snacks,Biscuits,82,4,16,Aman,29,3.3,WALLET,328,June,Saturday,2025,6,Fast,Low Stock
+QC1327,2025-03-26,08:16,Bangalore,W3,P158,Beverages,Juice,146,1,57,Aman,19,3.5,WALLET,146,March,Wednesday,2025,3,Fast,In Stock
+QC1328,2025-04-23,19:29,Chennai,W4,P631,Bakery,Cake,33,4,36,Ravi,27,3.0,CARD,132,April,Wednesday,2025,4,Fast,In Stock
+QC1329,2025-04-02,12:15,Bangalore,W2,P802,Beverages,Soft Drink,105,3,60,Vikram,29,3.1,COD,315,April,Wednesday,2025,4,Fast,In Stock
+QC1330,2025-03-31,19:33,Pune,W4,P434,Frozen,Frozen Peas,216,3,23,Aman,25,4.2,COD,648,March,Monday,2025,3,Fast,In Stock
+QC1331,2025-02-11,20:02,Chennai,W3,P705,Bakery,Buns,245,4,24,Ravi,15,3.4,CARD,980,February,Tuesday,2025,2,Fast,In Stock
+QC1332,2025-04-05,22:24,Mumbai,W4,P450,Fruits,Banana,196,1,49,Karthik,39,3.4,CARD,196,April,Saturday,2025,4,Medium,In Stock
+QC1333,2025-01-04,13:44,Pune,W6,P974,Bakery,Buns,227,2,16,Rahul,32,4.4,UPI,454,January,Saturday,2025,1,Medium,Low Stock
+QC1334,2025-03-31,16:41,Bangalore,W6,P378,Snacks,Nachos,109,1,38,Aman,30,4.5,CARD,109,March,Monday,2025,3,Medium,In Stock
+QC1335,2025-05-21,15:19,Hyderabad,W1,P980,Snacks,Nachos,81,4,3,Vikram,45,4.9,CARD,324,May,Wednesday,2025,5,Medium,Low Stock
+QC1336,2025-03-24,17:51,Hyderabad,W3,P770,Snacks,Biscuits,170,1,47,Sameer,48,4.4,UPI,170,March,Monday,2025,3,Medium,In Stock
+QC1337,2025-05-08,13:35,Bangalore,W6,P861,Dairy,Milk 1L,212,3,57,Suresh,30,3.1,COD,636,May,Thursday,2025,5,Medium,In Stock
+QC1338,2025-02-11,20:04,Bangalore,W5,P469,Dairy,Curd,131,3,22,Sameer,42,3.1,WALLET,393,February,Tuesday,2025,2,Medium,In Stock
+QC1339,2025-03-04,14:42,Delhi,W6,P960,Frozen,Ice Cream,227,4,32,Aman,12,3.6,COD,908,March,Tuesday,2025,3,Fast,In Stock
+QC1340,2025-01-09,09:28,Pune,W2,P768,Beverages,Juice,176,2,16,Aman,46,3.2,WALLET,352,January,Thursday,2025,1,Medium,Low Stock
+QC1341,2025-03-31,10:56,Chennai,W5,P131,Fruits,Banana,159,5,20,Karthik,24,5.0,COD,795,March,Monday,2025,3,Fast,In Stock
+QC1342,2025-05-10,15:19,Delhi,W4,P808,Beverages,Energy Drink,83,5,23,Aman,30,3.9,COD,415,May,Saturday,2025,5,Medium,In Stock
+QC1343,2025-02-20,15:41,Pune,W3,P437,Beverages,Energy Drink,215,5,13,Suresh,13,4.9,WALLET,1075,February,Thursday,2025,2,Fast,Low Stock
+QC1344,2025-02-21,13:03,Delhi,W6,P363,Fruits,Orange,58,3,0,Vikram,40,3.5,CARD,174,February,Friday,2025,2,Medium,Low Stock
+QC1345,2025-02-10,16:33,Delhi,W4,P401,Frozen,Ice Cream,112,2,55,Ravi,24,3.6,WALLET,224,February,Monday,2025,2,Fast,In Stock
+QC1346,2025-04-03,14:17,Bangalore,W5,P525,Snacks,Nachos,176,2,13,Karthik,13,3.8,CARD,352,April,Thursday,2025,4,Fast,Low Stock
+QC1347,2025-03-07,13:16,Hyderabad,W1,P537,Snacks,Potato Chips,54,5,21,Ravi,36,4.3,CARD,270,March,Friday,2025,3,Medium,In Stock
+QC1348,2025-05-26,11:19,Hyderabad,W1,P891,Frozen,Ice Cream,165,1,22,Sameer,31,3.6,CARD,165,May,Monday,2025,5,Medium,In Stock
+QC1349,2025-06-17,22:21,Bangalore,W5,P387,Bakery,Cake,73,2,24,Aman,31,4.3,WALLET,146,June,Tuesday,2025,6,Medium,In Stock
+QC1350,2025-06-06,19:31,Chennai,W5,P768,Dairy,Milk 1L,220,5,44,Karthik,31,4.0,CARD,1100,June,Friday,2025,6,Medium,In Stock
+QC1351,2025-04-08,13:13,Bangalore,W1,P267,Fruits,Apple,236,3,14,Vikram,19,4.2,COD,708,April,Tuesday,2025,4,Fast,Low Stock
+QC1352,2025-03-01,18:09,Bangalore,W4,P435,Snacks,Biscuits,159,1,19,Rahul,34,3.8,UPI,159,March,Saturday,2025,3,Medium,Low Stock
+QC1353,2025-03-29,13:31,Bangalore,W3,P856,Snacks,Potato Chips,236,5,45,Vikram,23,4.0,UPI,1180,March,Saturday,2025,3,Fast,In Stock
+QC1354,2025-02-14,09:00,Pune,W1,P349,Snacks,Potato Chips,97,1,21,Aman,50,5.0,COD,97,February,Friday,2025,2,Medium,In Stock
+QC1355,2025-04-28,16:23,Mumbai,W4,P558,Dairy,Curd,230,1,0,Ravi,29,4.4,WALLET,230,April,Monday,2025,4,Fast,Low Stock
+QC1356,2025-04-20,12:02,Chennai,W4,P570,Dairy,Butter,148,2,1,Arjun,48,3.4,WALLET,296,April,Sunday,2025,4,Medium,Low Stock
+QC1357,2025-03-17,08:57,Bangalore,W6,P106,Fruits,Apple,140,3,8,Sameer,47,3.4,WALLET,420,March,Monday,2025,3,Medium,Low Stock
+QC1358,2025-05-07,16:00,Pune,W6,P664,Dairy,Milk 1L,165,1,55,Suresh,39,3.9,UPI,165,May,Wednesday,2025,5,Medium,In Stock
+QC1359,2025-03-11,16:38,Hyderabad,W4,P248,Frozen,Frozen Peas,218,1,6,Karthik,50,4.8,WALLET,218,March,Tuesday,2025,3,Medium,Low Stock
+QC1360,2025-03-06,18:41,Mumbai,W2,P137,Frozen,Frozen Peas,52,3,50,Vikram,10,4.0,WALLET,156,March,Thursday,2025,3,Fast,In Stock
+QC1361,2025-03-11,14:21,Hyderabad,W2,P580,Frozen,Frozen Peas,98,1,20,Vikram,39,3.5,WALLET,98,March,Tuesday,2025,3,Medium,In Stock
+QC1362,2025-01-10,08:17,Delhi,W3,P588,Frozen,Frozen Peas,247,1,60,Suresh,18,4.6,COD,247,January,Friday,2025,1,Fast,In Stock
+QC1363,2025-05-28,11:18,Delhi,W5,P571,Fruits,Orange,191,3,24,Vikram,24,3.2,CARD,573,May,Wednesday,2025,5,Fast,In Stock
+QC1364,2025-05-16,21:18,Pune,W5,P441,Beverages,Soft Drink,173,2,55,Ravi,36,3.8,COD,346,May,Friday,2025,5,Medium,In Stock
+QC1365,2025-03-07,11:13,Pune,W6,P396,Dairy,Butter,168,3,45,Ravi,30,3.5,WALLET,504,March,Friday,2025,3,Medium,In Stock
+QC1366,2025-04-11,23:17,Mumbai,W5,P580,Beverages,Energy Drink,94,4,34,Vikram,12,4.5,COD,376,April,Friday,2025,4,Fast,In Stock
+QC1367,2025-02-13,21:37,Delhi,W4,P421,Bakery,Bread,87,5,51,Rahul,33,3.8,COD,435,February,Thursday,2025,2,Medium,In Stock
+QC1368,2025-03-17,21:42,Hyderabad,W2,P917,Snacks,Nachos,196,3,39,Karthik,48,3.5,UPI,588,March,Monday,2025,3,Medium,In Stock
+QC1369,2025-01-11,16:56,Pune,W4,P537,Beverages,Soft Drink,186,1,19,Vikram,40,4.3,COD,186,January,Saturday,2025,1,Medium,Low Stock
+QC1370,2025-01-04,11:02,Pune,W6,P543,Frozen,Ice Cream,141,2,8,Suresh,20,3.5,UPI,282,January,Saturday,2025,1,Fast,Low Stock
+QC1371,2025-01-05,10:26,Delhi,W4,P112,Fruits,Banana,153,4,36,Vikram,41,3.4,COD,612,January,Sunday,2025,1,Medium,In Stock
+QC1372,2025-01-06,10:40,Chennai,W5,P466,Snacks,Nachos,191,3,26,Arjun,34,3.5,WALLET,573,January,Monday,2025,1,Medium,In Stock
+QC1373,2025-05-08,19:03,Pune,W4,P338,Beverages,Soft Drink,147,1,15,Vikram,26,4.5,UPI,147,May,Thursday,2025,5,Fast,Low Stock
+QC1374,2025-01-14,11:13,Chennai,W2,P985,Beverages,Energy Drink,41,4,42,Suresh,21,3.3,WALLET,164,January,Tuesday,2025,1,Fast,In Stock
+QC1375,2025-01-03,20:24,Pune,W5,P622,Bakery,Bread,250,1,52,Vikram,44,3.5,CARD,250,January,Friday,2025,1,Medium,In Stock
+QC1376,2025-04-21,22:51,Hyderabad,W2,P547,Beverages,Energy Drink,105,4,11,Karthik,14,4.9,CARD,420,April,Monday,2025,4,Fast,Low Stock
+QC1377,2025-04-03,18:39,Delhi,W3,P756,Beverages,Energy Drink,177,2,45,Arjun,31,4.8,COD,354,April,Thursday,2025,4,Medium,In Stock
+QC1378,2025-02-04,19:07,Pune,W2,P598,Dairy,Butter,147,2,43,Suresh,30,3.5,WALLET,294,February,Tuesday,2025,2,Medium,In Stock
+QC1379,2025-05-17,12:15,Delhi,W4,P108,Dairy,Butter,179,1,59,Aman,33,4.8,WALLET,179,May,Saturday,2025,5,Medium,In Stock
+QC1380,2025-02-25,09:48,Bangalore,W3,P386,Dairy,Curd,237,1,32,Aman,10,3.8,COD,237,February,Tuesday,2025,2,Fast,In Stock
+QC1381,2025-06-12,23:28,Mumbai,W3,P991,Snacks,Biscuits,122,2,15,Arjun,50,3.3,UPI,244,June,Thursday,2025,6,Medium,Low Stock
+QC1382,2025-03-11,11:01,Pune,W3,P106,Bakery,Bread,143,5,12,Aman,42,3.2,CARD,715,March,Tuesday,2025,3,Medium,Low Stock
+QC1383,2025-03-14,19:44,Bangalore,W4,P453,Frozen,Frozen Peas,108,2,41,Rahul,30,3.6,COD,216,March,Friday,2025,3,Medium,In Stock
+QC1384,2025-05-11,13:07,Mumbai,W3,P629,Frozen,Ice Cream,230,3,44,Sameer,31,3.9,UPI,690,May,Sunday,2025,5,Medium,In Stock
+QC1385,2025-02-13,18:14,Mumbai,W1,P333,Snacks,Potato Chips,154,5,12,Karthik,39,3.9,WALLET,770,February,Thursday,2025,2,Medium,Low Stock
+QC1386,2025-02-05,13:55,Chennai,W1,P299,Dairy,Milk 1L,130,4,9,Ravi,32,4.3,CARD,520,February,Wednesday,2025,2,Medium,Low Stock
+QC1387,2025-05-14,09:30,Delhi,W4,P756,Fruits,Orange,205,2,37,Sameer,36,4.1,COD,410,May,Wednesday,2025,5,Medium,In Stock
+QC1388,2025-03-30,12:50,Hyderabad,W2,P985,Fruits,Apple,204,3,1,Aman,22,3.9,WALLET,612,March,Sunday,2025,3,Fast,Low Stock
+QC1389,2025-02-24,17:03,Delhi,W5,P697,Beverages,Juice,236,2,49,Ravi,41,3.2,UPI,472,February,Monday,2025,2,Medium,In Stock
+QC1390,2025-06-22,15:00,Pune,W1,P470,Snacks,Potato Chips,122,3,57,Ravi,49,3.4,WALLET,366,June,Sunday,2025,6,Medium,In Stock
+QC1391,2025-03-15,17:43,Bangalore,W5,P588,Snacks,Potato Chips,159,2,2,Aman,46,3.3,CARD,318,March,Saturday,2025,3,Medium,Low Stock
+QC1392,2025-04-09,11:08,Bangalore,W4,P751,Snacks,Nachos,223,4,28,Karthik,50,4.9,CARD,892,April,Wednesday,2025,4,Medium,In Stock
+QC1393,2025-03-01,19:57,Pune,W3,P443,Fruits,Orange,199,4,0,Suresh,38,3.7,CARD,796,March,Saturday,2025,3,Medium,Low Stock
+QC1394,2025-03-10,14:13,Chennai,W4,P764,Beverages,Juice,54,5,6,Arjun,34,4.6,COD,270,March,Monday,2025,3,Medium,Low Stock
+QC1395,2025-03-01,09:50,Chennai,W6,P500,Snacks,Nachos,218,4,33,Karthik,23,4.5,WALLET,872,March,Saturday,2025,3,Fast,In Stock
+QC1396,2025-05-03,16:04,Bangalore,W2,P949,Beverages,Energy Drink,241,3,19,Vikram,14,4.2,COD,723,May,Saturday,2025,5,Fast,Low Stock
+QC1397,2025-04-12,19:28,Pune,W1,P865,Bakery,Bread,150,5,46,Vikram,15,4.9,WALLET,750,April,Saturday,2025,4,Fast,In Stock
+QC1398,2025-04-22,22:19,Delhi,W3,P699,Fruits,Apple,218,5,36,Rahul,30,3.3,WALLET,1090,April,Tuesday,2025,4,Medium,In Stock
+QC1399,2025-05-24,17:18,Pune,W1,P735,Beverages,Soft Drink,238,5,6,Suresh,17,4.2,COD,1190,May,Saturday,2025,5,Fast,Low Stock
+QC1400,2025-06-03,10:25,Delhi,W1,P842,Bakery,Bread,93,5,20,Suresh,20,3.7,WALLET,465,June,Tuesday,2025,6,Fast,In Stock
+QC1401,2025-05-17,10:15,Hyderabad,W1,P368,Fruits,Apple,197,2,49,Ravi,10,3.4,UPI,394,May,Saturday,2025,5,Fast,In Stock
+QC1402,2025-06-22,14:06,Bangalore,W4,P479,Frozen,Ice Cream,152,1,46,Sameer,28,4.4,WALLET,152,June,Sunday,2025,6,Fast,In Stock
+QC1403,2025-03-03,19:06,Pune,W1,P840,Dairy,Butter,102,3,31,Karthik,44,3.6,UPI,306,March,Monday,2025,3,Medium,In Stock
+QC1404,2025-03-26,22:21,Chennai,W2,P936,Beverages,Juice,46,2,5,Ravi,18,4.4,CARD,92,March,Wednesday,2025,3,Fast,Low Stock
+QC1405,2025-01-03,15:42,Delhi,W4,P403,Bakery,Cake,166,3,27,Ravi,20,4.6,UPI,498,January,Friday,2025,1,Fast,In Stock
+QC1406,2025-05-17,20:07,Pune,W5,P278,Snacks,Nachos,62,3,26,Vikram,31,3.5,UPI,186,May,Saturday,2025,5,Medium,In Stock
+QC1407,2025-06-19,16:53,Bangalore,W1,P111,Dairy,Milk 1L,161,5,50,Aman,30,3.0,WALLET,805,June,Thursday,2025,6,Medium,In Stock
+QC1408,2025-04-21,12:06,Pune,W3,P146,Snacks,Biscuits,41,3,2,Rahul,29,4.4,WALLET,123,April,Monday,2025,4,Fast,Low Stock
+QC1409,2025-03-17,11:16,Chennai,W5,P635,Dairy,Butter,242,3,48,Karthik,27,4.4,CARD,726,March,Monday,2025,3,Fast,In Stock
+QC1410,2025-05-18,21:32,Hyderabad,W6,P469,Beverages,Juice,120,4,7,Ravi,18,3.3,CARD,480,May,Sunday,2025,5,Fast,Low Stock
+QC1411,2025-03-16,21:23,Delhi,W4,P740,Fruits,Apple,193,5,32,Karthik,48,3.5,COD,965,March,Sunday,2025,3,Medium,In Stock
+QC1412,2025-06-23,19:41,Delhi,W1,P625,Bakery,Cake,154,3,7,Karthik,31,4.4,WALLET,462,June,Monday,2025,6,Medium,Low Stock
+QC1413,2025-01-18,19:14,Pune,W4,P320,Fruits,Apple,96,2,1,Suresh,25,3.3,COD,192,January,Saturday,2025,1,Fast,Low Stock
+QC1414,2025-02-25,12:05,Chennai,W3,P757,Fruits,Banana,62,3,9,Ravi,33,3.2,COD,186,February,Tuesday,2025,2,Medium,Low Stock
+QC1415,2025-01-05,13:10,Chennai,W4,P277,Fruits,Orange,210,3,40,Rahul,27,3.7,WALLET,630,January,Sunday,2025,1,Fast,In Stock
+QC1416,2025-01-05,12:46,Chennai,W4,P551,Snacks,Biscuits,88,1,9,Aman,46,3.2,WALLET,88,January,Sunday,2025,1,Medium,Low Stock
+QC1417,2025-03-06,23:22,Hyderabad,W2,P230,Bakery,Cake,102,3,51,Rahul,17,4.1,CARD,306,March,Thursday,2025,3,Fast,In Stock
+QC1418,2025-04-02,09:33,Pune,W4,P175,Beverages,Juice,111,4,0,Suresh,39,3.9,UPI,444,April,Wednesday,2025,4,Medium,Low Stock
+QC1419,2025-04-27,11:55,Delhi,W1,P320,Bakery,Bread,178,5,49,Sameer,33,3.9,UPI,890,April,Sunday,2025,4,Medium,In Stock
+QC1420,2025-02-12,21:55,Pune,W1,P154,Snacks,Nachos,224,4,17,Sameer,25,4.1,CARD,896,February,Wednesday,2025,2,Fast,Low Stock
+QC1421,2025-02-19,13:18,Chennai,W1,P914,Beverages,Juice,141,2,8,Aman,36,4.9,UPI,282,February,Wednesday,2025,2,Medium,Low Stock
+QC1422,2025-03-09,10:24,Bangalore,W5,P312,Beverages,Juice,41,4,4,Suresh,30,3.4,WALLET,164,March,Sunday,2025,3,Medium,Low Stock
+QC1423,2025-05-29,20:50,Hyderabad,W5,P549,Dairy,Milk 1L,189,1,51,Rahul,12,4.1,UPI,189,May,Thursday,2025,5,Fast,In Stock
+QC1424,2025-03-19,14:36,Pune,W1,P592,Snacks,Biscuits,141,5,28,Arjun,49,3.3,UPI,705,March,Wednesday,2025,3,Medium,In Stock
+QC1425,2025-04-27,18:09,Chennai,W2,P100,Frozen,Ice Cream,153,5,2,Vikram,24,4.2,WALLET,765,April,Sunday,2025,4,Fast,Low Stock
+QC1426,2025-04-03,20:17,Chennai,W6,P309,Bakery,Bread,231,1,18,Vikram,31,4.0,COD,231,April,Thursday,2025,4,Medium,Low Stock
+QC1427,2025-01-28,12:13,Chennai,W1,P251,Dairy,Curd,31,2,23,Rahul,47,4.4,UPI,62,January,Tuesday,2025,1,Medium,In Stock
+QC1428,2025-01-16,11:27,Hyderabad,W6,P724,Bakery,Buns,134,4,49,Rahul,21,4.4,COD,536,January,Thursday,2025,1,Fast,In Stock
+QC1429,2025-01-22,22:27,Mumbai,W5,P372,Frozen,Ice Cream,47,1,52,Ravi,45,3.1,COD,47,January,Wednesday,2025,1,Medium,In Stock
+QC1430,2025-04-07,15:01,Pune,W2,P739,Dairy,Milk 1L,192,1,54,Ravi,33,3.1,WALLET,192,April,Monday,2025,4,Medium,In Stock
+QC1431,2025-03-18,17:08,Chennai,W1,P191,Frozen,Frozen Peas,91,3,60,Rahul,26,4.8,WALLET,273,March,Tuesday,2025,3,Fast,In Stock
+QC1432,2025-01-14,18:27,Delhi,W1,P494,Bakery,Cake,36,2,2,Karthik,16,3.5,CARD,72,January,Tuesday,2025,1,Fast,Low Stock
+QC1433,2025-05-28,09:25,Hyderabad,W4,P232,Frozen,Frozen Peas,72,5,29,Vikram,49,4.6,WALLET,360,May,Wednesday,2025,5,Medium,In Stock
+QC1434,2025-04-03,15:01,Pune,W6,P391,Frozen,Frozen Peas,109,3,9,Ravi,16,4.3,UPI,327,April,Thursday,2025,4,Fast,Low Stock
+QC1435,2025-06-20,12:52,Pune,W3,P736,Beverages,Energy Drink,218,2,4,Vikram,44,4.2,COD,436,June,Friday,2025,6,Medium,Low Stock
+QC1436,2025-05-06,17:18,Hyderabad,W6,P318,Frozen,Frozen Peas,81,4,12,Aman,10,4.1,WALLET,324,May,Tuesday,2025,5,Fast,Low Stock
+QC1437,2025-01-28,23:27,Mumbai,W5,P419,Snacks,Biscuits,76,5,23,Ravi,15,4.1,WALLET,380,January,Tuesday,2025,1,Fast,In Stock
+QC1438,2025-04-12,08:33,Chennai,W1,P437,Beverages,Soft Drink,129,1,3,Vikram,33,4.4,UPI,129,April,Saturday,2025,4,Medium,Low Stock
+QC1439,2025-06-23,19:04,Mumbai,W1,P304,Bakery,Buns,124,4,11,Vikram,34,3.0,CARD,496,June,Monday,2025,6,Medium,Low Stock
+QC1440,2025-01-01,14:27,Mumbai,W1,P458,Beverages,Energy Drink,208,3,27,Aman,50,4.1,CARD,624,January,Wednesday,2025,1,Medium,In Stock
+QC1441,2025-03-17,14:10,Mumbai,W3,P720,Fruits,Apple,56,3,3,Suresh,25,4.5,UPI,168,March,Monday,2025,3,Fast,Low Stock
+QC1442,2025-02-18,08:45,Pune,W5,P345,Bakery,Cake,163,2,28,Suresh,16,3.5,CARD,326,February,Tuesday,2025,2,Fast,In Stock
+QC1443,2025-03-01,17:48,Pune,W3,P871,Beverages,Soft Drink,78,4,0,Aman,33,3.6,WALLET,312,March,Saturday,2025,3,Medium,Low Stock
+QC1444,2025-05-10,17:14,Bangalore,W2,P471,Snacks,Biscuits,235,5,26,Karthik,23,4.4,CARD,1175,May,Saturday,2025,5,Fast,In Stock
+QC1445,2025-04-25,20:08,Hyderabad,W1,P804,Bakery,Bread,64,1,0,Ravi,49,4.3,CARD,64,April,Friday,2025,4,Medium,Low Stock
+QC1446,2025-06-14,10:14,Hyderabad,W3,P258,Beverages,Energy Drink,50,5,44,Sameer,50,4.5,WALLET,250,June,Saturday,2025,6,Medium,In Stock
+QC1447,2025-02-17,13:18,Chennai,W3,P233,Dairy,Curd,196,1,26,Rahul,40,4.9,WALLET,196,February,Monday,2025,2,Medium,In Stock
+QC1448,2025-03-21,23:01,Mumbai,W6,P393,Frozen,Ice Cream,115,2,52,Vikram,21,4.4,COD,230,March,Friday,2025,3,Fast,In Stock
+QC1449,2025-01-20,21:52,Delhi,W3,P775,Snacks,Nachos,125,1,34,Arjun,32,3.4,UPI,125,January,Monday,2025,1,Medium,In Stock
+QC1450,2025-03-05,12:25,Mumbai,W2,P812,Fruits,Orange,43,5,3,Suresh,48,3.5,CARD,215,March,Wednesday,2025,3,Medium,Low Stock
+QC1451,2025-03-11,13:44,Chennai,W2,P171,Bakery,Buns,75,4,40,Sameer,29,4.6,COD,300,March,Tuesday,2025,3,Fast,In Stock
+QC1452,2025-01-28,11:02,Mumbai,W5,P162,Fruits,Banana,34,2,44,Suresh,25,3.9,UPI,68,January,Tuesday,2025,1,Fast,In Stock
+QC1453,2025-05-22,12:51,Mumbai,W1,P531,Bakery,Cake,152,1,11,Sameer,21,3.9,CARD,152,May,Thursday,2025,5,Fast,Low Stock
+QC1454,2025-03-10,10:01,Pune,W1,P980,Fruits,Banana,246,4,16,Vikram,15,3.2,UPI,984,March,Monday,2025,3,Fast,Low Stock
+QC1455,2025-05-28,13:19,Mumbai,W6,P190,Fruits,Orange,138,1,57,Rahul,14,4.9,COD,138,May,Wednesday,2025,5,Fast,In Stock
+QC1456,2025-03-16,13:46,Chennai,W1,P123,Frozen,Frozen Peas,217,5,27,Sameer,28,3.9,COD,1085,March,Sunday,2025,3,Fast,In Stock
+QC1457,2025-03-15,10:12,Hyderabad,W1,P424,Fruits,Orange,196,2,6,Suresh,19,4.3,UPI,392,March,Saturday,2025,3,Fast,Low Stock
+QC1458,2025-01-17,15:09,Hyderabad,W4,P811,Fruits,Orange,48,5,43,Rahul,23,4.7,UPI,240,January,Friday,2025,1,Fast,In Stock
+QC1459,2025-03-02,22:49,Bangalore,W6,P264,Snacks,Potato Chips,132,1,21,Karthik,16,4.9,COD,132,March,Sunday,2025,3,Fast,In Stock
+QC1460,2025-01-01,14:53,Mumbai,W2,P871,Beverages,Soft Drink,128,3,48,Rahul,45,4.1,CARD,384,January,Wednesday,2025,1,Medium,In Stock
+QC1461,2025-04-24,11:49,Mumbai,W3,P613,Snacks,Potato Chips,247,4,41,Aman,41,4.4,UPI,988,April,Thursday,2025,4,Medium,In Stock
+QC1462,2025-03-17,19:40,Bangalore,W3,P642,Fruits,Apple,91,1,12,Arjun,39,3.9,WALLET,91,March,Monday,2025,3,Medium,Low Stock
+QC1463,2025-04-08,16:59,Chennai,W2,P115,Dairy,Milk 1L,177,3,48,Arjun,19,4.5,CARD,531,April,Tuesday,2025,4,Fast,In Stock
+QC1464,2025-06-02,23:05,Pune,W5,P901,Frozen,Frozen Peas,109,3,21,Ravi,31,3.1,CARD,327,June,Monday,2025,6,Medium,In Stock
+QC1465,2025-01-25,10:34,Mumbai,W3,P973,Frozen,Ice Cream,190,1,5,Arjun,49,3.2,WALLET,190,January,Saturday,2025,1,Medium,Low Stock
+QC1466,2025-03-12,14:02,Pune,W3,P561,Frozen,Frozen Peas,114,1,28,Karthik,34,3.9,COD,114,March,Wednesday,2025,3,Medium,In Stock
+QC1467,2025-03-10,22:11,Pune,W2,P254,Dairy,Curd,177,3,19,Arjun,24,4.2,CARD,531,March,Monday,2025,3,Fast,Low Stock
+QC1468,2025-05-23,23:44,Delhi,W5,P853,Frozen,Frozen Peas,156,2,8,Vikram,26,3.4,COD,312,May,Friday,2025,5,Fast,Low Stock
+QC1469,2025-05-31,22:20,Mumbai,W6,P219,Fruits,Orange,191,4,32,Ravi,26,4.3,CARD,764,May,Saturday,2025,5,Fast,In Stock
+QC1470,2025-03-25,11:08,Chennai,W6,P280,Beverages,Juice,212,1,57,Ravi,21,4.1,UPI,212,March,Tuesday,2025,3,Fast,In Stock
+QC1471,2025-04-26,19:40,Hyderabad,W1,P595,Fruits,Banana,136,1,57,Arjun,26,3.3,WALLET,136,April,Saturday,2025,4,Fast,In Stock
+QC1472,2025-06-29,20:52,Hyderabad,W3,P730,Frozen,Frozen Peas,101,5,7,Arjun,50,3.1,CARD,505,June,Sunday,2025,6,Medium,Low Stock
+QC1473,2025-03-21,18:44,Chennai,W6,P330,Frozen,Frozen Peas,107,4,27,Vikram,46,3.2,CARD,428,March,Friday,2025,3,Medium,In Stock
+QC1474,2025-06-25,17:01,Chennai,W4,P423,Bakery,Cake,139,1,44,Sameer,13,3.2,COD,139,June,Wednesday,2025,6,Fast,In Stock
+QC1475,2025-05-22,08:22,Pune,W4,P634,Bakery,Bread,249,5,14,Sameer,47,4.9,UPI,1245,May,Thursday,2025,5,Medium,Low Stock
+QC1476,2025-04-13,10:26,Delhi,W3,P526,Fruits,Apple,205,2,49,Karthik,35,3.9,COD,410,April,Sunday,2025,4,Medium,In Stock
+QC1477,2025-06-20,12:19,Pune,W5,P775,Snacks,Biscuits,170,3,42,Vikram,26,4.0,COD,510,June,Friday,2025,6,Fast,In Stock
+QC1478,2025-04-17,19:43,Chennai,W2,P733,Frozen,Ice Cream,135,2,16,Ravi,41,3.5,COD,270,April,Thursday,2025,4,Medium,Low Stock
+QC1479,2025-03-28,08:13,Pune,W6,P352,Beverages,Soft Drink,143,1,14,Sameer,44,3.1,UPI,143,March,Friday,2025,3,Medium,Low Stock
+QC1480,2025-02-01,11:59,Pune,W1,P398,Beverages,Juice,225,5,4,Ravi,41,4.2,COD,1125,February,Saturday,2025,2,Medium,Low Stock
+QC1481,2025-04-13,12:16,Hyderabad,W4,P674,Frozen,Ice Cream,204,2,7,Suresh,16,4.7,COD,408,April,Sunday,2025,4,Fast,Low Stock
+QC1482,2025-01-14,15:27,Delhi,W3,P641,Dairy,Milk 1L,122,2,30,Sameer,17,4.2,COD,244,January,Tuesday,2025,1,Fast,In Stock
+QC1483,2025-03-16,11:02,Mumbai,W2,P985,Fruits,Orange,111,4,29,Suresh,28,3.7,COD,444,March,Sunday,2025,3,Fast,In Stock
+QC1484,2025-04-09,20:44,Pune,W4,P732,Bakery,Buns,209,5,24,Arjun,19,4.1,COD,1045,April,Wednesday,2025,4,Fast,In Stock
+QC1485,2025-05-19,19:16,Delhi,W5,P407,Bakery,Cake,149,3,39,Sameer,13,4.1,UPI,447,May,Monday,2025,5,Fast,In Stock
+QC1486,2025-05-07,11:11,Mumbai,W1,P416,Dairy,Butter,152,5,58,Karthik,31,5.0,COD,760,May,Wednesday,2025,5,Medium,In Stock
+QC1487,2025-03-15,23:39,Mumbai,W1,P497,Frozen,Ice Cream,154,5,55,Ravi,42,4.6,CARD,770,March,Saturday,2025,3,Medium,In Stock
+QC1488,2025-03-20,22:46,Hyderabad,W6,P564,Dairy,Curd,184,3,19,Suresh,47,4.4,UPI,552,March,Thursday,2025,3,Medium,Low Stock
+QC1489,2025-01-13,19:32,Delhi,W5,P356,Fruits,Orange,184,4,21,Karthik,42,4.4,COD,736,January,Monday,2025,1,Medium,In Stock
+QC1490,2025-01-26,19:01,Hyderabad,W1,P662,Frozen,Ice Cream,209,5,15,Arjun,25,3.6,CARD,1045,January,Sunday,2025,1,Fast,Low Stock
+QC1491,2025-03-24,21:37,Hyderabad,W1,P519,Beverages,Juice,188,5,11,Arjun,13,4.5,COD,940,March,Monday,2025,3,Fast,Low Stock
+QC1492,2025-05-22,19:31,Pune,W6,P902,Fruits,Orange,89,1,11,Sameer,22,4.8,COD,89,May,Thursday,2025,5,Fast,Low Stock
+QC1493,2025-02-16,08:03,Delhi,W5,P912,Fruits,Orange,91,3,37,Suresh,45,4.1,CARD,273,February,Sunday,2025,2,Medium,In Stock
+QC1494,2025-03-27,10:50,Pune,W4,P549,Snacks,Biscuits,93,2,1,Arjun,25,4.3,CARD,186,March,Thursday,2025,3,Fast,Low Stock
+QC1495,2025-05-09,23:18,Delhi,W1,P453,Snacks,Nachos,69,5,2,Ravi,47,3.1,COD,345,May,Friday,2025,5,Medium,Low Stock
+QC1496,2025-01-29,19:14,Delhi,W2,P891,Fruits,Orange,99,3,52,Ravi,15,3.0,COD,297,January,Wednesday,2025,1,Fast,In Stock
+QC1497,2025-01-03,09:51,Delhi,W6,P964,Fruits,Banana,125,2,27,Vikram,15,3.9,COD,250,January,Friday,2025,1,Fast,In Stock
+QC1498,2025-06-17,19:35,Delhi,W6,P260,Dairy,Milk 1L,165,3,32,Aman,38,4.5,COD,495,June,Tuesday,2025,6,Medium,In Stock
+QC1499,2025-02-16,17:06,Pune,W2,P566,Bakery,Buns,222,4,24,Aman,10,4.1,UPI,888,February,Sunday,2025,2,Fast,In Stock
+QC1500,2025-01-15,12:35,Hyderabad,W1,P362,Beverages,Juice,237,4,7,Suresh,35,4.2,COD,948,January,Wednesday,2025,1,Medium,Low Stock
+QC1501,2025-05-25,09:55,Pune,W4,P553,Fruits,Apple,213,5,48,Vikram,24,3.8,COD,1065,May,Sunday,2025,5,Fast,In Stock
+QC1502,2025-04-05,08:45,Hyderabad,W5,P697,Fruits,Banana,30,3,15,Aman,48,4.6,CARD,90,April,Saturday,2025,4,Medium,Low Stock
+QC1503,2025-04-29,08:40,Bangalore,W1,P371,Fruits,Apple,74,1,5,Suresh,33,4.4,UPI,74,April,Tuesday,2025,4,Medium,Low Stock
+QC1504,2025-05-09,17:19,Chennai,W2,P388,Frozen,Ice Cream,73,5,11,Rahul,11,4.3,UPI,365,May,Friday,2025,5,Fast,Low Stock
+QC1505,2025-04-27,10:32,Delhi,W2,P426,Snacks,Potato Chips,151,3,38,Suresh,48,3.4,UPI,453,April,Sunday,2025,4,Medium,In Stock
+QC1506,2025-06-09,10:32,Mumbai,W2,P518,Snacks,Nachos,219,2,41,Sameer,18,4.4,UPI,438,June,Monday,2025,6,Fast,In Stock
+QC1507,2025-01-11,17:47,Hyderabad,W3,P473,Dairy,Milk 1L,57,5,10,Rahul,41,3.1,CARD,285,January,Saturday,2025,1,Medium,Low Stock
+QC1508,2025-06-06,18:13,Hyderabad,W6,P611,Snacks,Biscuits,182,2,60,Aman,50,4.1,WALLET,364,June,Friday,2025,6,Medium,In Stock
+QC1509,2025-04-23,14:58,Bangalore,W5,P975,Bakery,Cake,154,5,51,Aman,48,4.1,COD,770,April,Wednesday,2025,4,Medium,In Stock
+QC1510,2025-01-07,21:32,Pune,W6,P316,Fruits,Orange,188,2,6,Arjun,14,3.7,UPI,376,January,Tuesday,2025,1,Fast,Low Stock
+QC1511,2025-02-25,18:12,Hyderabad,W1,P720,Frozen,Frozen Peas,201,3,17,Karthik,27,3.9,WALLET,603,February,Tuesday,2025,2,Fast,Low Stock
+QC1512,2025-04-28,10:23,Bangalore,W4,P256,Dairy,Curd,52,1,17,Karthik,45,3.3,UPI,52,April,Monday,2025,4,Medium,Low Stock
+QC1513,2025-06-21,20:24,Hyderabad,W3,P908,Fruits,Orange,124,2,13,Aman,17,3.1,UPI,248,June,Saturday,2025,6,Fast,Low Stock
+QC1514,2025-01-08,21:25,Pune,W6,P867,Snacks,Biscuits,121,1,8,Arjun,28,4.5,CARD,121,January,Wednesday,2025,1,Fast,Low Stock
+QC1515,2025-03-19,22:47,Chennai,W5,P790,Bakery,Buns,109,5,56,Ravi,31,3.2,WALLET,545,March,Wednesday,2025,3,Medium,In Stock
+QC1516,2025-06-03,23:17,Mumbai,W1,P611,Bakery,Buns,73,5,44,Ravi,27,3.3,UPI,365,June,Tuesday,2025,6,Fast,In Stock
+QC1517,2025-05-25,08:50,Chennai,W6,P804,Bakery,Cake,192,2,38,Ravi,34,4.2,CARD,384,May,Sunday,2025,5,Medium,In Stock
+QC1518,2025-05-19,19:49,Hyderabad,W6,P691,Fruits,Apple,153,2,11,Rahul,48,3.6,WALLET,306,May,Monday,2025,5,Medium,Low Stock
+QC1519,2025-03-28,10:59,Delhi,W3,P716,Bakery,Bread,49,5,32,Rahul,39,3.4,COD,245,March,Friday,2025,3,Medium,In Stock
+QC1520,2025-03-24,17:11,Chennai,W2,P452,Beverages,Juice,227,3,22,Sameer,50,4.5,CARD,681,March,Monday,2025,3,Medium,In Stock
+QC1521,2025-03-31,23:44,Mumbai,W4,P465,Fruits,Apple,178,1,25,Aman,44,4.0,WALLET,178,March,Monday,2025,3,Medium,In Stock
+QC1522,2025-06-17,21:04,Delhi,W3,P621,Bakery,Bread,170,5,37,Karthik,34,3.7,UPI,850,June,Tuesday,2025,6,Medium,In Stock
+QC1523,2025-02-11,11:10,Mumbai,W4,P534,Frozen,Frozen Peas,246,2,56,Vikram,45,4.7,COD,492,February,Tuesday,2025,2,Medium,In Stock
+QC1524,2025-04-02,22:09,Pune,W2,P353,Snacks,Biscuits,60,3,8,Arjun,12,4.6,UPI,180,April,Wednesday,2025,4,Fast,Low Stock
+QC1525,2025-06-22,09:14,Delhi,W4,P832,Fruits,Banana,61,1,16,Vikram,50,3.2,WALLET,61,June,Sunday,2025,6,Medium,Low Stock
+QC1526,2025-05-16,21:07,Delhi,W4,P216,Fruits,Orange,48,5,34,Ravi,40,4.6,WALLET,240,May,Friday,2025,5,Medium,In Stock
+QC1527,2025-01-09,14:11,Bangalore,W6,P149,Dairy,Curd,233,1,10,Vikram,16,4.8,CARD,233,January,Thursday,2025,1,Fast,Low Stock
+QC1528,2025-01-05,15:46,Mumbai,W4,P313,Fruits,Orange,53,1,33,Rahul,40,3.9,COD,53,January,Sunday,2025,1,Medium,In Stock
+QC1529,2025-03-21,15:00,Pune,W5,P530,Dairy,Curd,234,2,37,Aman,21,4.1,WALLET,468,March,Friday,2025,3,Fast,In Stock
+QC1530,2025-02-12,18:23,Hyderabad,W6,P778,Beverages,Energy Drink,143,2,58,Suresh,36,4.5,WALLET,286,February,Wednesday,2025,2,Medium,In Stock
+QC1531,2025-04-22,08:15,Bangalore,W2,P648,Bakery,Buns,132,3,17,Ravi,40,3.1,UPI,396,April,Tuesday,2025,4,Medium,Low Stock
+QC1532,2025-05-31,19:06,Chennai,W5,P226,Beverages,Juice,83,5,29,Suresh,34,3.4,UPI,415,May,Saturday,2025,5,Medium,In Stock
+QC1533,2025-04-20,12:33,Chennai,W2,P360,Snacks,Potato Chips,154,3,22,Ravi,50,3.7,UPI,462,April,Sunday,2025,4,Medium,In Stock
+QC1534,2025-02-12,19:16,Mumbai,W1,P661,Fruits,Orange,128,5,30,Ravi,29,3.5,WALLET,640,February,Wednesday,2025,2,Fast,In Stock
+QC1535,2025-05-10,20:58,Delhi,W6,P436,Bakery,Buns,38,2,27,Rahul,44,4.4,UPI,76,May,Saturday,2025,5,Medium,In Stock
+QC1536,2025-04-21,17:15,Mumbai,W5,P863,Bakery,Bread,166,1,15,Karthik,15,3.4,COD,166,April,Monday,2025,4,Fast,Low Stock
+QC1537,2025-03-27,09:47,Chennai,W3,P676,Beverages,Soft Drink,63,5,43,Vikram,45,4.5,CARD,315,March,Thursday,2025,3,Medium,In Stock
+QC1538,2025-04-17,15:15,Delhi,W1,P223,Dairy,Curd,170,4,10,Suresh,50,4.5,WALLET,680,April,Thursday,2025,4,Medium,Low Stock
+QC1539,2025-02-04,13:06,Pune,W2,P167,Fruits,Banana,200,1,14,Sameer,21,4.6,CARD,200,February,Tuesday,2025,2,Fast,Low Stock
+QC1540,2025-06-13,15:20,Mumbai,W5,P826,Beverages,Juice,85,4,10,Aman,21,4.4,COD,340,June,Friday,2025,6,Fast,Low Stock
+QC1541,2025-01-16,18:16,Pune,W3,P194,Beverages,Juice,99,3,35,Rahul,17,4.1,CARD,297,January,Thursday,2025,1,Fast,In Stock
+QC1542,2025-06-11,12:47,Chennai,W1,P925,Dairy,Milk 1L,67,1,15,Sameer,50,3.4,CARD,67,June,Wednesday,2025,6,Medium,Low Stock
+QC1543,2025-04-20,09:00,Pune,W4,P357,Dairy,Milk 1L,143,1,11,Suresh,43,3.9,COD,143,April,Sunday,2025,4,Medium,Low Stock
+QC1544,2025-06-22,08:23,Bangalore,W3,P336,Snacks,Biscuits,245,3,5,Rahul,15,4.5,COD,735,June,Sunday,2025,6,Fast,Low Stock
+QC1545,2025-06-25,21:11,Bangalore,W3,P147,Fruits,Banana,59,1,19,Rahul,42,4.5,WALLET,59,June,Wednesday,2025,6,Medium,Low Stock
+QC1546,2025-03-04,12:01,Mumbai,W2,P854,Beverages,Juice,212,2,29,Suresh,40,3.8,WALLET,424,March,Tuesday,2025,3,Medium,In Stock
+QC1547,2025-02-19,18:06,Bangalore,W5,P494,Snacks,Nachos,158,3,19,Vikram,20,4.5,CARD,474,February,Wednesday,2025,2,Fast,Low Stock
+QC1548,2025-04-08,20:28,Mumbai,W4,P128,Fruits,Apple,212,1,42,Karthik,35,3.9,CARD,212,April,Tuesday,2025,4,Medium,In Stock
+QC1549,2025-03-22,13:52,Delhi,W4,P677,Frozen,Ice Cream,143,1,57,Vikram,34,4.3,UPI,143,March,Saturday,2025,3,Medium,In Stock
+QC1550,2025-02-18,22:57,Hyderabad,W2,P726,Snacks,Potato Chips,46,4,31,Ravi,37,3.4,WALLET,184,February,Tuesday,2025,2,Medium,In Stock
+QC1551,2025-04-28,21:26,Hyderabad,W1,P726,Fruits,Banana,165,3,60,Rahul,21,4.4,COD,495,April,Monday,2025,4,Fast,In Stock
+QC1552,2025-05-07,10:34,Hyderabad,W3,P543,Frozen,Frozen Peas,58,3,59,Sameer,38,4.2,CARD,174,May,Wednesday,2025,5,Medium,In Stock
+QC1553,2025-05-08,18:04,Hyderabad,W1,P116,Dairy,Milk 1L,30,3,24,Ravi,13,3.3,UPI,90,May,Thursday,2025,5,Fast,In Stock
+QC1554,2025-05-15,12:54,Hyderabad,W6,P786,Frozen,Ice Cream,145,1,16,Karthik,13,4.5,CARD,145,May,Thursday,2025,5,Fast,Low Stock
+QC1555,2025-03-15,16:52,Delhi,W2,P330,Bakery,Cake,119,3,31,Arjun,45,3.6,WALLET,357,March,Saturday,2025,3,Medium,In Stock
+QC1556,2025-06-17,14:59,Bangalore,W6,P292,Beverages,Juice,130,1,55,Aman,15,3.1,CARD,130,June,Tuesday,2025,6,Fast,In Stock
+QC1557,2025-05-04,23:41,Hyderabad,W3,P290,Frozen,Frozen Peas,206,4,40,Ravi,42,4.0,UPI,824,May,Sunday,2025,5,Medium,In Stock
+QC1558,2025-04-23,14:49,Pune,W1,P432,Dairy,Curd,182,3,41,Karthik,45,3.3,UPI,546,April,Wednesday,2025,4,Medium,In Stock
+QC1559,2025-03-20,10:03,Pune,W3,P981,Beverages,Soft Drink,237,2,26,Arjun,25,4.0,COD,474,March,Thursday,2025,3,Fast,In Stock
+QC1560,2025-06-20,13:18,Mumbai,W6,P456,Snacks,Potato Chips,56,2,55,Arjun,15,3.8,UPI,112,June,Friday,2025,6,Fast,In Stock
+QC1561,2025-04-03,11:59,Mumbai,W5,P570,Beverages,Juice,220,5,43,Arjun,13,4.3,UPI,1100,April,Thursday,2025,4,Fast,In Stock
+QC1562,2025-04-07,12:01,Delhi,W6,P280,Dairy,Milk 1L,99,4,6,Ravi,45,4.4,CARD,396,April,Monday,2025,4,Medium,Low Stock
+QC1563,2025-02-13,22:54,Hyderabad,W5,P426,Dairy,Milk 1L,97,4,20,Ravi,40,3.2,COD,388,February,Thursday,2025,2,Medium,In Stock
+QC1564,2025-04-01,13:08,Pune,W3,P469,Bakery,Buns,65,4,0,Vikram,49,3.9,UPI,260,April,Tuesday,2025,4,Medium,Low Stock
+QC1565,2025-02-22,17:59,Hyderabad,W6,P515,Snacks,Nachos,40,1,56,Sameer,43,4.5,UPI,40,February,Saturday,2025,2,Medium,In Stock
+QC1566,2025-06-27,15:36,Mumbai,W2,P346,Beverages,Energy Drink,151,4,0,Ravi,37,3.7,COD,604,June,Friday,2025,6,Medium,Low Stock
+QC1567,2025-05-21,12:58,Pune,W5,P819,Frozen,Ice Cream,102,1,51,Rahul,29,3.3,COD,102,May,Wednesday,2025,5,Fast,In Stock
+QC1568,2025-02-24,15:27,Bangalore,W3,P144,Beverages,Energy Drink,67,3,59,Aman,21,3.6,UPI,201,February,Monday,2025,2,Fast,In Stock
+QC1569,2025-05-10,21:14,Delhi,W4,P196,Beverages,Soft Drink,178,4,42,Sameer,34,3.9,UPI,712,May,Saturday,2025,5,Medium,In Stock
+QC1570,2025-02-02,23:20,Pune,W3,P674,Bakery,Cake,144,1,43,Ravi,15,3.1,WALLET,144,February,Sunday,2025,2,Fast,In Stock
+QC1571,2025-04-26,13:18,Chennai,W1,P294,Bakery,Buns,209,1,6,Aman,24,4.4,CARD,209,April,Saturday,2025,4,Fast,Low Stock
+QC1572,2025-03-11,19:19,Hyderabad,W5,P608,Fruits,Orange,102,1,46,Arjun,37,3.6,WALLET,102,March,Tuesday,2025,3,Medium,In Stock
+QC1573,2025-02-01,21:15,Delhi,W3,P996,Frozen,Frozen Peas,230,3,27,Ravi,34,4.0,WALLET,690,February,Saturday,2025,2,Medium,In Stock
+QC1574,2025-05-21,12:30,Hyderabad,W6,P213,Snacks,Nachos,131,3,43,Sameer,50,3.8,CARD,393,May,Wednesday,2025,5,Medium,In Stock
+QC1575,2025-02-04,11:05,Chennai,W4,P495,Frozen,Frozen Peas,243,1,53,Ravi,45,3.9,COD,243,February,Tuesday,2025,2,Medium,In Stock
+QC1576,2025-06-26,15:46,Pune,W2,P107,Beverages,Soft Drink,61,3,47,Vikram,19,4.6,WALLET,183,June,Thursday,2025,6,Fast,In Stock
+QC1577,2025-02-23,15:41,Hyderabad,W1,P896,Frozen,Ice Cream,232,3,51,Sameer,20,4.1,WALLET,696,February,Sunday,2025,2,Fast,In Stock
+QC1578,2025-04-07,21:27,Mumbai,W1,P492,Snacks,Biscuits,102,4,34,Aman,32,4.8,UPI,408,April,Monday,2025,4,Medium,In Stock
+QC1579,2025-04-12,09:36,Chennai,W4,P363,Fruits,Apple,164,4,11,Sameer,26,4.7,CARD,656,April,Saturday,2025,4,Fast,Low Stock
+QC1580,2025-01-14,16:16,Mumbai,W4,P420,Dairy,Butter,169,2,30,Ravi,18,4.9,UPI,338,January,Tuesday,2025,1,Fast,In Stock
+QC1581,2025-06-12,10:27,Chennai,W4,P917,Dairy,Milk 1L,147,3,36,Ravi,20,4.9,UPI,441,June,Thursday,2025,6,Fast,In Stock
+QC1582,2025-05-29,11:33,Bangalore,W6,P212,Fruits,Banana,192,4,7,Karthik,22,4.1,WALLET,768,May,Thursday,2025,5,Fast,Low Stock
+QC1583,2025-01-28,18:35,Bangalore,W1,P753,Frozen,Frozen Peas,100,1,1,Vikram,38,4.7,CARD,100,January,Tuesday,2025,1,Medium,Low Stock
+QC1584,2025-03-24,21:47,Chennai,W6,P984,Snacks,Potato Chips,205,5,10,Ravi,14,3.1,COD,1025,March,Monday,2025,3,Fast,Low Stock
+QC1585,2025-03-18,17:42,Delhi,W1,P311,Dairy,Curd,206,5,12,Karthik,30,3.4,UPI,1030,March,Tuesday,2025,3,Medium,Low Stock
+QC1586,2025-03-16,17:17,Hyderabad,W2,P761,Frozen,Ice Cream,108,4,11,Ravi,25,4.4,CARD,432,March,Sunday,2025,3,Fast,Low Stock
+QC1587,2025-05-15,08:34,Delhi,W5,P289,Fruits,Orange,159,2,11,Ravi,50,3.0,UPI,318,May,Thursday,2025,5,Medium,Low Stock
+QC1588,2025-06-26,14:07,Pune,W4,P573,Frozen,Ice Cream,47,4,53,Arjun,39,3.6,UPI,188,June,Thursday,2025,6,Medium,In Stock
+QC1589,2025-03-13,13:37,Hyderabad,W1,P725,Dairy,Curd,241,2,6,Sameer,41,4.0,COD,482,March,Thursday,2025,3,Medium,Low Stock
+QC1590,2025-05-25,10:06,Chennai,W3,P858,Bakery,Cake,74,3,43,Sameer,41,4.7,COD,222,May,Sunday,2025,5,Medium,In Stock
+QC1591,2025-05-19,14:04,Chennai,W1,P997,Beverages,Juice,135,5,5,Aman,29,4.4,UPI,675,May,Monday,2025,5,Fast,Low Stock
+QC1592,2025-02-04,10:45,Hyderabad,W4,P334,Fruits,Apple,193,1,5,Vikram,30,3.7,UPI,193,February,Tuesday,2025,2,Medium,Low Stock
+QC1593,2025-05-03,14:22,Delhi,W3,P785,Dairy,Curd,106,3,25,Arjun,21,3.3,CARD,318,May,Saturday,2025,5,Fast,In Stock
+QC1594,2025-02-11,17:07,Bangalore,W6,P848,Dairy,Butter,175,1,50,Rahul,24,4.4,CARD,175,February,Tuesday,2025,2,Fast,In Stock
+QC1595,2025-04-08,20:39,Chennai,W3,P495,Bakery,Buns,206,4,45,Suresh,45,3.6,UPI,824,April,Tuesday,2025,4,Medium,In Stock
+QC1596,2025-01-27,08:10,Delhi,W6,P333,Bakery,Cake,226,4,19,Sameer,27,4.9,UPI,904,January,Monday,2025,1,Fast,Low Stock
+QC1597,2025-01-29,22:34,Mumbai,W3,P267,Fruits,Apple,133,1,44,Aman,41,4.3,UPI,133,January,Wednesday,2025,1,Medium,In Stock
+QC1598,2025-03-07,14:12,Bangalore,W1,P743,Frozen,Frozen Peas,59,2,39,Rahul,32,3.6,CARD,118,March,Friday,2025,3,Medium,In Stock
+QC1599,2025-04-25,19:57,Pune,W6,P575,Bakery,Cake,215,5,44,Ravi,17,4.8,WALLET,1075,April,Friday,2025,4,Fast,In Stock
+QC1600,2025-03-15,18:22,Pune,W3,P532,Fruits,Orange,95,5,31,Aman,41,3.1,CARD,475,March,Saturday,2025,3,Medium,In Stock
+QC1601,2025-02-11,18:44,Delhi,W6,P576,Dairy,Curd,77,2,41,Ravi,44,4.9,UPI,154,February,Tuesday,2025,2,Medium,In Stock
+QC1602,2025-04-01,09:01,Mumbai,W2,P430,Bakery,Bread,92,1,15,Karthik,43,3.0,COD,92,April,Tuesday,2025,4,Medium,Low Stock
+QC1603,2025-04-15,23:28,Mumbai,W5,P268,Fruits,Apple,96,5,14,Ravi,13,3.4,COD,480,April,Tuesday,2025,4,Fast,Low Stock
+QC1604,2025-06-08,22:42,Pune,W6,P434,Fruits,Banana,242,2,33,Arjun,33,3.8,COD,484,June,Sunday,2025,6,Medium,In Stock
+QC1605,2025-06-17,09:20,Hyderabad,W1,P204,Beverages,Soft Drink,177,3,43,Ravi,18,4.4,WALLET,531,June,Tuesday,2025,6,Fast,In Stock
+QC1606,2025-05-19,21:19,Chennai,W3,P428,Dairy,Milk 1L,66,3,59,Vikram,12,3.6,WALLET,198,May,Monday,2025,5,Fast,In Stock
+QC1607,2025-03-18,09:26,Chennai,W3,P139,Dairy,Milk 1L,177,4,36,Rahul,20,4.1,CARD,708,March,Tuesday,2025,3,Fast,In Stock
+QC1608,2025-06-06,10:55,Mumbai,W2,P677,Bakery,Bread,88,5,43,Vikram,19,4.6,WALLET,440,June,Friday,2025,6,Fast,In Stock
+QC1609,2025-02-06,13:17,Bangalore,W6,P346,Beverages,Energy Drink,225,1,1,Ravi,28,4.6,UPI,225,February,Thursday,2025,2,Fast,Low Stock
+QC1610,2025-04-20,20:14,Delhi,W2,P372,Dairy,Milk 1L,32,5,28,Rahul,20,4.0,WALLET,160,April,Sunday,2025,4,Fast,In Stock
+QC1611,2025-04-23,18:53,Chennai,W2,P272,Snacks,Potato Chips,74,2,48,Suresh,38,4.8,WALLET,148,April,Wednesday,2025,4,Medium,In Stock
+QC1612,2025-02-05,22:16,Mumbai,W2,P255,Dairy,Curd,192,1,47,Ravi,19,5.0,COD,192,February,Wednesday,2025,2,Fast,In Stock
+QC1613,2025-04-30,10:32,Mumbai,W3,P931,Dairy,Milk 1L,222,5,20,Ravi,17,4.6,COD,1110,April,Wednesday,2025,4,Fast,In Stock
+QC1614,2025-02-20,09:16,Chennai,W6,P869,Beverages,Juice,120,2,9,Arjun,39,3.6,UPI,240,February,Thursday,2025,2,Medium,Low Stock
+QC1615,2025-03-14,14:25,Hyderabad,W4,P306,Frozen,Ice Cream,219,5,26,Vikram,13,3.5,UPI,1095,March,Friday,2025,3,Fast,In Stock
+QC1616,2025-04-26,17:28,Pune,W6,P533,Bakery,Cake,39,1,20,Vikram,22,3.0,WALLET,39,April,Saturday,2025,4,Fast,In Stock
+QC1617,2025-05-11,13:54,Pune,W4,P557,Dairy,Butter,105,2,43,Vikram,44,3.1,COD,210,May,Sunday,2025,5,Medium,In Stock
+QC1618,2025-05-06,19:26,Hyderabad,W5,P845,Beverages,Energy Drink,80,5,43,Vikram,12,4.2,COD,400,May,Tuesday,2025,5,Fast,In Stock
+QC1619,2025-04-30,10:31,Hyderabad,W5,P704,Bakery,Cake,188,2,52,Sameer,39,3.2,UPI,376,April,Wednesday,2025,4,Medium,In Stock
+QC1620,2025-03-03,22:12,Hyderabad,W4,P228,Beverages,Soft Drink,75,5,16,Aman,24,3.6,CARD,375,March,Monday,2025,3,Fast,Low Stock
+QC1621,2025-05-03,19:12,Bangalore,W4,P292,Dairy,Curd,236,1,50,Arjun,11,5.0,UPI,236,May,Saturday,2025,5,Fast,In Stock
+QC1622,2025-03-10,18:50,Pune,W5,P159,Beverages,Juice,56,5,60,Arjun,39,3.0,UPI,280,March,Monday,2025,3,Medium,In Stock
+QC1623,2025-06-28,18:23,Bangalore,W3,P162,Snacks,Biscuits,191,2,54,Ravi,33,4.7,CARD,382,June,Saturday,2025,6,Medium,In Stock
+QC1624,2025-03-10,15:43,Pune,W2,P308,Bakery,Cake,196,5,56,Vikram,18,3.5,CARD,980,March,Monday,2025,3,Fast,In Stock
+QC1625,2025-02-10,16:24,Chennai,W3,P701,Fruits,Apple,206,2,56,Sameer,19,3.0,WALLET,412,February,Monday,2025,2,Fast,In Stock
+QC1626,2025-02-18,21:54,Delhi,W6,P696,Fruits,Apple,246,3,15,Vikram,26,3.5,WALLET,738,February,Tuesday,2025,2,Fast,Low Stock
+QC1627,2025-02-21,10:06,Delhi,W5,P397,Frozen,Ice Cream,191,2,29,Sameer,23,3.2,COD,382,February,Friday,2025,2,Fast,In Stock
+QC1628,2025-02-22,16:23,Bangalore,W5,P334,Beverages,Juice,131,2,22,Suresh,33,3.7,COD,262,February,Saturday,2025,2,Medium,In Stock
+QC1629,2025-03-03,23:12,Bangalore,W1,P589,Frozen,Ice Cream,43,2,48,Vikram,38,4.7,UPI,86,March,Monday,2025,3,Medium,In Stock
+QC1630,2025-04-27,16:58,Hyderabad,W4,P820,Snacks,Biscuits,38,5,50,Ravi,43,3.0,COD,190,April,Sunday,2025,4,Medium,In Stock
+QC1631,2025-06-22,22:24,Bangalore,W5,P755,Beverages,Energy Drink,213,1,39,Arjun,34,3.9,WALLET,213,June,Sunday,2025,6,Medium,In Stock
+QC1632,2025-06-27,13:20,Hyderabad,W6,P643,Beverages,Soft Drink,73,3,2,Sameer,47,4.7,WALLET,219,June,Friday,2025,6,Medium,Low Stock
+QC1633,2025-03-30,21:06,Delhi,W1,P358,Bakery,Cake,79,3,24,Sameer,50,4.8,UPI,237,March,Sunday,2025,3,Medium,In Stock
+QC1634,2025-04-22,22:24,Chennai,W2,P184,Snacks,Potato Chips,190,2,23,Arjun,29,4.2,WALLET,380,April,Tuesday,2025,4,Fast,In Stock
+QC1635,2025-02-05,09:03,Bangalore,W2,P630,Beverages,Energy Drink,249,2,22,Vikram,46,3.4,CARD,498,February,Wednesday,2025,2,Medium,In Stock
+QC1636,2025-06-16,18:02,Pune,W4,P487,Bakery,Bread,101,2,5,Sameer,11,4.0,UPI,202,June,Monday,2025,6,Fast,Low Stock
+QC1637,2025-05-27,18:53,Bangalore,W3,P696,Bakery,Buns,161,2,6,Vikram,15,4.3,UPI,322,May,Tuesday,2025,5,Fast,Low Stock
+QC1638,2025-05-02,19:55,Bangalore,W2,P435,Snacks,Biscuits,197,1,35,Aman,42,3.8,UPI,197,May,Friday,2025,5,Medium,In Stock
+QC1639,2025-03-18,14:16,Pune,W3,P366,Frozen,Frozen Peas,218,3,13,Sameer,34,3.8,UPI,654,March,Tuesday,2025,3,Medium,Low Stock
+QC1640,2025-03-09,20:26,Mumbai,W6,P582,Dairy,Butter,165,4,57,Rahul,35,3.3,UPI,660,March,Sunday,2025,3,Medium,In Stock
+QC1641,2025-03-03,20:43,Hyderabad,W6,P169,Snacks,Biscuits,92,3,46,Ravi,49,3.4,COD,276,March,Monday,2025,3,Medium,In Stock
+QC1642,2025-02-24,20:14,Chennai,W3,P107,Beverages,Juice,158,2,11,Sameer,48,4.3,CARD,316,February,Monday,2025,2,Medium,Low Stock
+QC1643,2025-01-05,10:43,Bangalore,W1,P826,Snacks,Nachos,148,4,16,Aman,12,3.2,UPI,592,January,Sunday,2025,1,Fast,Low Stock
+QC1644,2025-02-02,09:16,Pune,W3,P929,Snacks,Nachos,195,1,56,Sameer,32,3.2,WALLET,195,February,Sunday,2025,2,Medium,In Stock
+QC1645,2025-02-19,08:44,Bangalore,W2,P213,Bakery,Cake,173,5,13,Sameer,46,4.1,WALLET,865,February,Wednesday,2025,2,Medium,Low Stock
+QC1646,2025-02-24,10:54,Mumbai,W4,P844,Dairy,Curd,32,5,27,Aman,45,3.3,WALLET,160,February,Monday,2025,2,Medium,In Stock
+QC1647,2025-05-09,09:30,Pune,W3,P159,Dairy,Curd,159,2,42,Rahul,13,4.6,CARD,318,May,Friday,2025,5,Fast,In Stock
+QC1648,2025-06-15,12:33,Chennai,W2,P871,Bakery,Buns,33,1,2,Rahul,27,4.9,UPI,33,June,Sunday,2025,6,Fast,Low Stock
+QC1649,2025-03-09,09:23,Delhi,W4,P319,Beverages,Soft Drink,83,4,25,Vikram,20,3.4,UPI,332,March,Sunday,2025,3,Fast,In Stock
+QC1650,2025-06-23,15:12,Pune,W1,P838,Beverages,Energy Drink,145,2,44,Arjun,33,4.3,CARD,290,June,Monday,2025,6,Medium,In Stock
+QC1651,2025-01-03,12:54,Mumbai,W1,P295,Dairy,Butter,239,5,5,Karthik,12,5.0,COD,1195,January,Friday,2025,1,Fast,Low Stock
+QC1652,2025-04-30,16:37,Mumbai,W2,P219,Dairy,Milk 1L,63,5,47,Sameer,34,3.2,UPI,315,April,Wednesday,2025,4,Medium,In Stock
+QC1653,2025-06-28,15:07,Hyderabad,W1,P569,Bakery,Cake,110,5,31,Vikram,20,3.1,CARD,550,June,Saturday,2025,6,Fast,In Stock
+QC1654,2025-04-04,15:10,Pune,W6,P931,Beverages,Juice,123,3,26,Aman,27,3.1,UPI,369,April,Friday,2025,4,Fast,In Stock
+QC1655,2025-03-25,14:53,Mumbai,W6,P746,Fruits,Banana,49,3,58,Suresh,10,3.6,COD,147,March,Tuesday,2025,3,Fast,In Stock
+QC1656,2025-03-16,20:06,Mumbai,W1,P587,Bakery,Cake,87,5,56,Arjun,24,4.6,COD,435,March,Sunday,2025,3,Fast,In Stock
+QC1657,2025-06-25,10:16,Bangalore,W1,P988,Dairy,Curd,121,5,25,Rahul,20,3.4,COD,605,June,Wednesday,2025,6,Fast,In Stock
+QC1658,2025-05-02,21:59,Mumbai,W1,P366,Frozen,Frozen Peas,33,4,0,Suresh,24,3.2,WALLET,132,May,Friday,2025,5,Fast,Low Stock
+QC1659,2025-06-23,18:19,Hyderabad,W5,P408,Beverages,Soft Drink,206,2,54,Aman,31,4.6,UPI,412,June,Monday,2025,6,Medium,In Stock
+QC1660,2025-05-09,19:58,Delhi,W6,P870,Snacks,Biscuits,109,3,3,Suresh,23,3.0,UPI,327,May,Friday,2025,5,Fast,Low Stock
+QC1661,2025-03-08,21:04,Delhi,W6,P394,Fruits,Banana,126,3,2,Aman,49,4.2,COD,378,March,Saturday,2025,3,Medium,Low Stock
+QC1662,2025-05-29,11:40,Chennai,W3,P744,Dairy,Butter,65,3,6,Ravi,43,4.1,UPI,195,May,Thursday,2025,5,Medium,Low Stock
+QC1663,2025-01-11,21:00,Mumbai,W6,P421,Beverages,Soft Drink,144,5,28,Ravi,37,4.6,CARD,720,January,Saturday,2025,1,Medium,In Stock
+QC1664,2025-04-29,16:43,Delhi,W6,P411,Beverages,Energy Drink,172,2,42,Karthik,33,4.1,WALLET,344,April,Tuesday,2025,4,Medium,In Stock
+QC1665,2025-04-13,19:32,Delhi,W5,P996,Beverages,Soft Drink,145,3,47,Suresh,33,3.4,UPI,435,April,Sunday,2025,4,Medium,In Stock
+QC1666,2025-02-19,08:41,Delhi,W2,P471,Frozen,Ice Cream,82,3,48,Karthik,30,3.6,CARD,246,February,Wednesday,2025,2,Medium,In Stock
+QC1667,2025-04-17,19:58,Mumbai,W3,P935,Dairy,Milk 1L,94,1,1,Rahul,47,4.0,UPI,94,April,Thursday,2025,4,Medium,Low Stock
+QC1668,2025-01-25,16:49,Mumbai,W5,P948,Fruits,Banana,55,4,30,Rahul,17,4.8,WALLET,220,January,Saturday,2025,1,Fast,In Stock
+QC1669,2025-05-02,08:37,Pune,W2,P901,Beverages,Energy Drink,196,1,12,Rahul,31,4.0,WALLET,196,May,Friday,2025,5,Medium,Low Stock
+QC1670,2025-04-02,15:37,Chennai,W3,P491,Snacks,Nachos,129,2,18,Karthik,34,4.1,CARD,258,April,Wednesday,2025,4,Medium,Low Stock
+QC1671,2025-03-17,20:11,Mumbai,W6,P936,Bakery,Buns,205,1,46,Arjun,41,3.4,CARD,205,March,Monday,2025,3,Medium,In Stock
+QC1672,2025-03-01,12:48,Hyderabad,W4,P644,Frozen,Frozen Peas,209,5,59,Arjun,14,4.1,COD,1045,March,Saturday,2025,3,Fast,In Stock
+QC1673,2025-05-24,11:36,Mumbai,W6,P703,Snacks,Nachos,137,4,13,Suresh,24,4.9,CARD,548,May,Saturday,2025,5,Fast,Low Stock
+QC1674,2025-06-23,14:53,Mumbai,W6,P311,Beverages,Soft Drink,129,3,52,Suresh,44,4.5,COD,387,June,Monday,2025,6,Medium,In Stock
+QC1675,2025-03-31,22:35,Mumbai,W5,P182,Bakery,Bread,92,4,26,Suresh,42,4.4,UPI,368,March,Monday,2025,3,Medium,In Stock
+QC1676,2025-02-12,12:49,Mumbai,W1,P521,Beverages,Juice,135,5,14,Karthik,19,3.1,WALLET,675,February,Wednesday,2025,2,Fast,Low Stock
+QC1677,2025-01-28,12:29,Pune,W1,P306,Beverages,Energy Drink,138,2,3,Aman,32,4.3,CARD,276,January,Tuesday,2025,1,Medium,Low Stock
+QC1678,2025-06-19,19:26,Bangalore,W2,P754,Beverages,Soft Drink,36,4,6,Karthik,12,4.6,CARD,144,June,Thursday,2025,6,Fast,Low Stock
+QC1679,2025-06-25,22:53,Pune,W4,P292,Fruits,Banana,225,4,48,Suresh,12,4.8,CARD,900,June,Wednesday,2025,6,Fast,In Stock
+QC1680,2025-06-10,23:54,Bangalore,W6,P357,Fruits,Banana,207,4,46,Ravi,38,3.4,UPI,828,June,Tuesday,2025,6,Medium,In Stock
+QC1681,2025-04-12,13:37,Pune,W3,P681,Bakery,Cake,169,5,3,Rahul,13,3.4,WALLET,845,April,Saturday,2025,4,Fast,Low Stock
+QC1682,2025-01-16,21:18,Mumbai,W6,P659,Bakery,Bread,112,3,24,Vikram,39,3.0,CARD,336,January,Thursday,2025,1,Medium,In Stock
+QC1683,2025-04-25,18:20,Mumbai,W6,P674,Frozen,Ice Cream,220,3,20,Suresh,22,4.9,COD,660,April,Friday,2025,4,Fast,In Stock
+QC1684,2025-06-22,13:06,Chennai,W3,P649,Bakery,Buns,216,5,26,Ravi,25,4.6,COD,1080,June,Sunday,2025,6,Fast,In Stock
+QC1685,2025-01-24,12:14,Delhi,W2,P548,Beverages,Juice,212,3,59,Sameer,33,3.4,CARD,636,January,Friday,2025,1,Medium,In Stock
+QC1686,2025-06-09,20:06,Bangalore,W2,P821,Frozen,Frozen Peas,188,4,19,Rahul,33,4.6,UPI,752,June,Monday,2025,6,Medium,Low Stock
+QC1687,2025-03-27,17:39,Mumbai,W4,P387,Bakery,Bread,191,1,52,Suresh,41,4.2,WALLET,191,March,Thursday,2025,3,Medium,In Stock
+QC1688,2025-01-08,18:32,Mumbai,W6,P929,Dairy,Curd,30,3,32,Aman,13,3.5,WALLET,90,January,Wednesday,2025,1,Fast,In Stock
+QC1689,2025-02-17,08:35,Mumbai,W5,P654,Snacks,Potato Chips,229,4,3,Aman,24,4.0,UPI,916,February,Monday,2025,2,Fast,Low Stock
+QC1690,2025-05-30,23:53,Bangalore,W4,P534,Frozen,Frozen Peas,168,5,51,Suresh,45,3.5,UPI,840,May,Friday,2025,5,Medium,In Stock
+QC1691,2025-06-25,18:22,Bangalore,W1,P578,Bakery,Buns,92,5,44,Arjun,50,3.5,CARD,460,June,Wednesday,2025,6,Medium,In Stock
+QC1692,2025-05-08,09:25,Hyderabad,W4,P159,Snacks,Biscuits,243,5,43,Rahul,37,3.7,COD,1215,May,Thursday,2025,5,Medium,In Stock
+QC1693,2025-06-03,20:38,Chennai,W6,P831,Bakery,Bread,60,4,30,Karthik,21,4.8,COD,240,June,Tuesday,2025,6,Fast,In Stock
+QC1694,2025-01-03,12:41,Mumbai,W2,P412,Frozen,Frozen Peas,30,4,59,Suresh,17,4.5,CARD,120,January,Friday,2025,1,Fast,In Stock
+QC1695,2025-02-07,18:11,Chennai,W6,P227,Fruits,Apple,190,4,21,Ravi,47,4.1,UPI,760,February,Friday,2025,2,Medium,In Stock
+QC1696,2025-06-15,10:26,Delhi,W6,P513,Fruits,Orange,235,4,43,Vikram,11,4.2,UPI,940,June,Sunday,2025,6,Fast,In Stock
+QC1697,2025-01-29,14:58,Chennai,W3,P464,Bakery,Cake,168,2,47,Sameer,19,3.2,UPI,336,January,Wednesday,2025,1,Fast,In Stock
+QC1698,2025-03-03,08:12,Chennai,W2,P608,Snacks,Nachos,192,4,1,Rahul,16,4.6,UPI,768,March,Monday,2025,3,Fast,Low Stock
+QC1699,2025-04-17,12:24,Hyderabad,W2,P497,Fruits,Apple,140,1,58,Arjun,10,3.9,COD,140,April,Thursday,2025,4,Fast,In Stock
+QC1700,2025-06-22,08:06,Delhi,W1,P151,Beverages,Energy Drink,136,4,4,Suresh,16,3.8,CARD,544,June,Sunday,2025,6,Fast,Low Stock
+QC1701,2025-05-20,11:20,Bangalore,W5,P293,Frozen,Frozen Peas,224,3,19,Vikram,10,3.4,CARD,672,May,Tuesday,2025,5,Fast,Low Stock
+QC1702,2025-05-27,15:41,Delhi,W5,P727,Beverages,Juice,184,4,44,Rahul,12,4.6,UPI,736,May,Tuesday,2025,5,Fast,In Stock
+QC1703,2025-05-12,13:31,Mumbai,W2,P431,Fruits,Orange,32,2,10,Suresh,33,4.0,COD,64,May,Monday,2025,5,Medium,Low Stock
+QC1704,2025-05-24,12:20,Delhi,W2,P580,Frozen,Ice Cream,143,1,21,Sameer,10,3.6,CARD,143,May,Saturday,2025,5,Fast,In Stock
+QC1705,2025-06-15,12:11,Hyderabad,W2,P261,Frozen,Ice Cream,116,4,58,Ravi,29,4.2,COD,464,June,Sunday,2025,6,Fast,In Stock
+QC1706,2025-01-10,19:49,Chennai,W4,P635,Beverages,Energy Drink,114,5,45,Ravi,25,4.9,COD,570,January,Friday,2025,1,Fast,In Stock
+QC1707,2025-02-27,08:06,Mumbai,W5,P793,Fruits,Banana,206,2,47,Ravi,13,4.4,UPI,412,February,Thursday,2025,2,Fast,In Stock
+QC1708,2025-05-07,18:48,Pune,W5,P129,Dairy,Curd,58,5,21,Ravi,34,3.8,COD,290,May,Wednesday,2025,5,Medium,In Stock
+QC1709,2025-06-03,13:11,Bangalore,W4,P119,Snacks,Potato Chips,205,3,32,Vikram,29,4.9,WALLET,615,June,Tuesday,2025,6,Fast,In Stock
+QC1710,2025-01-29,18:30,Hyderabad,W3,P652,Snacks,Nachos,63,1,31,Karthik,27,4.0,CARD,63,January,Wednesday,2025,1,Fast,In Stock
+QC1711,2025-06-26,13:08,Delhi,W3,P361,Beverages,Energy Drink,107,3,26,Karthik,21,3.2,COD,321,June,Thursday,2025,6,Fast,In Stock
+QC1712,2025-01-31,17:16,Mumbai,W3,P160,Frozen,Ice Cream,211,3,29,Vikram,50,4.0,UPI,633,January,Friday,2025,1,Medium,In Stock
+QC1713,2025-02-23,15:20,Mumbai,W4,P896,Beverages,Juice,179,2,35,Arjun,18,3.5,CARD,358,February,Sunday,2025,2,Fast,In Stock
+QC1714,2025-02-09,17:34,Pune,W2,P298,Snacks,Potato Chips,100,1,5,Vikram,13,4.4,UPI,100,February,Sunday,2025,2,Fast,Low Stock
+QC1715,2025-04-23,20:17,Bangalore,W6,P676,Bakery,Bread,159,3,33,Sameer,47,4.1,UPI,477,April,Wednesday,2025,4,Medium,In Stock
+QC1716,2025-02-16,13:24,Bangalore,W3,P692,Bakery,Cake,106,4,8,Rahul,27,4.4,WALLET,424,February,Sunday,2025,2,Fast,Low Stock
+QC1717,2025-06-13,18:24,Pune,W4,P140,Bakery,Cake,64,4,8,Vikram,15,4.5,COD,256,June,Friday,2025,6,Fast,Low Stock
+QC1718,2025-06-13,17:09,Delhi,W2,P728,Snacks,Biscuits,126,1,14,Karthik,50,4.2,UPI,126,June,Friday,2025,6,Medium,Low Stock
+QC1719,2025-04-11,10:17,Pune,W2,P980,Beverages,Soft Drink,115,1,21,Arjun,27,3.5,WALLET,115,April,Friday,2025,4,Fast,In Stock
+QC1720,2025-06-30,12:18,Delhi,W6,P513,Frozen,Frozen Peas,41,3,11,Arjun,30,4.2,COD,123,June,Monday,2025,6,Medium,Low Stock
+QC1721,2025-05-29,18:25,Delhi,W2,P701,Frozen,Frozen Peas,99,5,19,Rahul,22,4.5,CARD,495,May,Thursday,2025,5,Fast,Low Stock
+QC1722,2025-06-22,08:57,Chennai,W5,P561,Fruits,Orange,220,4,9,Karthik,29,4.2,WALLET,880,June,Sunday,2025,6,Fast,Low Stock
+QC1723,2025-04-11,08:20,Mumbai,W3,P723,Beverages,Energy Drink,169,5,0,Arjun,43,3.6,COD,845,April,Friday,2025,4,Medium,Low Stock
+QC1724,2025-05-12,22:06,Delhi,W5,P520,Beverages,Soft Drink,108,1,16,Vikram,15,3.6,WALLET,108,May,Monday,2025,5,Fast,Low Stock
+QC1725,2025-04-22,10:48,Chennai,W2,P368,Fruits,Apple,123,5,44,Karthik,22,5.0,CARD,615,April,Tuesday,2025,4,Fast,In Stock
+QC1726,2025-03-23,12:38,Hyderabad,W1,P651,Dairy,Milk 1L,246,5,38,Suresh,40,3.7,COD,1230,March,Sunday,2025,3,Medium,In Stock
+QC1727,2025-03-12,21:55,Mumbai,W6,P918,Beverages,Energy Drink,237,1,51,Ravi,36,3.1,CARD,237,March,Wednesday,2025,3,Medium,In Stock
+QC1728,2025-03-19,19:54,Hyderabad,W2,P666,Beverages,Juice,110,2,60,Ravi,20,3.1,WALLET,220,March,Wednesday,2025,3,Fast,In Stock
+QC1729,2025-05-21,08:22,Hyderabad,W6,P623,Bakery,Cake,135,2,9,Karthik,30,4.6,CARD,270,May,Wednesday,2025,5,Medium,Low Stock
+QC1730,2025-05-29,19:20,Delhi,W5,P804,Fruits,Banana,209,2,2,Sameer,21,4.6,UPI,418,May,Thursday,2025,5,Fast,Low Stock
+QC1731,2025-06-18,13:32,Chennai,W1,P261,Dairy,Butter,137,4,43,Rahul,36,3.9,COD,548,June,Wednesday,2025,6,Medium,In Stock
+QC1732,2025-03-29,11:03,Pune,W3,P286,Beverages,Soft Drink,117,3,48,Aman,34,3.2,UPI,351,March,Saturday,2025,3,Medium,In Stock
+QC1733,2025-06-15,20:47,Pune,W6,P854,Fruits,Orange,151,4,18,Ravi,35,4.5,CARD,604,June,Sunday,2025,6,Medium,Low Stock
+QC1734,2025-06-01,12:06,Bangalore,W6,P752,Bakery,Bread,63,4,45,Karthik,44,3.5,UPI,252,June,Sunday,2025,6,Medium,In Stock
+QC1735,2025-06-29,10:18,Delhi,W4,P942,Beverages,Juice,85,1,31,Rahul,35,3.2,COD,85,June,Sunday,2025,6,Medium,In Stock
+QC1736,2025-05-02,15:00,Bangalore,W4,P430,Frozen,Ice Cream,141,5,51,Suresh,22,3.6,UPI,705,May,Friday,2025,5,Fast,In Stock
+QC1737,2025-02-05,10:32,Chennai,W2,P859,Fruits,Banana,172,5,34,Aman,19,3.8,WALLET,860,February,Wednesday,2025,2,Fast,In Stock
+QC1738,2025-03-15,20:33,Delhi,W5,P271,Dairy,Curd,94,5,48,Vikram,23,3.8,CARD,470,March,Saturday,2025,3,Fast,In Stock
+QC1739,2025-02-19,09:33,Mumbai,W3,P794,Frozen,Frozen Peas,145,4,42,Karthik,39,3.6,WALLET,580,February,Wednesday,2025,2,Medium,In Stock
+QC1740,2025-06-07,20:52,Chennai,W3,P615,Beverages,Energy Drink,131,3,32,Ravi,25,4.0,COD,393,June,Saturday,2025,6,Fast,In Stock
+QC1741,2025-05-19,12:25,Delhi,W3,P354,Fruits,Apple,128,5,54,Karthik,46,4.2,CARD,640,May,Monday,2025,5,Medium,In Stock
+QC1742,2025-02-20,08:21,Pune,W5,P628,Fruits,Apple,76,4,48,Karthik,49,4.1,UPI,304,February,Thursday,2025,2,Medium,In Stock
+QC1743,2025-03-04,20:47,Hyderabad,W1,P844,Fruits,Apple,58,1,50,Rahul,20,4.2,COD,58,March,Tuesday,2025,3,Fast,In Stock
+QC1744,2025-05-16,12:03,Hyderabad,W5,P314,Frozen,Frozen Peas,121,2,53,Vikram,17,3.0,WALLET,242,May,Friday,2025,5,Fast,In Stock
+QC1745,2025-01-19,21:16,Bangalore,W6,P999,Dairy,Milk 1L,76,3,4,Ravi,11,4.6,CARD,228,January,Sunday,2025,1,Fast,Low Stock
+QC1746,2025-05-19,20:08,Delhi,W5,P566,Snacks,Biscuits,213,5,34,Suresh,28,3.2,WALLET,1065,May,Monday,2025,5,Fast,In Stock
+QC1747,2025-05-28,16:14,Mumbai,W1,P661,Snacks,Potato Chips,79,5,36,Rahul,38,4.4,COD,395,May,Wednesday,2025,5,Medium,In Stock
+QC1748,2025-02-08,10:16,Chennai,W6,P162,Snacks,Potato Chips,44,2,55,Suresh,44,4.2,COD,88,February,Saturday,2025,2,Medium,In Stock
+QC1749,2025-06-19,12:05,Mumbai,W4,P965,Fruits,Apple,115,1,10,Aman,31,4.6,WALLET,115,June,Thursday,2025,6,Medium,Low Stock
+QC1750,2025-05-07,17:00,Bangalore,W1,P694,Fruits,Orange,147,1,46,Rahul,12,3.2,WALLET,147,May,Wednesday,2025,5,Fast,In Stock
+QC1751,2025-03-28,12:23,Chennai,W4,P299,Bakery,Cake,151,1,31,Aman,49,4.7,WALLET,151,March,Friday,2025,3,Medium,In Stock
+QC1752,2025-05-24,13:11,Pune,W4,P126,Snacks,Biscuits,249,3,51,Rahul,24,4.2,CARD,747,May,Saturday,2025,5,Fast,In Stock
+QC1753,2025-02-06,19:07,Chennai,W2,P113,Dairy,Butter,43,1,32,Ravi,25,4.2,UPI,43,February,Thursday,2025,2,Fast,In Stock
+QC1754,2025-01-06,15:01,Bangalore,W3,P417,Snacks,Potato Chips,171,5,14,Aman,10,3.6,CARD,855,January,Monday,2025,1,Fast,Low Stock
+QC1755,2025-01-04,22:10,Pune,W6,P805,Snacks,Potato Chips,188,5,8,Sameer,31,4.5,UPI,940,January,Saturday,2025,1,Medium,Low Stock
+QC1756,2025-01-27,19:32,Mumbai,W5,P149,Beverages,Energy Drink,156,5,4,Karthik,38,4.8,CARD,780,January,Monday,2025,1,Medium,Low Stock
+QC1757,2025-06-09,20:34,Pune,W5,P263,Snacks,Biscuits,110,1,33,Rahul,43,4.6,UPI,110,June,Monday,2025,6,Medium,In Stock
+QC1758,2025-01-22,09:59,Bangalore,W6,P508,Bakery,Cake,146,5,0,Sameer,18,4.1,CARD,730,January,Wednesday,2025,1,Fast,Low Stock
+QC1759,2025-01-25,18:34,Bangalore,W1,P988,Dairy,Curd,185,1,47,Suresh,49,4.5,UPI,185,January,Saturday,2025,1,Medium,In Stock
+QC1760,2025-04-11,13:45,Mumbai,W3,P301,Snacks,Biscuits,138,4,29,Aman,16,5.0,UPI,552,April,Friday,2025,4,Fast,In Stock
+QC1761,2025-05-09,21:42,Mumbai,W4,P606,Beverages,Soft Drink,126,4,22,Ravi,14,4.2,COD,504,May,Friday,2025,5,Fast,In Stock
+QC1762,2025-01-05,14:21,Pune,W5,P340,Fruits,Banana,94,2,12,Sameer,11,3.2,COD,188,January,Sunday,2025,1,Fast,Low Stock
+QC1763,2025-04-04,15:10,Chennai,W2,P948,Fruits,Orange,51,1,49,Suresh,35,4.1,WALLET,51,April,Friday,2025,4,Medium,In Stock
+QC1764,2025-04-12,09:34,Delhi,W2,P789,Snacks,Potato Chips,174,1,58,Ravi,48,3.6,WALLET,174,April,Saturday,2025,4,Medium,In Stock
+QC1765,2025-02-07,09:14,Delhi,W6,P322,Frozen,Ice Cream,249,5,7,Sameer,50,3.9,COD,1245,February,Friday,2025,2,Medium,Low Stock
+QC1766,2025-03-15,20:42,Hyderabad,W1,P795,Dairy,Curd,179,3,20,Karthik,41,3.2,UPI,537,March,Saturday,2025,3,Medium,In Stock
+QC1767,2025-05-15,18:25,Pune,W6,P486,Fruits,Apple,224,5,6,Suresh,26,3.5,COD,1120,May,Thursday,2025,5,Fast,Low Stock
+QC1768,2025-04-18,12:14,Delhi,W6,P484,Bakery,Cake,148,5,51,Vikram,10,3.7,CARD,740,April,Friday,2025,4,Fast,In Stock
+QC1769,2025-06-02,19:25,Hyderabad,W6,P888,Frozen,Frozen Peas,182,3,11,Sameer,18,3.6,COD,546,June,Monday,2025,6,Fast,Low Stock
+QC1770,2025-04-04,20:29,Pune,W4,P215,Snacks,Nachos,231,3,42,Karthik,33,3.4,WALLET,693,April,Friday,2025,4,Medium,In Stock
+QC1771,2025-06-28,08:04,Bangalore,W4,P251,Bakery,Cake,242,3,33,Suresh,23,4.5,WALLET,726,June,Saturday,2025,6,Fast,In Stock
+QC1772,2025-02-04,09:47,Delhi,W5,P223,Beverages,Juice,134,4,6,Sameer,45,3.9,COD,536,February,Tuesday,2025,2,Medium,Low Stock
+QC1773,2025-01-09,20:39,Delhi,W4,P948,Fruits,Orange,234,4,40,Arjun,10,3.8,WALLET,936,January,Thursday,2025,1,Fast,In Stock
+QC1774,2025-01-13,20:15,Delhi,W3,P996,Fruits,Orange,194,5,23,Rahul,20,3.9,COD,970,January,Monday,2025,1,Fast,In Stock
+QC1775,2025-01-25,09:46,Chennai,W4,P963,Frozen,Frozen Peas,172,3,28,Vikram,36,4.8,WALLET,516,January,Saturday,2025,1,Medium,In Stock
+QC1776,2025-03-12,14:37,Hyderabad,W4,P466,Fruits,Banana,111,1,5,Aman,33,3.2,CARD,111,March,Wednesday,2025,3,Medium,Low Stock
+QC1777,2025-02-01,09:27,Delhi,W1,P535,Bakery,Bread,130,2,60,Karthik,13,3.7,CARD,260,February,Saturday,2025,2,Fast,In Stock
+QC1778,2025-03-04,19:52,Mumbai,W3,P131,Fruits,Banana,243,2,28,Aman,16,4.6,CARD,486,March,Tuesday,2025,3,Fast,In Stock
+QC1779,2025-01-22,20:38,Hyderabad,W2,P835,Beverages,Juice,34,4,45,Karthik,36,4.3,UPI,136,January,Wednesday,2025,1,Medium,In Stock
+QC1780,2025-02-16,11:18,Bangalore,W1,P879,Snacks,Potato Chips,174,1,6,Sameer,35,3.9,WALLET,174,February,Sunday,2025,2,Medium,Low Stock
+QC1781,2025-05-14,15:59,Mumbai,W3,P506,Fruits,Banana,148,1,6,Rahul,11,3.5,WALLET,148,May,Wednesday,2025,5,Fast,Low Stock
+QC1782,2025-02-15,15:32,Delhi,W4,P864,Frozen,Ice Cream,35,4,19,Arjun,31,4.9,WALLET,140,February,Saturday,2025,2,Medium,Low Stock
+QC1783,2025-02-17,09:32,Mumbai,W3,P900,Frozen,Frozen Peas,85,1,8,Rahul,10,3.6,CARD,85,February,Monday,2025,2,Fast,Low Stock
+QC1784,2025-01-14,11:50,Pune,W5,P941,Snacks,Nachos,171,2,49,Vikram,24,4.8,WALLET,342,January,Tuesday,2025,1,Fast,In Stock
+QC1785,2025-05-16,22:05,Chennai,W3,P179,Bakery,Bread,40,2,42,Karthik,40,4.9,UPI,80,May,Friday,2025,5,Medium,In Stock
+QC1786,2025-01-16,23:33,Pune,W2,P990,Dairy,Milk 1L,250,1,20,Karthik,47,3.5,UPI,250,January,Thursday,2025,1,Medium,In Stock
+QC1787,2025-05-18,08:48,Pune,W5,P647,Snacks,Biscuits,217,1,34,Aman,39,3.2,WALLET,217,May,Sunday,2025,5,Medium,In Stock
+QC1788,2025-02-16,17:48,Pune,W1,P731,Frozen,Frozen Peas,168,5,11,Karthik,46,5.0,WALLET,840,February,Sunday,2025,2,Medium,Low Stock
+QC1789,2025-04-08,11:26,Pune,W6,P599,Fruits,Apple,184,2,1,Ravi,43,4.1,WALLET,368,April,Tuesday,2025,4,Medium,Low Stock
+QC1790,2025-04-15,08:49,Mumbai,W2,P655,Beverages,Energy Drink,189,5,14,Rahul,28,4.3,CARD,945,April,Tuesday,2025,4,Fast,Low Stock
+QC1791,2025-02-15,15:41,Mumbai,W4,P344,Beverages,Energy Drink,135,1,27,Suresh,25,4.0,UPI,135,February,Saturday,2025,2,Fast,In Stock
+QC1792,2025-03-23,15:58,Chennai,W4,P388,Dairy,Curd,135,1,42,Vikram,37,4.4,CARD,135,March,Sunday,2025,3,Medium,In Stock
+QC1793,2025-06-08,13:44,Mumbai,W3,P289,Beverages,Juice,136,5,36,Arjun,46,4.0,COD,680,June,Sunday,2025,6,Medium,In Stock
+QC1794,2025-01-02,12:24,Chennai,W2,P260,Beverages,Juice,198,3,57,Ravi,32,3.5,COD,594,January,Thursday,2025,1,Medium,In Stock
+QC1795,2025-02-16,22:07,Hyderabad,W5,P938,Snacks,Potato Chips,217,1,57,Suresh,45,3.2,CARD,217,February,Sunday,2025,2,Medium,In Stock
+QC1796,2025-06-03,08:24,Mumbai,W2,P301,Snacks,Nachos,204,2,34,Sameer,14,3.8,CARD,408,June,Tuesday,2025,6,Fast,In Stock
+QC1797,2025-06-07,16:15,Hyderabad,W3,P341,Dairy,Curd,154,1,17,Sameer,31,3.1,CARD,154,June,Saturday,2025,6,Medium,Low Stock
+QC1798,2025-04-29,15:25,Hyderabad,W2,P921,Bakery,Cake,101,2,40,Aman,33,4.9,UPI,202,April,Tuesday,2025,4,Medium,In Stock
+QC1799,2025-05-01,10:07,Mumbai,W2,P909,Snacks,Potato Chips,139,2,21,Aman,26,3.5,WALLET,278,May,Thursday,2025,5,Fast,In Stock
+QC1800,2025-06-21,22:40,Pune,W1,P840,Frozen,Ice Cream,249,2,52,Suresh,27,4.9,WALLET,498,June,Saturday,2025,6,Fast,In Stock
+QC1801,2025-03-07,14:19,Delhi,W2,P120,Frozen,Frozen Peas,250,1,59,Karthik,15,3.4,WALLET,250,March,Friday,2025,3,Fast,In Stock
+QC1802,2025-03-21,13:42,Mumbai,W3,P133,Snacks,Potato Chips,245,2,42,Aman,12,4.8,CARD,490,March,Friday,2025,3,Fast,In Stock
+QC1803,2025-06-27,13:08,Bangalore,W4,P620,Beverages,Soft Drink,89,3,16,Arjun,21,3.1,COD,267,June,Friday,2025,6,Fast,Low Stock
+QC1804,2025-05-15,16:12,Hyderabad,W2,P981,Fruits,Apple,116,1,10,Karthik,13,3.4,UPI,116,May,Thursday,2025,5,Fast,Low Stock
+QC1805,2025-05-07,16:31,Bangalore,W3,P233,Beverages,Juice,35,5,48,Ravi,18,4.2,WALLET,175,May,Wednesday,2025,5,Fast,In Stock
+QC1806,2025-01-13,20:57,Delhi,W6,P785,Fruits,Banana,103,4,50,Rahul,24,5.0,WALLET,412,January,Monday,2025,1,Fast,In Stock
+QC1807,2025-02-15,23:14,Pune,W6,P188,Bakery,Buns,116,2,30,Aman,21,4.6,CARD,232,February,Saturday,2025,2,Fast,In Stock
+QC1808,2025-01-15,15:20,Bangalore,W5,P639,Fruits,Apple,170,1,32,Arjun,10,4.9,COD,170,January,Wednesday,2025,1,Fast,In Stock
+QC1809,2025-05-09,14:16,Chennai,W1,P234,Bakery,Cake,87,2,32,Aman,42,4.5,UPI,174,May,Friday,2025,5,Medium,In Stock
+QC1810,2025-03-28,23:11,Delhi,W3,P612,Dairy,Curd,40,3,56,Aman,34,4.7,WALLET,120,March,Friday,2025,3,Medium,In Stock
+QC1811,2025-04-11,15:10,Delhi,W3,P684,Bakery,Bread,233,3,34,Rahul,35,4.6,CARD,699,April,Friday,2025,4,Medium,In Stock
+QC1812,2025-02-01,12:48,Hyderabad,W4,P507,Snacks,Nachos,142,3,32,Karthik,41,5.0,COD,426,February,Saturday,2025,2,Medium,In Stock
+QC1813,2025-02-17,10:08,Delhi,W4,P559,Dairy,Milk 1L,203,1,58,Sameer,22,5.0,COD,203,February,Monday,2025,2,Fast,In Stock
+QC1814,2025-03-19,09:11,Delhi,W3,P587,Frozen,Frozen Peas,136,2,46,Ravi,47,3.5,WALLET,272,March,Wednesday,2025,3,Medium,In Stock
+QC1815,2025-04-17,21:40,Chennai,W5,P164,Beverages,Energy Drink,192,4,43,Rahul,32,3.7,WALLET,768,April,Thursday,2025,4,Medium,In Stock
+QC1816,2025-03-14,13:23,Bangalore,W2,P508,Dairy,Butter,250,5,56,Aman,17,4.6,UPI,1250,March,Friday,2025,3,Fast,In Stock
+QC1817,2025-04-05,13:15,Delhi,W4,P995,Frozen,Frozen Peas,86,5,52,Suresh,27,4.4,UPI,430,April,Saturday,2025,4,Fast,In Stock
+QC1818,2025-06-05,08:59,Chennai,W1,P534,Dairy,Curd,227,3,31,Arjun,24,3.1,CARD,681,June,Thursday,2025,6,Fast,In Stock
+QC1819,2025-06-23,17:52,Delhi,W3,P266,Bakery,Bread,244,2,36,Aman,24,3.6,WALLET,488,June,Monday,2025,6,Fast,In Stock
+QC1820,2025-04-23,10:20,Mumbai,W3,P599,Frozen,Frozen Peas,158,5,38,Sameer,45,3.6,UPI,790,April,Wednesday,2025,4,Medium,In Stock
+QC1821,2025-02-21,23:42,Bangalore,W5,P808,Snacks,Potato Chips,214,1,14,Rahul,44,3.7,WALLET,214,February,Friday,2025,2,Medium,Low Stock
+QC1822,2025-04-23,15:16,Bangalore,W5,P128,Beverages,Energy Drink,195,2,38,Suresh,15,4.3,WALLET,390,April,Wednesday,2025,4,Fast,In Stock
+QC1823,2025-06-28,18:55,Chennai,W6,P254,Dairy,Milk 1L,238,2,19,Suresh,30,4.4,UPI,476,June,Saturday,2025,6,Medium,Low Stock
+QC1824,2025-03-27,20:15,Delhi,W1,P665,Beverages,Energy Drink,172,4,45,Ravi,18,3.2,UPI,688,March,Thursday,2025,3,Fast,In Stock
+QC1825,2025-06-13,17:30,Hyderabad,W5,P665,Frozen,Frozen Peas,205,2,11,Suresh,50,3.6,CARD,410,June,Friday,2025,6,Medium,Low Stock
+QC1826,2025-02-28,21:53,Mumbai,W5,P247,Snacks,Nachos,205,5,43,Suresh,14,3.9,UPI,1025,February,Friday,2025,2,Fast,In Stock
+QC1827,2025-05-27,13:58,Chennai,W3,P493,Frozen,Ice Cream,210,4,29,Karthik,22,3.6,CARD,840,May,Tuesday,2025,5,Fast,In Stock
+QC1828,2025-06-12,12:28,Hyderabad,W4,P425,Snacks,Nachos,155,1,57,Arjun,48,4.7,UPI,155,June,Thursday,2025,6,Medium,In Stock
+QC1829,2025-03-05,13:25,Mumbai,W3,P189,Dairy,Milk 1L,145,2,46,Karthik,42,4.9,UPI,290,March,Wednesday,2025,3,Medium,In Stock
+QC1830,2025-04-26,12:36,Pune,W6,P888,Frozen,Frozen Peas,217,2,15,Ravi,30,4.1,WALLET,434,April,Saturday,2025,4,Medium,Low Stock
+QC1831,2025-06-16,08:34,Delhi,W5,P692,Bakery,Cake,247,1,34,Arjun,41,3.8,CARD,247,June,Monday,2025,6,Medium,In Stock
+QC1832,2025-01-08,11:30,Pune,W5,P633,Snacks,Potato Chips,89,3,46,Suresh,27,3.2,WALLET,267,January,Wednesday,2025,1,Fast,In Stock
+QC1833,2025-01-20,14:08,Hyderabad,W5,P352,Snacks,Biscuits,68,1,1,Sameer,35,4.5,CARD,68,January,Monday,2025,1,Medium,Low Stock
+QC1834,2025-06-24,19:43,Hyderabad,W2,P217,Bakery,Bread,160,2,2,Aman,28,3.7,CARD,320,June,Tuesday,2025,6,Fast,Low Stock
+QC1835,2025-04-01,23:04,Chennai,W2,P155,Bakery,Cake,42,2,59,Vikram,20,3.3,UPI,84,April,Tuesday,2025,4,Fast,In Stock
+QC1836,2025-05-09,20:41,Hyderabad,W5,P133,Beverages,Energy Drink,162,3,55,Suresh,18,3.7,WALLET,486,May,Friday,2025,5,Fast,In Stock
+QC1837,2025-01-30,12:28,Bangalore,W4,P239,Snacks,Potato Chips,119,2,15,Sameer,18,4.8,CARD,238,January,Thursday,2025,1,Fast,Low Stock
+QC1838,2025-05-13,11:15,Pune,W6,P582,Dairy,Milk 1L,88,1,41,Aman,36,3.0,WALLET,88,May,Tuesday,2025,5,Medium,In Stock
+QC1839,2025-04-30,22:14,Hyderabad,W1,P519,Fruits,Apple,157,1,35,Suresh,42,3.3,COD,157,April,Wednesday,2025,4,Medium,In Stock
+QC1840,2025-02-25,17:12,Bangalore,W3,P711,Beverages,Soft Drink,158,2,15,Arjun,44,4.3,WALLET,316,February,Tuesday,2025,2,Medium,Low Stock
+QC1841,2025-01-21,08:29,Hyderabad,W1,P590,Frozen,Ice Cream,105,3,24,Arjun,21,3.1,UPI,315,January,Tuesday,2025,1,Fast,In Stock
+QC1842,2025-05-04,08:39,Chennai,W5,P842,Frozen,Frozen Peas,134,4,37,Ravi,31,3.5,WALLET,536,May,Sunday,2025,5,Medium,In Stock
+QC1843,2025-06-29,14:47,Hyderabad,W1,P592,Frozen,Frozen Peas,218,4,8,Arjun,39,4.0,WALLET,872,June,Sunday,2025,6,Medium,Low Stock
+QC1844,2025-06-28,11:26,Pune,W1,P119,Snacks,Nachos,109,1,60,Rahul,18,4.9,COD,109,June,Saturday,2025,6,Fast,In Stock
+QC1845,2025-03-22,18:18,Mumbai,W4,P470,Bakery,Bread,245,2,15,Suresh,39,4.9,WALLET,490,March,Saturday,2025,3,Medium,Low Stock
+QC1846,2025-05-10,13:31,Pune,W6,P830,Bakery,Cake,113,4,31,Suresh,12,4.6,CARD,452,May,Saturday,2025,5,Fast,In Stock
+QC1847,2025-02-10,18:41,Bangalore,W1,P103,Snacks,Nachos,160,5,28,Vikram,33,4.9,UPI,800,February,Monday,2025,2,Medium,In Stock
+QC1848,2025-03-27,08:07,Pune,W3,P264,Bakery,Buns,173,3,46,Rahul,33,4.2,UPI,519,March,Thursday,2025,3,Medium,In Stock
+QC1849,2025-05-23,16:49,Chennai,W5,P107,Fruits,Apple,226,1,0,Arjun,46,4.1,CARD,226,May,Friday,2025,5,Medium,Low Stock
+QC1850,2025-06-03,09:30,Mumbai,W3,P986,Snacks,Potato Chips,31,1,38,Aman,38,4.6,WALLET,31,June,Tuesday,2025,6,Medium,In Stock
+QC1851,2025-04-28,23:31,Pune,W1,P853,Frozen,Frozen Peas,80,2,52,Vikram,10,4.6,WALLET,160,April,Monday,2025,4,Fast,In Stock
+QC1852,2025-02-25,15:26,Pune,W4,P328,Fruits,Orange,195,5,54,Suresh,29,4.4,WALLET,975,February,Tuesday,2025,2,Fast,In Stock
+QC1853,2025-04-29,11:32,Hyderabad,W5,P469,Dairy,Curd,206,3,20,Rahul,42,4.2,CARD,618,April,Tuesday,2025,4,Medium,In Stock
+QC1854,2025-06-18,13:57,Chennai,W3,P272,Dairy,Milk 1L,80,2,33,Sameer,28,3.3,COD,160,June,Wednesday,2025,6,Fast,In Stock
+QC1855,2025-03-22,11:20,Pune,W4,P225,Snacks,Potato Chips,197,4,2,Arjun,26,3.4,WALLET,788,March,Saturday,2025,3,Fast,Low Stock
+QC1856,2025-05-19,19:53,Pune,W1,P211,Frozen,Frozen Peas,220,5,45,Karthik,34,4.4,CARD,1100,May,Monday,2025,5,Medium,In Stock
+QC1857,2025-06-18,16:12,Pune,W5,P925,Snacks,Potato Chips,140,4,26,Ravi,26,3.9,WALLET,560,June,Wednesday,2025,6,Fast,In Stock
+QC1858,2025-01-21,19:57,Mumbai,W1,P277,Dairy,Milk 1L,210,5,8,Aman,40,4.0,WALLET,1050,January,Tuesday,2025,1,Medium,Low Stock
+QC1859,2025-06-21,17:23,Mumbai,W5,P604,Bakery,Cake,128,1,60,Aman,15,4.7,UPI,128,June,Saturday,2025,6,Fast,In Stock
+QC1860,2025-04-20,12:11,Bangalore,W3,P152,Dairy,Butter,58,2,29,Arjun,45,4.8,CARD,116,April,Sunday,2025,4,Medium,In Stock
+QC1861,2025-06-26,16:50,Pune,W2,P103,Fruits,Banana,196,2,1,Karthik,12,4.0,COD,392,June,Thursday,2025,6,Fast,Low Stock
+QC1862,2025-03-14,08:14,Delhi,W3,P947,Dairy,Butter,104,5,17,Arjun,15,3.8,COD,520,March,Friday,2025,3,Fast,Low Stock
+QC1863,2025-01-13,12:06,Pune,W3,P234,Snacks,Potato Chips,47,5,26,Vikram,46,4.4,WALLET,235,January,Monday,2025,1,Medium,In Stock
+QC1864,2025-05-30,10:36,Pune,W3,P746,Fruits,Apple,118,2,37,Sameer,49,4.8,COD,236,May,Friday,2025,5,Medium,In Stock
+QC1865,2025-06-18,13:57,Hyderabad,W1,P637,Snacks,Nachos,190,3,16,Karthik,38,4.4,WALLET,570,June,Wednesday,2025,6,Medium,Low Stock
+QC1866,2025-05-30,14:35,Mumbai,W2,P583,Fruits,Banana,181,4,15,Arjun,43,5.0,CARD,724,May,Friday,2025,5,Medium,Low Stock
+QC1867,2025-06-30,18:56,Hyderabad,W6,P877,Bakery,Cake,41,2,40,Karthik,24,4.5,COD,82,June,Monday,2025,6,Fast,In Stock
+QC1868,2025-04-05,21:32,Bangalore,W5,P898,Bakery,Buns,133,5,50,Arjun,44,3.6,UPI,665,April,Saturday,2025,4,Medium,In Stock
+QC1869,2025-02-15,15:05,Chennai,W4,P326,Frozen,Ice Cream,181,2,7,Sameer,47,4.6,UPI,362,February,Saturday,2025,2,Medium,Low Stock
+QC1870,2025-04-25,13:04,Pune,W5,P363,Dairy,Butter,38,1,2,Suresh,44,3.6,COD,38,April,Friday,2025,4,Medium,Low Stock
+QC1871,2025-02-05,11:24,Hyderabad,W5,P848,Dairy,Butter,66,1,3,Karthik,23,3.5,COD,66,February,Wednesday,2025,2,Fast,Low Stock
+QC1872,2025-04-13,16:18,Pune,W6,P417,Frozen,Ice Cream,54,2,24,Rahul,34,4.0,CARD,108,April,Sunday,2025,4,Medium,In Stock
+QC1873,2025-04-18,12:44,Pune,W1,P957,Fruits,Apple,185,2,2,Vikram,35,5.0,WALLET,370,April,Friday,2025,4,Medium,Low Stock
+QC1874,2025-03-29,16:59,Bangalore,W3,P224,Beverages,Soft Drink,57,4,44,Vikram,16,4.2,CARD,228,March,Saturday,2025,3,Fast,In Stock
+QC1875,2025-02-13,12:53,Chennai,W2,P727,Beverages,Juice,174,2,34,Aman,38,3.2,CARD,348,February,Thursday,2025,2,Medium,In Stock
+QC1876,2025-03-11,10:23,Pune,W3,P513,Frozen,Frozen Peas,190,3,30,Suresh,14,4.9,COD,570,March,Tuesday,2025,3,Fast,In Stock
+QC1877,2025-03-26,20:24,Chennai,W2,P394,Fruits,Orange,136,4,48,Aman,36,4.9,UPI,544,March,Wednesday,2025,3,Medium,In Stock
+QC1878,2025-05-02,11:14,Bangalore,W2,P680,Frozen,Frozen Peas,158,5,6,Sameer,17,3.9,WALLET,790,May,Friday,2025,5,Fast,Low Stock
+QC1879,2025-05-03,09:05,Bangalore,W6,P544,Frozen,Ice Cream,132,4,39,Aman,31,3.4,UPI,528,May,Saturday,2025,5,Medium,In Stock
+QC1880,2025-01-10,19:47,Delhi,W3,P774,Frozen,Frozen Peas,146,3,9,Arjun,26,4.9,UPI,438,January,Friday,2025,1,Fast,Low Stock
+QC1881,2025-05-06,22:31,Mumbai,W2,P981,Beverages,Soft Drink,43,4,49,Aman,32,3.1,UPI,172,May,Tuesday,2025,5,Medium,In Stock
+QC1882,2025-04-12,08:27,Hyderabad,W2,P180,Bakery,Buns,189,2,18,Suresh,37,4.9,WALLET,378,April,Saturday,2025,4,Medium,Low Stock
+QC1883,2025-04-05,20:09,Chennai,W1,P686,Fruits,Orange,187,3,56,Arjun,29,4.8,WALLET,561,April,Saturday,2025,4,Fast,In Stock
+QC1884,2025-02-08,16:09,Hyderabad,W4,P424,Snacks,Potato Chips,190,1,46,Sameer,29,4.1,CARD,190,February,Saturday,2025,2,Fast,In Stock
+QC1885,2025-04-06,23:30,Hyderabad,W6,P486,Dairy,Curd,66,4,3,Vikram,45,3.2,COD,264,April,Sunday,2025,4,Medium,Low Stock
+QC1886,2025-03-21,09:47,Chennai,W1,P413,Fruits,Orange,152,4,39,Suresh,26,3.6,CARD,608,March,Friday,2025,3,Fast,In Stock
+QC1887,2025-06-25,10:35,Hyderabad,W3,P170,Bakery,Buns,60,1,35,Ravi,42,3.6,CARD,60,June,Wednesday,2025,6,Medium,In Stock
+QC1888,2025-06-16,16:32,Pune,W4,P535,Snacks,Biscuits,146,2,16,Rahul,22,3.4,UPI,292,June,Monday,2025,6,Fast,Low Stock
+QC1889,2025-03-17,08:54,Chennai,W4,P238,Frozen,Frozen Peas,48,3,56,Vikram,24,3.1,WALLET,144,March,Monday,2025,3,Fast,In Stock
+QC1890,2025-04-24,19:07,Mumbai,W2,P426,Beverages,Energy Drink,209,3,38,Suresh,23,3.2,COD,627,April,Thursday,2025,4,Fast,In Stock
+QC1891,2025-03-06,08:35,Delhi,W2,P730,Frozen,Ice Cream,169,2,12,Aman,28,4.8,CARD,338,March,Thursday,2025,3,Fast,Low Stock
+QC1892,2025-04-21,17:53,Bangalore,W1,P610,Beverages,Juice,128,3,0,Ravi,22,3.6,CARD,384,April,Monday,2025,4,Fast,Low Stock
+QC1893,2025-01-27,21:19,Mumbai,W3,P363,Snacks,Nachos,214,4,35,Karthik,40,3.6,UPI,856,January,Monday,2025,1,Medium,In Stock
+QC1894,2025-01-05,14:53,Mumbai,W1,P248,Beverages,Energy Drink,115,5,11,Ravi,19,3.7,COD,575,January,Sunday,2025,1,Fast,Low Stock
+QC1895,2025-06-08,18:36,Delhi,W6,P326,Frozen,Ice Cream,136,3,8,Aman,42,4.6,UPI,408,June,Sunday,2025,6,Medium,Low Stock
+QC1896,2025-06-19,18:09,Bangalore,W1,P129,Fruits,Apple,170,5,40,Aman,27,3.9,UPI,850,June,Thursday,2025,6,Fast,In Stock
+QC1897,2025-04-13,13:36,Bangalore,W6,P650,Dairy,Butter,216,2,22,Vikram,38,4.1,WALLET,432,April,Sunday,2025,4,Medium,In Stock
+QC1898,2025-02-04,23:53,Bangalore,W1,P877,Beverages,Soft Drink,202,4,29,Rahul,47,3.7,UPI,808,February,Tuesday,2025,2,Medium,In Stock
+QC1899,2025-03-30,08:30,Pune,W3,P208,Beverages,Energy Drink,138,2,8,Sameer,12,3.4,WALLET,276,March,Sunday,2025,3,Fast,Low Stock
+QC1900,2025-01-17,21:45,Mumbai,W4,P687,Beverages,Soft Drink,68,4,47,Rahul,40,3.4,COD,272,January,Friday,2025,1,Medium,In Stock
+QC1901,2025-04-13,22:07,Bangalore,W6,P594,Frozen,Ice Cream,186,4,42,Aman,19,4.3,WALLET,744,April,Sunday,2025,4,Fast,In Stock
+QC1902,2025-04-20,08:48,Pune,W4,P931,Beverages,Juice,164,4,58,Rahul,33,4.7,COD,656,April,Sunday,2025,4,Medium,In Stock
+QC1903,2025-04-06,13:30,Chennai,W6,P727,Dairy,Butter,153,3,59,Suresh,21,3.6,CARD,459,April,Sunday,2025,4,Fast,In Stock
+QC1904,2025-05-02,09:14,Bangalore,W2,P156,Snacks,Potato Chips,154,3,31,Suresh,14,4.6,WALLET,462,May,Friday,2025,5,Fast,In Stock
+QC1905,2025-04-14,08:21,Delhi,W3,P314,Bakery,Buns,34,5,51,Aman,36,4.5,COD,170,April,Monday,2025,4,Medium,In Stock
+QC1906,2025-06-23,20:56,Chennai,W5,P917,Beverages,Energy Drink,195,4,15,Arjun,44,3.4,WALLET,780,June,Monday,2025,6,Medium,Low Stock
+QC1907,2025-01-29,23:17,Hyderabad,W5,P183,Fruits,Banana,69,2,60,Sameer,26,3.5,WALLET,138,January,Wednesday,2025,1,Fast,In Stock
+QC1908,2025-06-28,15:35,Delhi,W5,P429,Bakery,Buns,131,3,33,Suresh,46,4.8,COD,393,June,Saturday,2025,6,Medium,In Stock
+QC1909,2025-01-06,19:03,Hyderabad,W1,P361,Snacks,Potato Chips,186,5,33,Karthik,50,4.8,WALLET,930,January,Monday,2025,1,Medium,In Stock
+QC1910,2025-02-18,20:43,Delhi,W4,P715,Fruits,Orange,58,3,34,Vikram,13,4.7,WALLET,174,February,Tuesday,2025,2,Fast,In Stock
+QC1911,2025-03-21,08:20,Mumbai,W3,P209,Frozen,Ice Cream,143,1,2,Aman,50,4.5,WALLET,143,March,Friday,2025,3,Medium,Low Stock
+QC1912,2025-06-17,13:02,Chennai,W4,P494,Bakery,Bread,202,5,31,Sameer,36,4.6,CARD,1010,June,Tuesday,2025,6,Medium,In Stock
+QC1913,2025-01-18,13:20,Delhi,W5,P627,Snacks,Nachos,146,4,12,Suresh,25,4.1,COD,584,January,Saturday,2025,1,Fast,Low Stock
+QC1914,2025-06-08,15:01,Chennai,W6,P380,Fruits,Apple,135,1,48,Arjun,36,4.0,CARD,135,June,Sunday,2025,6,Medium,In Stock
+QC1915,2025-03-20,21:13,Delhi,W1,P902,Dairy,Milk 1L,250,4,53,Rahul,45,3.5,WALLET,1000,March,Thursday,2025,3,Medium,In Stock
+QC1916,2025-06-22,11:44,Pune,W4,P175,Bakery,Cake,155,2,47,Vikram,10,3.8,COD,310,June,Sunday,2025,6,Fast,In Stock
+QC1917,2025-01-25,21:52,Mumbai,W1,P325,Dairy,Curd,43,3,26,Karthik,16,4.5,CARD,129,January,Saturday,2025,1,Fast,In Stock
+QC1918,2025-05-04,15:37,Bangalore,W3,P721,Bakery,Buns,245,1,10,Ravi,17,4.2,WALLET,245,May,Sunday,2025,5,Fast,Low Stock
+QC1919,2025-01-15,12:06,Pune,W2,P786,Snacks,Biscuits,61,5,44,Sameer,36,3.9,UPI,305,January,Wednesday,2025,1,Medium,In Stock
+QC1920,2025-06-23,10:50,Hyderabad,W3,P446,Frozen,Ice Cream,54,5,4,Rahul,42,3.5,WALLET,270,June,Monday,2025,6,Medium,Low Stock
+QC1921,2025-04-01,12:38,Delhi,W6,P696,Bakery,Bread,209,4,14,Arjun,17,4.2,WALLET,836,April,Tuesday,2025,4,Fast,Low Stock
+QC1922,2025-04-25,18:18,Mumbai,W5,P979,Snacks,Potato Chips,249,1,43,Rahul,31,4.4,CARD,249,April,Friday,2025,4,Medium,In Stock
+QC1923,2025-06-29,23:56,Pune,W2,P985,Bakery,Cake,51,4,49,Aman,16,4.5,COD,204,June,Sunday,2025,6,Fast,In Stock
+QC1924,2025-01-15,10:06,Pune,W2,P441,Dairy,Milk 1L,228,3,59,Arjun,45,3.8,CARD,684,January,Wednesday,2025,1,Medium,In Stock
+QC1925,2025-05-07,21:32,Mumbai,W2,P506,Dairy,Curd,38,4,16,Ravi,19,3.3,UPI,152,May,Wednesday,2025,5,Fast,Low Stock
+QC1926,2025-04-15,18:52,Hyderabad,W1,P292,Frozen,Frozen Peas,220,2,52,Ravi,32,4.9,WALLET,440,April,Tuesday,2025,4,Medium,In Stock
+QC1927,2025-01-27,21:17,Bangalore,W4,P493,Snacks,Nachos,96,3,17,Aman,47,3.9,WALLET,288,January,Monday,2025,1,Medium,Low Stock
+QC1928,2025-06-30,22:51,Delhi,W5,P260,Frozen,Frozen Peas,123,2,13,Rahul,29,3.6,CARD,246,June,Monday,2025,6,Fast,Low Stock
+QC1929,2025-06-08,10:15,Bangalore,W2,P449,Bakery,Buns,179,2,0,Vikram,21,3.6,CARD,358,June,Sunday,2025,6,Fast,Low Stock
+QC1930,2025-01-11,22:37,Hyderabad,W5,P758,Fruits,Banana,156,2,59,Sameer,47,4.4,CARD,312,January,Saturday,2025,1,Medium,In Stock
+QC1931,2025-02-10,12:32,Bangalore,W3,P141,Snacks,Biscuits,212,5,25,Vikram,26,4.2,UPI,1060,February,Monday,2025,2,Fast,In Stock
+QC1932,2025-06-29,23:27,Hyderabad,W5,P317,Snacks,Nachos,178,3,40,Rahul,46,3.8,WALLET,534,June,Sunday,2025,6,Medium,In Stock
+QC1933,2025-01-01,11:43,Mumbai,W4,P439,Beverages,Energy Drink,48,2,34,Suresh,23,3.5,COD,96,January,Wednesday,2025,1,Fast,In Stock
+QC1934,2025-02-07,13:51,Mumbai,W6,P191,Snacks,Nachos,189,4,8,Karthik,38,4.4,CARD,756,February,Friday,2025,2,Medium,Low Stock
+QC1935,2025-05-15,16:07,Chennai,W2,P546,Frozen,Ice Cream,217,3,25,Arjun,13,3.7,UPI,651,May,Thursday,2025,5,Fast,In Stock
+QC1936,2025-05-19,15:22,Mumbai,W6,P572,Bakery,Cake,151,1,9,Suresh,17,3.4,CARD,151,May,Monday,2025,5,Fast,Low Stock
+QC1937,2025-06-14,17:31,Pune,W2,P299,Beverages,Juice,170,5,14,Aman,40,4.1,UPI,850,June,Saturday,2025,6,Medium,Low Stock
+QC1938,2025-01-06,14:47,Delhi,W2,P496,Bakery,Bread,182,3,17,Aman,24,3.0,COD,546,January,Monday,2025,1,Fast,Low Stock
+QC1939,2025-02-01,23:49,Mumbai,W4,P474,Fruits,Apple,191,3,26,Ravi,22,4.5,COD,573,February,Saturday,2025,2,Fast,In Stock
+QC1940,2025-04-27,10:09,Hyderabad,W3,P966,Snacks,Biscuits,61,2,4,Arjun,26,3.4,CARD,122,April,Sunday,2025,4,Fast,Low Stock
+QC1941,2025-05-02,14:09,Chennai,W6,P639,Frozen,Ice Cream,66,5,53,Arjun,15,4.2,WALLET,330,May,Friday,2025,5,Fast,In Stock
+QC1942,2025-04-02,12:53,Mumbai,W4,P436,Snacks,Nachos,227,3,39,Karthik,36,4.8,WALLET,681,April,Wednesday,2025,4,Medium,In Stock
+QC1943,2025-03-05,13:37,Pune,W2,P610,Beverages,Soft Drink,246,5,2,Sameer,19,4.0,WALLET,1230,March,Wednesday,2025,3,Fast,Low Stock
+QC1944,2025-05-23,14:03,Chennai,W4,P929,Dairy,Milk 1L,157,2,8,Aman,44,3.2,CARD,314,May,Friday,2025,5,Medium,Low Stock
+QC1945,2025-05-23,08:58,Mumbai,W6,P522,Snacks,Biscuits,78,2,1,Vikram,20,3.5,CARD,156,May,Friday,2025,5,Fast,Low Stock
+QC1946,2025-02-14,10:06,Pune,W6,P733,Bakery,Bread,228,3,38,Suresh,45,4.6,COD,684,February,Friday,2025,2,Medium,In Stock
+QC1947,2025-05-15,13:36,Delhi,W5,P508,Bakery,Bread,104,3,38,Suresh,15,4.9,CARD,312,May,Thursday,2025,5,Fast,In Stock
+QC1948,2025-05-06,17:52,Hyderabad,W5,P379,Fruits,Apple,150,1,50,Rahul,14,5.0,CARD,150,May,Tuesday,2025,5,Fast,In Stock
+QC1949,2025-04-17,14:05,Mumbai,W6,P149,Frozen,Frozen Peas,173,3,18,Vikram,11,3.6,CARD,519,April,Thursday,2025,4,Fast,Low Stock
+QC1950,2025-02-09,21:29,Pune,W6,P293,Fruits,Orange,140,1,38,Aman,48,4.6,UPI,140,February,Sunday,2025,2,Medium,In Stock
+QC1951,2025-01-06,11:54,Mumbai,W5,P557,Dairy,Milk 1L,128,1,48,Sameer,48,3.3,UPI,128,January,Monday,2025,1,Medium,In Stock
+QC1952,2025-03-12,11:10,Delhi,W3,P946,Fruits,Apple,245,5,36,Rahul,12,3.7,CARD,1225,March,Wednesday,2025,3,Fast,In Stock
+QC1953,2025-03-13,08:11,Mumbai,W5,P314,Frozen,Ice Cream,123,2,50,Rahul,37,4.4,COD,246,March,Thursday,2025,3,Medium,In Stock
+QC1954,2025-04-11,13:47,Pune,W3,P377,Beverages,Juice,167,2,8,Ravi,37,3.8,CARD,334,April,Friday,2025,4,Medium,Low Stock
+QC1955,2025-03-16,08:45,Bangalore,W5,P699,Snacks,Biscuits,87,4,49,Vikram,23,4.3,COD,348,March,Sunday,2025,3,Fast,In Stock
+QC1956,2025-01-25,16:41,Mumbai,W3,P712,Beverages,Soft Drink,77,3,52,Sameer,10,4.9,WALLET,231,January,Saturday,2025,1,Fast,In Stock
+QC1957,2025-03-30,10:15,Pune,W6,P410,Bakery,Cake,160,2,21,Sameer,42,3.0,COD,320,March,Sunday,2025,3,Medium,In Stock
+QC1958,2025-05-24,18:47,Pune,W2,P427,Dairy,Milk 1L,67,4,36,Suresh,15,3.8,UPI,268,May,Saturday,2025,5,Fast,In Stock
+QC1959,2025-02-11,19:27,Delhi,W5,P231,Bakery,Cake,104,3,55,Vikram,21,3.3,WALLET,312,February,Tuesday,2025,2,Fast,In Stock
+QC1960,2025-05-05,21:27,Bangalore,W3,P462,Fruits,Apple,238,1,53,Karthik,27,3.3,COD,238,May,Monday,2025,5,Fast,In Stock
+QC1961,2025-03-29,19:48,Hyderabad,W5,P160,Bakery,Cake,174,4,54,Vikram,34,4.6,COD,696,March,Saturday,2025,3,Medium,In Stock
+QC1962,2025-06-22,18:02,Mumbai,W4,P110,Frozen,Ice Cream,189,4,41,Suresh,25,3.4,WALLET,756,June,Sunday,2025,6,Fast,In Stock
+QC1963,2025-01-14,20:05,Bangalore,W6,P326,Dairy,Butter,192,2,49,Aman,39,3.0,CARD,384,January,Tuesday,2025,1,Medium,In Stock
+QC1964,2025-03-29,19:58,Bangalore,W5,P824,Fruits,Orange,185,3,33,Suresh,26,4.4,COD,555,March,Saturday,2025,3,Fast,In Stock
+QC1965,2025-05-25,11:10,Mumbai,W3,P282,Frozen,Frozen Peas,202,5,47,Sameer,36,3.4,WALLET,1010,May,Sunday,2025,5,Medium,In Stock
+QC1966,2025-03-17,22:34,Chennai,W1,P626,Fruits,Orange,219,5,27,Rahul,43,4.6,WALLET,1095,March,Monday,2025,3,Medium,In Stock
+QC1967,2025-01-23,18:34,Bangalore,W5,P762,Snacks,Nachos,40,1,11,Vikram,45,4.3,CARD,40,January,Thursday,2025,1,Medium,Low Stock
+QC1968,2025-04-24,10:04,Hyderabad,W2,P962,Bakery,Cake,195,3,44,Vikram,38,3.7,COD,585,April,Thursday,2025,4,Medium,In Stock
+QC1969,2025-02-21,19:56,Hyderabad,W4,P882,Frozen,Ice Cream,46,2,25,Sameer,49,3.8,UPI,92,February,Friday,2025,2,Medium,In Stock
+QC1970,2025-05-26,18:54,Chennai,W4,P649,Frozen,Frozen Peas,48,5,51,Ravi,41,3.7,WALLET,240,May,Monday,2025,5,Medium,In Stock
+QC1971,2025-06-15,12:23,Pune,W5,P197,Beverages,Energy Drink,120,4,39,Ravi,14,3.8,CARD,480,June,Sunday,2025,6,Fast,In Stock
+QC1972,2025-04-13,19:19,Delhi,W4,P331,Dairy,Milk 1L,239,4,18,Arjun,22,3.3,COD,956,April,Sunday,2025,4,Fast,Low Stock
+QC1973,2025-05-01,12:30,Bangalore,W4,P856,Frozen,Frozen Peas,135,2,54,Ravi,37,4.8,CARD,270,May,Thursday,2025,5,Medium,In Stock
+QC1974,2025-05-10,21:30,Hyderabad,W4,P380,Beverages,Energy Drink,90,1,4,Arjun,40,3.4,UPI,90,May,Saturday,2025,5,Medium,Low Stock
+QC1975,2025-02-21,10:42,Pune,W6,P151,Beverages,Energy Drink,108,1,43,Ravi,16,4.1,UPI,108,February,Friday,2025,2,Fast,In Stock
+QC1976,2025-06-25,19:17,Delhi,W1,P249,Frozen,Frozen Peas,187,2,39,Arjun,48,4.6,COD,374,June,Wednesday,2025,6,Medium,In Stock
+QC1977,2025-03-05,23:14,Chennai,W5,P463,Snacks,Biscuits,73,2,57,Sameer,15,3.3,CARD,146,March,Wednesday,2025,3,Fast,In Stock
+QC1978,2025-01-08,15:01,Mumbai,W5,P890,Bakery,Buns,107,3,51,Karthik,37,3.8,COD,321,January,Wednesday,2025,1,Medium,In Stock
+QC1979,2025-04-24,17:32,Pune,W1,P127,Beverages,Soft Drink,178,2,4,Sameer,37,4.1,UPI,356,April,Thursday,2025,4,Medium,Low Stock
+QC1980,2025-02-17,17:03,Bangalore,W4,P532,Frozen,Frozen Peas,39,1,60,Aman,34,4.7,COD,39,February,Monday,2025,2,Medium,In Stock
+QC1981,2025-05-07,19:47,Chennai,W6,P677,Frozen,Ice Cream,176,1,44,Karthik,27,4.5,CARD,176,May,Wednesday,2025,5,Fast,In Stock
+QC1982,2025-01-22,19:23,Bangalore,W5,P178,Snacks,Nachos,137,5,7,Vikram,20,3.8,CARD,685,January,Wednesday,2025,1,Fast,Low Stock
+QC1983,2025-01-26,08:44,Pune,W2,P556,Fruits,Apple,225,4,21,Aman,26,3.2,WALLET,900,January,Sunday,2025,1,Fast,In Stock
+QC1984,2025-05-12,20:02,Mumbai,W1,P217,Beverages,Energy Drink,73,3,1,Sameer,19,4.8,WALLET,219,May,Monday,2025,5,Fast,Low Stock
+QC1985,2025-01-18,23:31,Mumbai,W2,P107,Snacks,Potato Chips,122,5,20,Vikram,48,4.5,CARD,610,January,Saturday,2025,1,Medium,In Stock
+QC1986,2025-04-29,14:12,Mumbai,W3,P857,Frozen,Frozen Peas,236,2,0,Aman,50,3.3,CARD,472,April,Tuesday,2025,4,Medium,Low Stock
+QC1987,2025-03-16,14:28,Hyderabad,W5,P556,Beverages,Energy Drink,138,5,3,Rahul,13,3.6,CARD,690,March,Sunday,2025,3,Fast,Low Stock
+QC1988,2025-04-27,08:06,Delhi,W3,P790,Frozen,Frozen Peas,178,4,18,Karthik,44,3.7,UPI,712,April,Sunday,2025,4,Medium,Low Stock
+QC1989,2025-02-23,17:38,Hyderabad,W5,P589,Fruits,Apple,181,4,49,Arjun,43,4.0,CARD,724,February,Sunday,2025,2,Medium,In Stock
+QC1990,2025-02-09,17:28,Hyderabad,W3,P313,Beverages,Soft Drink,120,1,4,Vikram,18,3.1,WALLET,120,February,Sunday,2025,2,Fast,Low Stock
+QC1991,2025-04-12,18:36,Bangalore,W5,P579,Frozen,Frozen Peas,205,5,52,Sameer,43,3.1,CARD,1025,April,Saturday,2025,4,Medium,In Stock
+QC1992,2025-04-03,23:25,Chennai,W1,P494,Beverages,Soft Drink,185,3,52,Suresh,45,3.5,COD,555,April,Thursday,2025,4,Medium,In Stock
+QC1993,2025-02-08,13:46,Mumbai,W2,P865,Bakery,Buns,228,5,10,Karthik,10,3.5,UPI,1140,February,Saturday,2025,2,Fast,Low Stock
+QC1994,2025-03-22,16:12,Hyderabad,W3,P626,Bakery,Cake,170,5,20,Ravi,36,3.2,WALLET,850,March,Saturday,2025,3,Medium,In Stock
+QC1995,2025-05-31,09:28,Pune,W1,P653,Snacks,Biscuits,101,1,12,Rahul,46,3.2,WALLET,101,May,Saturday,2025,5,Medium,Low Stock
+QC1996,2025-06-28,21:59,Pune,W3,P514,Beverages,Juice,151,4,49,Aman,34,4.6,COD,604,June,Saturday,2025,6,Medium,In Stock
+QC1997,2025-02-06,10:51,Pune,W1,P475,Fruits,Banana,240,5,27,Arjun,21,4.6,COD,1200,February,Thursday,2025,2,Fast,In Stock
+QC1998,2025-05-02,15:57,Pune,W4,P387,Snacks,Nachos,216,4,1,Sameer,36,4.7,COD,864,May,Friday,2025,5,Medium,Low Stock
+QC1999,2025-03-23,11:39,Hyderabad,W1,P139,Bakery,Bread,126,3,41,Sameer,32,4.6,CARD,378,March,Sunday,2025,3,Medium,In Stock
+QC2000,2025-01-19,23:38,Mumbai,W4,P936,Snacks,Biscuits,147,5,45,Aman,40,4.8,WALLET,735,January,Sunday,2025,1,Medium,In Stock
+QC2001,2025-05-03,09:22,Chennai,W6,P437,Fruits,Orange,109,2,18,Arjun,38,4.0,WALLET,218,May,Saturday,2025,5,Medium,Low Stock
+QC2002,2025-01-25,09:58,Pune,W2,P264,Snacks,Potato Chips,216,3,58,Rahul,14,4.7,UPI,648,January,Saturday,2025,1,Fast,In Stock
+QC2003,2025-03-13,08:12,Pune,W3,P527,Frozen,Ice Cream,99,2,21,Arjun,47,4.5,WALLET,198,March,Thursday,2025,3,Medium,In Stock
+QC2004,2025-05-22,10:18,Chennai,W2,P755,Dairy,Curd,55,2,29,Ravi,21,4.9,WALLET,110,May,Thursday,2025,5,Fast,In Stock
+QC2005,2025-05-11,19:23,Pune,W2,P659,Frozen,Ice Cream,221,1,12,Sameer,50,3.7,COD,221,May,Sunday,2025,5,Medium,Low Stock
+QC2006,2025-05-11,16:12,Delhi,W5,P283,Dairy,Butter,118,5,21,Arjun,38,3.4,CARD,590,May,Sunday,2025,5,Medium,In Stock
+QC2007,2025-02-22,21:00,Delhi,W4,P986,Frozen,Frozen Peas,71,4,14,Sameer,33,3.0,COD,284,February,Saturday,2025,2,Medium,Low Stock
+QC2008,2025-03-04,19:26,Delhi,W4,P108,Frozen,Ice Cream,198,5,43,Karthik,12,4.1,UPI,990,March,Tuesday,2025,3,Fast,In Stock
+QC2009,2025-02-23,11:07,Pune,W3,P510,Fruits,Banana,228,4,58,Vikram,23,3.5,WALLET,912,February,Sunday,2025,2,Fast,In Stock
+QC2010,2025-03-19,17:16,Mumbai,W1,P223,Beverages,Energy Drink,243,1,11,Rahul,47,4.1,WALLET,243,March,Wednesday,2025,3,Medium,Low Stock
+QC2011,2025-04-22,20:25,Hyderabad,W5,P127,Snacks,Nachos,36,5,59,Rahul,25,4.2,UPI,180,April,Tuesday,2025,4,Fast,In Stock
+QC2012,2025-01-08,12:37,Bangalore,W1,P955,Fruits,Orange,197,3,10,Arjun,16,3.6,UPI,591,January,Wednesday,2025,1,Fast,Low Stock
+QC2013,2025-06-22,12:07,Bangalore,W5,P830,Snacks,Potato Chips,197,5,51,Aman,17,3.7,CARD,985,June,Sunday,2025,6,Fast,In Stock
+QC2014,2025-01-20,21:34,Delhi,W3,P423,Beverages,Energy Drink,89,1,30,Ravi,13,5.0,UPI,89,January,Monday,2025,1,Fast,In Stock
+QC2015,2025-01-01,14:34,Bangalore,W4,P780,Fruits,Banana,123,1,23,Karthik,17,4.1,UPI,123,January,Wednesday,2025,1,Fast,In Stock
+QC2016,2025-06-06,21:36,Hyderabad,W3,P499,Bakery,Bread,189,3,37,Sameer,46,4.3,WALLET,567,June,Friday,2025,6,Medium,In Stock
+QC2017,2025-03-16,13:29,Bangalore,W6,P503,Snacks,Nachos,196,1,49,Ravi,21,3.1,WALLET,196,March,Sunday,2025,3,Fast,In Stock
+QC2018,2025-02-28,14:11,Hyderabad,W4,P755,Beverages,Energy Drink,62,4,47,Sameer,38,3.3,COD,248,February,Friday,2025,2,Medium,In Stock
+QC2019,2025-06-25,18:28,Delhi,W5,P915,Bakery,Bread,115,2,6,Rahul,36,3.5,UPI,230,June,Wednesday,2025,6,Medium,Low Stock
+QC2020,2025-06-01,22:18,Pune,W6,P104,Fruits,Orange,117,3,58,Ravi,23,3.8,CARD,351,June,Sunday,2025,6,Fast,In Stock
+QC2021,2025-01-12,10:01,Chennai,W2,P736,Bakery,Bread,118,5,34,Sameer,47,4.9,UPI,590,January,Sunday,2025,1,Medium,In Stock
+QC2022,2025-01-02,19:01,Bangalore,W4,P975,Snacks,Potato Chips,225,4,38,Aman,39,4.5,UPI,900,January,Thursday,2025,1,Medium,In Stock
+QC2023,2025-03-22,12:30,Chennai,W6,P856,Fruits,Apple,74,1,16,Aman,44,4.4,COD,74,March,Saturday,2025,3,Medium,Low Stock
+QC2024,2025-05-12,16:23,Pune,W6,P948,Beverages,Energy Drink,133,2,6,Vikram,30,4.1,COD,266,May,Monday,2025,5,Medium,Low Stock
+QC2025,2025-01-09,16:49,Hyderabad,W2,P386,Snacks,Potato Chips,48,3,52,Sameer,41,3.6,CARD,144,January,Thursday,2025,1,Medium,In Stock
+QC2026,2025-01-01,19:16,Hyderabad,W6,P701,Dairy,Milk 1L,76,2,55,Sameer,17,4.4,COD,152,January,Wednesday,2025,1,Fast,In Stock
+QC2027,2025-02-22,19:23,Pune,W6,P653,Frozen,Frozen Peas,130,1,36,Vikram,23,3.3,UPI,130,February,Saturday,2025,2,Fast,In Stock
+QC2028,2025-06-02,22:01,Delhi,W6,P699,Fruits,Orange,122,1,34,Rahul,46,4.5,UPI,122,June,Monday,2025,6,Medium,In Stock
+QC2029,2025-01-07,22:23,Bangalore,W5,P687,Fruits,Banana,161,4,33,Rahul,38,4.1,UPI,644,January,Tuesday,2025,1,Medium,In Stock
+QC2030,2025-06-09,14:49,Hyderabad,W5,P140,Bakery,Cake,38,2,22,Suresh,33,3.9,CARD,76,June,Monday,2025,6,Medium,In Stock
+QC2031,2025-01-09,17:35,Delhi,W5,P705,Fruits,Banana,30,1,9,Karthik,36,4.6,WALLET,30,January,Thursday,2025,1,Medium,Low Stock
+QC2032,2025-05-21,21:30,Bangalore,W3,P508,Frozen,Ice Cream,155,3,42,Vikram,13,3.3,CARD,465,May,Wednesday,2025,5,Fast,In Stock
+QC2033,2025-05-19,22:10,Chennai,W2,P729,Bakery,Bread,49,4,23,Vikram,25,3.6,WALLET,196,May,Monday,2025,5,Fast,In Stock
+QC2034,2025-04-23,11:23,Chennai,W2,P139,Dairy,Butter,41,4,41,Sameer,21,3.0,UPI,164,April,Wednesday,2025,4,Fast,In Stock
+QC2035,2025-05-06,12:49,Delhi,W2,P824,Dairy,Curd,205,4,32,Aman,11,4.7,CARD,820,May,Tuesday,2025,5,Fast,In Stock
+QC2036,2025-05-06,13:49,Mumbai,W6,P260,Fruits,Banana,233,2,16,Aman,36,4.4,WALLET,466,May,Tuesday,2025,5,Medium,Low Stock
+QC2037,2025-03-08,08:14,Chennai,W2,P832,Bakery,Bread,43,4,55,Ravi,26,4.7,COD,172,March,Saturday,2025,3,Fast,In Stock
+QC2038,2025-01-25,18:52,Mumbai,W6,P844,Beverages,Energy Drink,115,2,60,Suresh,38,3.9,COD,230,January,Saturday,2025,1,Medium,In Stock
+QC2039,2025-02-09,12:23,Delhi,W5,P771,Frozen,Frozen Peas,71,2,51,Vikram,45,3.7,COD,142,February,Sunday,2025,2,Medium,In Stock
+QC2040,2025-05-08,11:43,Hyderabad,W3,P634,Bakery,Buns,195,3,0,Aman,26,3.7,WALLET,585,May,Thursday,2025,5,Fast,Low Stock
+QC2041,2025-01-29,23:52,Pune,W1,P514,Snacks,Potato Chips,92,5,50,Karthik,45,3.2,CARD,460,January,Wednesday,2025,1,Medium,In Stock
+QC2042,2025-05-08,20:51,Hyderabad,W3,P959,Frozen,Frozen Peas,107,4,2,Sameer,23,3.3,UPI,428,May,Thursday,2025,5,Fast,Low Stock
+QC2043,2025-05-01,09:23,Mumbai,W4,P419,Bakery,Buns,168,2,6,Ravi,21,3.2,UPI,336,May,Thursday,2025,5,Fast,Low Stock
+QC2044,2025-02-12,21:43,Pune,W3,P398,Snacks,Potato Chips,231,4,2,Aman,12,3.8,WALLET,924,February,Wednesday,2025,2,Fast,Low Stock
+QC2045,2025-06-04,17:17,Mumbai,W4,P422,Bakery,Bread,241,1,18,Karthik,44,4.3,UPI,241,June,Wednesday,2025,6,Medium,Low Stock
+QC2046,2025-04-24,14:52,Hyderabad,W2,P847,Bakery,Buns,68,2,21,Arjun,10,3.6,UPI,136,April,Thursday,2025,4,Fast,In Stock
+QC2047,2025-01-06,20:37,Bangalore,W1,P808,Bakery,Cake,160,3,24,Karthik,26,4.2,COD,480,January,Monday,2025,1,Fast,In Stock
+QC2048,2025-04-07,19:47,Hyderabad,W5,P467,Bakery,Bread,197,3,9,Rahul,12,4.1,COD,591,April,Monday,2025,4,Fast,Low Stock
+QC2049,2025-04-25,13:58,Chennai,W4,P845,Beverages,Soft Drink,186,5,53,Rahul,10,3.7,CARD,930,April,Friday,2025,4,Fast,In Stock
+QC2050,2025-03-22,12:15,Chennai,W5,P287,Fruits,Orange,36,5,25,Suresh,48,4.7,COD,180,March,Saturday,2025,3,Medium,In Stock
+QC2051,2025-02-08,09:42,Mumbai,W2,P428,Frozen,Ice Cream,170,1,55,Karthik,41,4.8,WALLET,170,February,Saturday,2025,2,Medium,In Stock
+QC2052,2025-06-22,20:49,Pune,W4,P214,Fruits,Banana,95,3,19,Rahul,26,4.4,UPI,285,June,Sunday,2025,6,Fast,Low Stock
+QC2053,2025-04-30,23:34,Pune,W3,P371,Beverages,Energy Drink,155,2,50,Suresh,41,4.0,COD,310,April,Wednesday,2025,4,Medium,In Stock
+QC2054,2025-02-26,22:51,Mumbai,W1,P968,Fruits,Banana,69,1,20,Aman,41,3.6,CARD,69,February,Wednesday,2025,2,Medium,In Stock
+QC2055,2025-03-11,09:17,Delhi,W1,P576,Bakery,Buns,232,3,14,Vikram,20,4.7,CARD,696,March,Tuesday,2025,3,Fast,Low Stock
+QC2056,2025-01-01,20:40,Hyderabad,W6,P444,Beverages,Energy Drink,229,2,57,Sameer,28,4.3,WALLET,458,January,Wednesday,2025,1,Fast,In Stock
+QC2057,2025-01-17,21:37,Mumbai,W1,P821,Bakery,Buns,96,2,14,Aman,26,3.1,UPI,192,January,Friday,2025,1,Fast,Low Stock
+QC2058,2025-04-26,13:20,Delhi,W2,P338,Beverages,Juice,175,1,59,Ravi,16,3.0,CARD,175,April,Saturday,2025,4,Fast,In Stock
+QC2059,2025-02-27,15:02,Chennai,W3,P410,Beverages,Soft Drink,105,1,48,Rahul,20,3.9,WALLET,105,February,Thursday,2025,2,Fast,In Stock
+QC2060,2025-04-10,20:47,Chennai,W2,P187,Dairy,Butter,214,4,0,Suresh,37,5.0,WALLET,856,April,Thursday,2025,4,Medium,Low Stock
+QC2061,2025-02-20,08:22,Bangalore,W3,P369,Frozen,Ice Cream,150,2,32,Sameer,30,3.9,WALLET,300,February,Thursday,2025,2,Medium,In Stock
+QC2062,2025-04-25,22:52,Pune,W3,P440,Dairy,Butter,131,3,23,Sameer,16,3.6,WALLET,393,April,Friday,2025,4,Fast,In Stock
+QC2063,2025-05-07,10:13,Hyderabad,W6,P593,Fruits,Banana,152,5,11,Arjun,12,4.9,WALLET,760,May,Wednesday,2025,5,Fast,Low Stock
+QC2064,2025-06-11,21:51,Chennai,W1,P222,Bakery,Bread,97,4,52,Sameer,26,3.8,COD,388,June,Wednesday,2025,6,Fast,In Stock
+QC2065,2025-05-03,09:57,Bangalore,W1,P355,Fruits,Banana,99,2,6,Ravi,26,4.1,UPI,198,May,Saturday,2025,5,Fast,Low Stock
+QC2066,2025-01-27,11:02,Chennai,W2,P120,Dairy,Butter,175,3,33,Aman,40,3.6,UPI,525,January,Monday,2025,1,Medium,In Stock
+QC2067,2025-02-03,11:06,Delhi,W6,P615,Fruits,Apple,136,3,28,Sameer,28,4.1,WALLET,408,February,Monday,2025,2,Fast,In Stock
+QC2068,2025-03-20,18:05,Chennai,W3,P595,Bakery,Bread,213,3,21,Sameer,19,4.1,COD,639,March,Thursday,2025,3,Fast,In Stock
+QC2069,2025-04-22,18:00,Chennai,W3,P337,Beverages,Energy Drink,90,5,21,Ravi,20,3.1,UPI,450,April,Tuesday,2025,4,Fast,In Stock
+QC2070,2025-01-30,09:04,Bangalore,W6,P894,Fruits,Apple,231,5,45,Aman,32,4.0,CARD,1155,January,Thursday,2025,1,Medium,In Stock
+QC2071,2025-05-18,09:11,Pune,W3,P437,Snacks,Potato Chips,230,4,10,Sameer,37,3.5,UPI,920,May,Sunday,2025,5,Medium,Low Stock
+QC2072,2025-01-01,12:22,Pune,W5,P112,Bakery,Cake,137,1,33,Karthik,19,4.7,CARD,137,January,Wednesday,2025,1,Fast,In Stock
+QC2073,2025-04-01,08:24,Mumbai,W1,P875,Fruits,Banana,188,3,1,Suresh,23,3.3,WALLET,564,April,Tuesday,2025,4,Fast,Low Stock
+QC2074,2025-05-26,16:01,Mumbai,W5,P826,Snacks,Biscuits,220,4,18,Ravi,35,3.1,COD,880,May,Monday,2025,5,Medium,Low Stock
+QC2075,2025-03-31,20:40,Bangalore,W6,P542,Bakery,Bread,244,3,31,Karthik,37,3.4,WALLET,732,March,Monday,2025,3,Medium,In Stock
+QC2076,2025-01-26,18:51,Chennai,W6,P132,Snacks,Nachos,209,5,9,Arjun,39,3.2,UPI,1045,January,Sunday,2025,1,Medium,Low Stock
+QC2077,2025-06-27,13:01,Bangalore,W1,P943,Snacks,Potato Chips,191,4,27,Vikram,15,5.0,UPI,764,June,Friday,2025,6,Fast,In Stock
+QC2078,2025-02-08,15:10,Delhi,W2,P443,Beverages,Juice,219,3,16,Sameer,46,3.0,COD,657,February,Saturday,2025,2,Medium,Low Stock
+QC2079,2025-03-15,13:03,Delhi,W2,P717,Frozen,Ice Cream,149,5,45,Ravi,15,3.6,UPI,745,March,Saturday,2025,3,Fast,In Stock
+QC2080,2025-05-30,22:57,Delhi,W2,P828,Fruits,Apple,81,1,0,Karthik,48,4.2,WALLET,81,May,Friday,2025,5,Medium,Low Stock
+QC2081,2025-05-25,10:31,Bangalore,W1,P716,Beverages,Energy Drink,99,2,34,Karthik,27,4.6,UPI,198,May,Sunday,2025,5,Fast,In Stock
+QC2082,2025-04-06,23:41,Mumbai,W5,P361,Bakery,Bread,99,3,0,Vikram,21,4.7,WALLET,297,April,Sunday,2025,4,Fast,Low Stock
+QC2083,2025-03-14,14:18,Pune,W4,P527,Fruits,Apple,32,2,37,Aman,23,4.7,CARD,64,March,Friday,2025,3,Fast,In Stock
+QC2084,2025-05-15,12:40,Delhi,W1,P252,Dairy,Milk 1L,194,2,16,Suresh,45,4.7,COD,388,May,Thursday,2025,5,Medium,Low Stock
+QC2085,2025-06-15,11:45,Mumbai,W5,P859,Bakery,Bread,51,3,58,Sameer,35,3.2,UPI,153,June,Sunday,2025,6,Medium,In Stock
+QC2086,2025-06-11,09:43,Hyderabad,W4,P522,Dairy,Curd,84,1,43,Vikram,20,4.7,UPI,84,June,Wednesday,2025,6,Fast,In Stock
+QC2087,2025-03-07,08:47,Chennai,W1,P562,Dairy,Curd,131,5,10,Ravi,10,3.4,COD,655,March,Friday,2025,3,Fast,Low Stock
+QC2088,2025-05-21,13:07,Delhi,W4,P609,Frozen,Ice Cream,79,1,6,Rahul,16,4.7,WALLET,79,May,Wednesday,2025,5,Fast,Low Stock
+QC2089,2025-03-08,16:38,Mumbai,W5,P765,Snacks,Nachos,212,3,43,Arjun,29,4.4,UPI,636,March,Saturday,2025,3,Fast,In Stock
+QC2090,2025-06-26,10:32,Mumbai,W3,P787,Fruits,Orange,39,1,47,Arjun,35,4.5,UPI,39,June,Thursday,2025,6,Medium,In Stock
+QC2091,2025-02-07,11:53,Delhi,W2,P353,Fruits,Banana,220,3,31,Vikram,34,3.1,WALLET,660,February,Friday,2025,2,Medium,In Stock
+QC2092,2025-06-13,12:34,Hyderabad,W4,P824,Beverages,Soft Drink,56,3,5,Aman,29,4.3,WALLET,168,June,Friday,2025,6,Fast,Low Stock
+QC2093,2025-06-16,22:33,Chennai,W6,P921,Dairy,Milk 1L,72,3,41,Karthik,23,3.2,COD,216,June,Monday,2025,6,Fast,In Stock
+QC2094,2025-06-01,20:39,Pune,W5,P455,Bakery,Bread,91,4,14,Aman,24,3.2,WALLET,364,June,Sunday,2025,6,Fast,Low Stock
+QC2095,2025-03-19,12:54,Chennai,W6,P172,Dairy,Milk 1L,81,4,2,Suresh,48,3.4,COD,324,March,Wednesday,2025,3,Medium,Low Stock
+QC2096,2025-04-03,09:52,Hyderabad,W1,P499,Fruits,Banana,134,3,40,Sameer,12,3.1,WALLET,402,April,Thursday,2025,4,Fast,In Stock
+QC2097,2025-05-25,17:38,Delhi,W2,P195,Beverages,Soft Drink,94,2,39,Ravi,20,3.2,UPI,188,May,Sunday,2025,5,Fast,In Stock
+QC2098,2025-03-05,08:21,Pune,W1,P904,Fruits,Orange,84,1,11,Karthik,22,4.1,COD,84,March,Wednesday,2025,3,Fast,Low Stock
+QC2099,2025-05-19,17:51,Hyderabad,W5,P938,Frozen,Ice Cream,180,1,10,Rahul,47,3.6,UPI,180,May,Monday,2025,5,Medium,Low Stock
+QC2100,2025-02-10,10:39,Chennai,W5,P570,Fruits,Orange,53,4,28,Karthik,14,4.8,CARD,212,February,Monday,2025,2,Fast,In Stock
+QC2101,2025-02-12,20:02,Delhi,W2,P581,Bakery,Cake,171,1,27,Ravi,14,3.5,WALLET,171,February,Wednesday,2025,2,Fast,In Stock
+QC2102,2025-02-02,23:45,Pune,W3,P693,Fruits,Orange,65,3,28,Ravi,45,4.4,COD,195,February,Sunday,2025,2,Medium,In Stock
+QC2103,2025-05-10,08:05,Chennai,W1,P294,Fruits,Apple,178,1,46,Aman,16,4.7,WALLET,178,May,Saturday,2025,5,Fast,In Stock
+QC2104,2025-06-11,13:19,Hyderabad,W5,P799,Bakery,Cake,108,4,23,Aman,31,3.9,WALLET,432,June,Wednesday,2025,6,Medium,In Stock
+QC2105,2025-01-05,08:25,Hyderabad,W4,P171,Snacks,Biscuits,190,5,15,Aman,23,3.5,WALLET,950,January,Sunday,2025,1,Fast,Low Stock
+QC2106,2025-02-22,22:54,Pune,W1,P953,Frozen,Ice Cream,163,4,44,Sameer,47,4.9,WALLET,652,February,Saturday,2025,2,Medium,In Stock
+QC2107,2025-06-23,18:01,Chennai,W6,P125,Bakery,Buns,93,1,5,Ravi,24,4.0,CARD,93,June,Monday,2025,6,Fast,Low Stock
+QC2108,2025-05-03,10:36,Hyderabad,W5,P527,Beverages,Juice,239,1,55,Suresh,11,3.2,COD,239,May,Saturday,2025,5,Fast,In Stock
+QC2109,2025-04-03,22:17,Hyderabad,W4,P455,Beverages,Soft Drink,39,2,9,Ravi,40,3.0,COD,78,April,Thursday,2025,4,Medium,Low Stock
+QC2110,2025-03-29,18:26,Hyderabad,W6,P941,Beverages,Energy Drink,175,1,58,Karthik,23,4.2,WALLET,175,March,Saturday,2025,3,Fast,In Stock
+QC2111,2025-05-09,18:01,Delhi,W1,P654,Bakery,Cake,141,2,16,Rahul,25,4.3,CARD,282,May,Friday,2025,5,Fast,Low Stock
+QC2112,2025-01-02,13:17,Pune,W6,P325,Fruits,Apple,167,3,54,Arjun,18,3.6,WALLET,501,January,Thursday,2025,1,Fast,In Stock
+QC2113,2025-03-01,22:59,Delhi,W5,P268,Dairy,Milk 1L,185,5,46,Ravi,25,3.2,CARD,925,March,Saturday,2025,3,Fast,In Stock
+QC2114,2025-01-19,08:40,Chennai,W3,P801,Frozen,Ice Cream,93,1,9,Aman,37,3.4,CARD,93,January,Sunday,2025,1,Medium,Low Stock
+QC2115,2025-03-15,23:31,Chennai,W4,P591,Fruits,Apple,242,5,9,Aman,13,4.1,CARD,1210,March,Saturday,2025,3,Fast,Low Stock
+QC2116,2025-06-18,22:30,Chennai,W1,P790,Beverages,Soft Drink,93,1,51,Sameer,46,4.9,COD,93,June,Wednesday,2025,6,Medium,In Stock
+QC2117,2025-02-13,15:58,Bangalore,W3,P832,Fruits,Banana,162,1,14,Sameer,45,3.6,CARD,162,February,Thursday,2025,2,Medium,Low Stock
+QC2118,2025-01-14,15:15,Bangalore,W6,P417,Bakery,Buns,176,5,15,Arjun,40,3.4,COD,880,January,Tuesday,2025,1,Medium,Low Stock
+QC2119,2025-03-22,08:55,Bangalore,W3,P345,Dairy,Milk 1L,50,2,18,Karthik,13,3.7,CARD,100,March,Saturday,2025,3,Fast,Low Stock
+QC2120,2025-06-25,11:56,Mumbai,W1,P646,Fruits,Banana,96,1,8,Vikram,21,4.4,CARD,96,June,Wednesday,2025,6,Fast,Low Stock
+QC2121,2025-01-21,21:07,Bangalore,W6,P736,Snacks,Biscuits,85,2,27,Ravi,31,3.5,COD,170,January,Tuesday,2025,1,Medium,In Stock
+QC2122,2025-04-20,19:18,Bangalore,W6,P785,Bakery,Cake,220,3,31,Karthik,13,3.2,COD,660,April,Sunday,2025,4,Fast,In Stock
+QC2123,2025-05-19,13:37,Pune,W2,P213,Snacks,Potato Chips,235,2,58,Sameer,50,4.2,CARD,470,May,Monday,2025,5,Medium,In Stock
+QC2124,2025-04-05,12:38,Hyderabad,W1,P124,Beverages,Energy Drink,171,1,44,Rahul,35,4.4,CARD,171,April,Saturday,2025,4,Medium,In Stock
+QC2125,2025-01-29,11:25,Hyderabad,W5,P280,Bakery,Buns,135,1,0,Aman,35,4.7,WALLET,135,January,Wednesday,2025,1,Medium,Low Stock
+QC2126,2025-06-30,23:03,Bangalore,W4,P116,Bakery,Bread,87,1,47,Aman,44,3.9,CARD,87,June,Monday,2025,6,Medium,In Stock
+QC2127,2025-01-17,22:03,Hyderabad,W4,P960,Bakery,Buns,56,5,42,Arjun,50,4.5,COD,280,January,Friday,2025,1,Medium,In Stock
+QC2128,2025-06-10,22:05,Delhi,W4,P157,Dairy,Milk 1L,241,4,14,Suresh,29,4.2,UPI,964,June,Tuesday,2025,6,Fast,Low Stock
+QC2129,2025-04-13,19:17,Delhi,W6,P875,Bakery,Cake,181,3,26,Karthik,28,4.4,UPI,543,April,Sunday,2025,4,Fast,In Stock
+QC2130,2025-03-29,23:35,Mumbai,W6,P588,Fruits,Orange,51,1,58,Rahul,30,3.1,COD,51,March,Saturday,2025,3,Medium,In Stock
+QC2131,2025-01-05,21:46,Hyderabad,W1,P534,Bakery,Cake,66,2,32,Aman,43,3.4,WALLET,132,January,Sunday,2025,1,Medium,In Stock
+QC2132,2025-02-26,23:08,Bangalore,W4,P466,Snacks,Potato Chips,59,3,35,Sameer,38,4.4,WALLET,177,February,Wednesday,2025,2,Medium,In Stock
+QC2133,2025-01-11,12:15,Delhi,W6,P941,Beverages,Juice,123,4,9,Karthik,33,4.7,UPI,492,January,Saturday,2025,1,Medium,Low Stock
+QC2134,2025-03-04,10:03,Mumbai,W1,P193,Frozen,Ice Cream,125,3,46,Aman,45,4.5,COD,375,March,Tuesday,2025,3,Medium,In Stock
+QC2135,2025-03-15,08:58,Pune,W6,P786,Beverages,Soft Drink,97,1,46,Arjun,44,3.3,CARD,97,March,Saturday,2025,3,Medium,In Stock
+QC2136,2025-04-26,20:56,Mumbai,W6,P823,Bakery,Bread,126,1,47,Ravi,45,4.0,COD,126,April,Saturday,2025,4,Medium,In Stock
+QC2137,2025-03-29,18:44,Hyderabad,W4,P624,Snacks,Biscuits,128,1,54,Vikram,44,3.9,COD,128,March,Saturday,2025,3,Medium,In Stock
+QC2138,2025-05-31,10:47,Delhi,W5,P479,Beverages,Energy Drink,72,3,35,Suresh,13,3.7,CARD,216,May,Saturday,2025,5,Fast,In Stock
+QC2139,2025-02-21,17:02,Mumbai,W6,P854,Frozen,Ice Cream,165,2,38,Suresh,12,3.5,UPI,330,February,Friday,2025,2,Fast,In Stock
+QC2140,2025-01-04,21:43,Mumbai,W5,P488,Snacks,Nachos,160,4,3,Rahul,44,3.2,UPI,640,January,Saturday,2025,1,Medium,Low Stock
+QC2141,2025-02-19,16:42,Chennai,W4,P766,Fruits,Orange,231,5,23,Suresh,10,4.5,UPI,1155,February,Wednesday,2025,2,Fast,In Stock
+QC2142,2025-04-05,21:21,Mumbai,W6,P258,Dairy,Butter,153,5,54,Vikram,44,3.1,COD,765,April,Saturday,2025,4,Medium,In Stock
+QC2143,2025-02-26,18:22,Hyderabad,W3,P367,Snacks,Biscuits,78,2,54,Karthik,21,3.5,UPI,156,February,Wednesday,2025,2,Fast,In Stock
+QC2144,2025-04-14,14:07,Chennai,W6,P369,Beverages,Soft Drink,221,3,44,Suresh,29,4.8,CARD,663,April,Monday,2025,4,Fast,In Stock
+QC2145,2025-04-08,11:05,Chennai,W6,P312,Frozen,Frozen Peas,214,2,54,Aman,49,4.1,COD,428,April,Tuesday,2025,4,Medium,In Stock
+QC2146,2025-05-06,17:55,Bangalore,W4,P494,Beverages,Energy Drink,135,4,53,Arjun,31,3.4,CARD,540,May,Tuesday,2025,5,Medium,In Stock
+QC2147,2025-06-17,19:32,Delhi,W2,P303,Beverages,Energy Drink,164,2,37,Suresh,50,3.7,UPI,328,June,Tuesday,2025,6,Medium,In Stock
+QC2148,2025-05-13,09:41,Hyderabad,W2,P743,Snacks,Biscuits,188,2,10,Rahul,25,3.6,CARD,376,May,Tuesday,2025,5,Fast,Low Stock
+QC2149,2025-01-16,12:29,Delhi,W5,P634,Frozen,Ice Cream,187,5,21,Ravi,45,3.5,UPI,935,January,Thursday,2025,1,Medium,In Stock
+QC2150,2025-05-02,20:01,Pune,W3,P557,Frozen,Ice Cream,175,5,23,Karthik,22,3.5,UPI,875,May,Friday,2025,5,Fast,In Stock
+QC2151,2025-02-12,11:21,Chennai,W1,P717,Beverages,Energy Drink,225,2,30,Arjun,11,3.2,COD,450,February,Wednesday,2025,2,Fast,In Stock
+QC2152,2025-02-24,15:53,Hyderabad,W3,P384,Fruits,Banana,119,3,33,Sameer,32,4.5,CARD,357,February,Monday,2025,2,Medium,In Stock
+QC2153,2025-04-25,21:21,Delhi,W2,P582,Frozen,Frozen Peas,88,4,59,Vikram,31,4.7,WALLET,352,April,Friday,2025,4,Medium,In Stock
+QC2154,2025-03-27,20:21,Chennai,W3,P701,Frozen,Ice Cream,56,1,1,Karthik,26,3.4,COD,56,March,Thursday,2025,3,Fast,Low Stock
+QC2155,2025-02-03,08:56,Delhi,W4,P373,Snacks,Nachos,72,2,31,Suresh,25,4.5,COD,144,February,Monday,2025,2,Fast,In Stock
+QC2156,2025-03-30,20:41,Chennai,W2,P705,Frozen,Ice Cream,193,1,52,Aman,38,3.6,CARD,193,March,Sunday,2025,3,Medium,In Stock
+QC2157,2025-04-02,10:18,Pune,W5,P791,Snacks,Potato Chips,235,2,16,Arjun,50,3.1,UPI,470,April,Wednesday,2025,4,Medium,Low Stock
+QC2158,2025-04-12,09:15,Delhi,W4,P684,Bakery,Cake,94,2,19,Ravi,27,4.8,WALLET,188,April,Saturday,2025,4,Fast,Low Stock
+QC2159,2025-01-09,11:59,Delhi,W3,P626,Snacks,Potato Chips,84,1,39,Karthik,41,4.8,UPI,84,January,Thursday,2025,1,Medium,In Stock
+QC2160,2025-04-15,17:52,Hyderabad,W4,P439,Dairy,Butter,235,3,37,Rahul,39,3.6,CARD,705,April,Tuesday,2025,4,Medium,In Stock
+QC2161,2025-06-11,23:50,Mumbai,W1,P545,Fruits,Apple,78,5,52,Ravi,45,4.7,UPI,390,June,Wednesday,2025,6,Medium,In Stock
+QC2162,2025-03-14,23:22,Delhi,W1,P189,Fruits,Banana,216,5,32,Arjun,44,3.6,CARD,1080,March,Friday,2025,3,Medium,In Stock
+QC2163,2025-06-23,22:02,Bangalore,W1,P873,Snacks,Biscuits,151,2,29,Ravi,23,3.8,WALLET,302,June,Monday,2025,6,Fast,In Stock
+QC2164,2025-01-01,21:42,Bangalore,W5,P832,Bakery,Cake,172,1,19,Vikram,29,4.4,CARD,172,January,Wednesday,2025,1,Fast,Low Stock
+QC2165,2025-02-01,21:34,Hyderabad,W4,P583,Snacks,Nachos,185,4,22,Suresh,12,4.4,COD,740,February,Saturday,2025,2,Fast,In Stock
+QC2166,2025-03-23,11:22,Bangalore,W2,P846,Snacks,Potato Chips,149,4,53,Arjun,31,3.1,CARD,596,March,Sunday,2025,3,Medium,In Stock
+QC2167,2025-02-28,22:07,Pune,W6,P870,Beverages,Energy Drink,225,4,47,Arjun,21,3.6,WALLET,900,February,Friday,2025,2,Fast,In Stock
+QC2168,2025-04-19,08:26,Hyderabad,W3,P696,Dairy,Butter,212,3,33,Rahul,16,4.8,COD,636,April,Saturday,2025,4,Fast,In Stock
+QC2169,2025-05-14,11:45,Chennai,W1,P231,Beverages,Energy Drink,179,1,34,Vikram,38,4.8,WALLET,179,May,Wednesday,2025,5,Medium,In Stock
+QC2170,2025-03-13,10:53,Bangalore,W5,P832,Bakery,Cake,172,5,60,Sameer,39,4.8,WALLET,860,March,Thursday,2025,3,Medium,In Stock
+QC2171,2025-04-27,23:22,Delhi,W4,P350,Snacks,Potato Chips,37,4,33,Sameer,27,4.9,WALLET,148,April,Sunday,2025,4,Fast,In Stock
+QC2172,2025-05-28,11:01,Hyderabad,W5,P958,Beverages,Soft Drink,105,1,46,Aman,31,3.5,COD,105,May,Wednesday,2025,5,Medium,In Stock
+QC2173,2025-01-14,13:08,Mumbai,W3,P520,Dairy,Butter,204,4,41,Karthik,38,4.4,CARD,816,January,Tuesday,2025,1,Medium,In Stock
+QC2174,2025-03-24,13:17,Chennai,W5,P421,Beverages,Soft Drink,204,3,7,Karthik,36,4.3,COD,612,March,Monday,2025,3,Medium,Low Stock
+QC2175,2025-03-08,22:59,Chennai,W4,P477,Bakery,Bread,58,1,52,Aman,22,4.0,UPI,58,March,Saturday,2025,3,Fast,In Stock
+QC2176,2025-01-25,20:11,Hyderabad,W5,P273,Fruits,Apple,51,2,4,Vikram,10,3.2,COD,102,January,Saturday,2025,1,Fast,Low Stock
+QC2177,2025-01-25,08:09,Mumbai,W1,P552,Dairy,Milk 1L,143,2,11,Suresh,38,4.2,UPI,286,January,Saturday,2025,1,Medium,Low Stock
+QC2178,2025-02-09,17:02,Hyderabad,W5,P733,Bakery,Buns,104,3,36,Sameer,47,3.6,CARD,312,February,Sunday,2025,2,Medium,In Stock
+QC2179,2025-01-17,08:02,Hyderabad,W1,P813,Snacks,Nachos,181,3,48,Vikram,28,4.5,WALLET,543,January,Friday,2025,1,Fast,In Stock
+QC2180,2025-01-18,14:33,Chennai,W4,P414,Frozen,Frozen Peas,175,4,33,Karthik,33,4.2,UPI,700,January,Saturday,2025,1,Medium,In Stock
+QC2181,2025-05-09,22:10,Chennai,W3,P798,Fruits,Banana,39,2,11,Aman,49,4.6,COD,78,May,Friday,2025,5,Medium,Low Stock
+QC2182,2025-04-30,08:01,Bangalore,W2,P250,Dairy,Curd,60,5,23,Arjun,10,4.4,WALLET,300,April,Wednesday,2025,4,Fast,In Stock
+QC2183,2025-02-18,11:21,Bangalore,W5,P280,Dairy,Curd,76,2,24,Arjun,25,3.6,CARD,152,February,Tuesday,2025,2,Fast,In Stock
+QC2184,2025-02-09,21:04,Pune,W6,P233,Fruits,Banana,50,5,37,Aman,45,4.0,CARD,250,February,Sunday,2025,2,Medium,In Stock
+QC2185,2025-01-10,09:58,Chennai,W3,P816,Snacks,Potato Chips,94,5,34,Arjun,21,3.6,CARD,470,January,Friday,2025,1,Fast,In Stock
+QC2186,2025-04-01,08:53,Delhi,W5,P123,Dairy,Milk 1L,112,1,29,Aman,12,3.4,WALLET,112,April,Tuesday,2025,4,Fast,In Stock
+QC2187,2025-01-10,13:25,Chennai,W2,P777,Frozen,Frozen Peas,138,4,0,Karthik,23,4.4,WALLET,552,January,Friday,2025,1,Fast,Low Stock
+QC2188,2025-04-11,20:10,Pune,W3,P899,Frozen,Frozen Peas,140,1,12,Vikram,11,5.0,CARD,140,April,Friday,2025,4,Fast,Low Stock
+QC2189,2025-05-08,17:05,Chennai,W2,P423,Dairy,Butter,33,4,46,Sameer,29,4.9,COD,132,May,Thursday,2025,5,Fast,In Stock
+QC2190,2025-06-19,20:55,Pune,W2,P985,Fruits,Banana,101,1,2,Suresh,30,4.4,CARD,101,June,Thursday,2025,6,Medium,Low Stock
+QC2191,2025-05-10,19:50,Delhi,W2,P342,Bakery,Bread,232,4,22,Sameer,41,4.6,COD,928,May,Saturday,2025,5,Medium,In Stock
+QC2192,2025-06-01,13:57,Delhi,W3,P679,Bakery,Cake,239,5,35,Ravi,43,4.4,COD,1195,June,Sunday,2025,6,Medium,In Stock
+QC2193,2025-05-01,17:13,Hyderabad,W5,P326,Beverages,Energy Drink,246,4,54,Ravi,49,4.0,WALLET,984,May,Thursday,2025,5,Medium,In Stock
+QC2194,2025-05-16,19:12,Pune,W1,P378,Bakery,Cake,237,2,43,Arjun,40,4.0,UPI,474,May,Friday,2025,5,Medium,In Stock
+QC2195,2025-02-18,15:39,Chennai,W1,P898,Bakery,Buns,154,3,15,Ravi,29,4.3,WALLET,462,February,Tuesday,2025,2,Fast,Low Stock
+QC2196,2025-01-31,12:34,Bangalore,W2,P174,Bakery,Cake,214,5,45,Rahul,50,4.5,UPI,1070,January,Friday,2025,1,Medium,In Stock
+QC2197,2025-06-02,16:18,Bangalore,W2,P876,Fruits,Orange,131,3,0,Rahul,45,4.0,COD,393,June,Monday,2025,6,Medium,Low Stock
+QC2198,2025-03-05,23:43,Bangalore,W2,P377,Fruits,Apple,239,3,54,Arjun,15,3.9,UPI,717,March,Wednesday,2025,3,Fast,In Stock
+QC2199,2025-03-19,18:00,Mumbai,W6,P156,Frozen,Ice Cream,186,4,51,Vikram,49,4.3,CARD,744,March,Wednesday,2025,3,Medium,In Stock
